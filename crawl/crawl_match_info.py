@@ -1,5 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
+import csv
 
 
 def get_match_info(soup, matchId):
@@ -43,34 +44,35 @@ def get_match_event(soup, matchId, teamName, id):
     team_events = soup.find_all('ul', class_ = 'ul-live')
     events = team_events[id].find_all('li')
     for event in events:
-        #<li>Teun Koopmeiners (Thay: Marten De Roon)<span class="ic-the"><img src="/images/icons/substitution.png">46</span></li>
         time = event.find('span').text
         type_event = event.find('img')['src'].split('/')[3].split('.')[0] #<img src="/images/icons/yellow_card.png"
         content = event.text.replace(time, '').split('(')
         
         if content[0] != '':
+        #<li>Teun Koopmeiners (Thay: Marten De Roon)<span class="ic-the"><img src="/images/icons/substitution.png">46</span></li>
             player = content[0]
             if len(content) == 1:
                 detail_event = ''
             else:
                 detail_event = content[1][:-1]
         else:
+        #<li>(Pen) Lionel Messi<span class="ic-the"><img src="/images/icons/goal.png">34</span></li>
             player = content[1].split(')')[1]
             detail_event = content[1].split(')')[0]
 
         all_events.append([matchId, teamName, time, type_event, player, detail_event])
     return all_events
         
-# print(get_match_event(soup, 1, 'hi', 1))
-def get_line_up(soup, matchId, teamName, id):
+def get_line_up(soup1, matchId, teamName, id):
     """
     id identify home team or away team, id = 0 is home, id = 1 is away
     """
     match_line_up = [matchId, teamName]
     #<p><strong>Ma rốc (4-3-3): </strong><span>Bono (1), Achraf Hakimi (2), Jawad El Yamiq (18), Romain Saiss (6), Yahia Attiyat Allah (25), Azzedine Ounahi (8), Sofyan Amrabat (4), Selim Amallah (15), Hakim Ziyech (7), Youssef En-Nesyri (19), Sofiane Boufal (17)</span></p>
     try:
-        soup = soup.find_all('div', class_= 'live-content')[-3]
+        soup = soup1.find_all('div', class_= 'live-content')[-3]
         content = soup.find_all('p')[id].text.split(':')
+        # print(soup)
         line_up = content[0].split('(')[1][:-1]
         match_line_up.append(line_up)
         players_start = content[1].split(',')
@@ -80,7 +82,7 @@ def get_line_up(soup, matchId, teamName, id):
             match_line_up.append(number)
         return match_line_up
     except:
-        soup = soup.find_all('div', class_= 'live-content')[-2]
+        soup = soup1.find_all('div', class_= 'live-content')[-4]
         content = soup.find_all('p')[id].text.split(':')
         line_up = content[0].split('(')[1][:-1]
         match_line_up.append(line_up)
@@ -103,6 +105,8 @@ def crawl():
         for line in f:
             link = line.strip()
             links.append(link)
+
+    #get data of 64 matches
     for i in range(64):
         response = requests.get(links[i])
         soup = BeautifulSoup(response.content, "html.parser")
@@ -119,23 +123,42 @@ def crawl():
         match_stats.append(away_stat)
         match_line_ups.append(home_line_up)
         match_line_ups.append(away_line_up)
-        # print(match_info)
-        # print(home_stat)
-        # print(away_stat)
-        # print(home_event)
-        # print(away_event)
-        # print(home_line_up)
-        # print(away_line_up)
         for event in home_event:
             match_events.append(event)
         for event in away_event:
             match_events.append(event)
-        print(match_events)
-        break
+        print(matchId)
 
+    #store data in csv file
+    match_info_label = ['match_id', 'home_team', 'away_team', 'home_score', 'away_score', 'hour', 'date', 'stadium', 'round']
+    match_stat_label = ['match_id', 'team', 'possession', 'foul', 'throw_in', 'offside', 'long_pass', 'corner', "yellow_card", "red_card", "second_yellow_card", "shot_on_target", "shot_off_target", "blocked_shot", "counter_attack", "goalkeeper_save", "goal_kick", "medical_care"]
+    match_event_label = ['matchId', 'team', 'time', 'type_event', 'player', 'detail_event']
+    match_line_up_label = ["match_id", "team", "line_up", "player1", "player2", "player3", "player4", "player5", "player6", "player7", "player8", "player9", "player10", "player11"]
 
+    # write the data to a CSV file
+    with open('match_info.csv', 'w', newline='') as csvfile:
+        writer = csv.writer(csvfile)
+        writer.writerow(match_info_label)
+        for match in match_infos:
+            writer.writerow(match)
+    
+    with open('match_stat.csv', 'w', newline='') as csvfile2:
+        writer = csv.writer(csvfile2)
+        writer.writerow(match_stat_label)
+        for match in match_stats:
+            writer.writerow(match)
+    
+    with open('match_event.csv', 'w', newline='') as csvfile3:
+        writer = csv.writer(csvfile3)
+        writer.writerow(match_event_label)
+        for match in match_events:
+            writer.writerow(match)
 
-
+    with open('match_line_up.csv', 'w', newline='') as csvfile4:
+        writer = csv.writer(csvfile4)
+        writer.writerow(match_line_up_label)
+        for match in match_line_ups:
+            writer.writerow(match)
 crawl()
 
 
