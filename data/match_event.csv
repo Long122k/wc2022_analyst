@@ -1,1179 +1,1166 @@
 matchId,team,time,type_event,player,detail_event
-1,Argentina,34,goal, Lionel Messi,Pen
-1,Argentina,39,goal,Julian Alvarez,
-1,Argentina,62,substitution,Lisandro Martinez ,Thay: Leandro Paredes
-1,Argentina,68,yellow_card,Cristian Romero,
-1,Argentina,69,goal,Julian Alvarez ,Kiến tạo: Lionel Messi
-1,Argentina,71,yellow_card,Nicolas Otamendi,
-1,Argentina,74,substitution,Exequiel Palacios ,Thay: Rodrigo De Paul
-1,Argentina,74,substitution,Paulo Dybala ,Thay: Julian Alvarez
-1,Argentina,86,substitution,Angel Correa ,Thay: Alexis Mac Allister
-1,Argentina,86,substitution,Juan Foyth ,Thay: Nahuel Molina
-1,Croatia,32,yellow_card,Dominik Livakovic,
-1,Croatia,32,yellow_card,Mateo Kovacic,
-1,Croatia,46,substitution,Mislav Orsic ,Thay: Borna Sosa
-1,Croatia,46,substitution,Nikola Vlasic ,Thay: Mario Pasalic
-1,Croatia,50,substitution,Bruno Petkovic ,Thay: Marcelo Brozovic
-1,Croatia,72,substitution,Marko Livaja ,Thay: Andrej Kramaric
-1,Croatia,81,substitution,Lovro Majer ,Thay: Luka Modric
-2,Pháp,5,goal,Theo Hernandez,
-2,Pháp,65,substitution,Marcus Thuram ,Thay: Olivier Giroud
-2,Pháp,78,substitution,Randal Kolo Muani ,Thay: Ousmane Dembele
-2,Pháp,79,goal,Randal Kolo Muani,
-2,Ma rốc,21,substitution,Selim Amallah ,Thay: Romain Saiss
-2,Ma rốc,27,yellow_card,Sofiane Boufal,
-2,Ma rốc,46,substitution,Yahia Attiyat Allah ,Thay: Noussair Mazraoui
-2,Ma rốc,66,substitution,Abderrazak Hamdallah ,Thay: Youssef En-Nesyri
-2,Ma rốc,66,substitution,Zakaria Aboukhlal ,Thay: Sofiane Boufal
-2,Ma rốc,78,substitution,Abdessamad Ezzalzouli ,Thay: Selim Amallah
-3,Croatia,7,goal,Josko Gvardiol ,Kiến tạo: Ivan Perisic
-3,Croatia,42,goal,Mislav Orsic ,Kiến tạo: Marko Livaja
-3,Croatia,61,substitution,Nikola Vlasic ,Thay: Andrej Kramaric
-3,Croatia,66,substitution,Mario Pasalic ,Thay: Marko Livaja
-3,Croatia,66,substitution,Bruno Petkovic ,Thay: Lovro Majer
-3,Croatia,90,substitution,Kristijan Jakic ,Thay: Mislav Orsic
-3,Ma rốc,9,goal,Achraf Dari,
-3,Ma rốc,46,substitution,Ilias Chair ,Thay: Abdelhamid Sabiri
-3,Ma rốc,56,substitution,Azzedine Ounahi ,Thay: Bilal El Khannous
-3,Ma rốc,64,substitution,Anass Zaroury ,Thay: Sofiane Boufal
-3,Ma rốc,64,substitution,Badr Banoune ,Thay: Achraf Dari
-3,Ma rốc,67,substitution,Selim Amallah ,Thay: Jawad El Yamiq
-3,Ma rốc,69,yellow_card,Azzedine Ounahi,
-3,Ma rốc,84,yellow_card,Selim Amallah,
-4,Argentina,23,goal, Lionel Messi,Pen
-4,Argentina,36,goal,Angel Di Maria ,Kiến tạo: Alexis Mac Allister
-4,Argentina,45+7',yellow_card,Enzo Fernandez,
-4,Argentina,64,substitution,Marcos Acuna ,Thay: Angel Di Maria
-4,Argentina,90+8',yellow_card,Marcos Acuna,
-4,Argentina,91,substitution,Gonzalo Montiel ,Thay: Nahuel Molina
-4,Argentina,102,substitution,Leandro Paredes ,Thay: Rodrigo De Paul
-4,Argentina,102,substitution,Lautaro Martinez ,Thay: Julian Alvarez
-4,Argentina,108,goal,Lionel Messi,
-4,Argentina,114,yellow_card,Leandro Paredes,
-4,Argentina,116,substitution,German Pezzella ,Thay: Alexis Mac Allister
-4,Argentina,116,yellow_card,Gonzalo Montiel,
-4,Argentina,120,substitution,Paulo Dybala ,Thay: Nicolas Tagliafico
-4,Argentina,121,yellow_card,Emiliano Martinez,
-4,Pháp,41,substitution,Randal Kolo Muani ,Thay: Ousmane Dembele
-4,Pháp,41,substitution,Marcus Thuram ,Thay: Olivier Giroud
-4,Pháp,55,yellow_card,Adrien Rabiot,
-4,Pháp,71,substitution,Kingsley Coman ,Thay: Antoine Griezmann
-4,Pháp,71,substitution,Eduardo Camavinga ,Thay: Theo Hernandez
-4,Pháp,80,goal, Kylian Mbappe,Pen
-4,Pháp,81,goal,Kylian Mbappe ,Kiến tạo: Marcus Thuram
-4,Pháp,87,yellow_card,Marcus Thuram,
-4,Pháp,90+5',yellow_card,Olivier Giroud,
-4,Pháp,96,substitution,Youssouf Fofana ,Thay: Adrien Rabiot
-4,Pháp,113,substitution,Ibrahima Konate ,Thay: Raphael Varane
-4,Pháp,118,yellow_card,Kylian Mbappe,
-4,Pháp,120,substitution,Axel Disasi ,Thay: Jules Kounde
-5,Argentina,23,goal, Lionel Messi,Pen
-5,Argentina,36,goal,Angel Di Maria ,Kiến tạo: Alexis Mac Allister
-5,Argentina,45+7',yellow_card,Enzo Fernandez,
-5,Argentina,64,substitution,Marcos Acuna ,Thay: Angel Di Maria
-5,Argentina,90+8',yellow_card,Marcos Acuna,
-5,Argentina,91,substitution,Gonzalo Montiel ,Thay: Nahuel Molina
-5,Argentina,102,substitution,Leandro Paredes ,Thay: Rodrigo De Paul
-5,Argentina,102,substitution,Lautaro Martinez ,Thay: Julian Alvarez
-5,Argentina,108,goal,Lionel Messi,
-5,Argentina,114,yellow_card,Leandro Paredes,
-5,Argentina,116,substitution,German Pezzella ,Thay: Alexis Mac Allister
-5,Argentina,116,yellow_card,Gonzalo Montiel,
-5,Argentina,120,substitution,Paulo Dybala ,Thay: Nicolas Tagliafico
-5,Argentina,121,yellow_card,Emiliano Martinez,
-5,Pháp,41,substitution,Randal Kolo Muani ,Thay: Ousmane Dembele
-5,Pháp,41,substitution,Marcus Thuram ,Thay: Olivier Giroud
-5,Pháp,55,yellow_card,Adrien Rabiot,
-5,Pháp,71,substitution,Kingsley Coman ,Thay: Antoine Griezmann
-5,Pháp,71,substitution,Eduardo Camavinga ,Thay: Theo Hernandez
-5,Pháp,80,goal, Kylian Mbappe,Pen
-5,Pháp,81,goal,Kylian Mbappe ,Kiến tạo: Marcus Thuram
-5,Pháp,87,yellow_card,Marcus Thuram,
-5,Pháp,90+5',yellow_card,Olivier Giroud,
-5,Pháp,96,substitution,Youssouf Fofana ,Thay: Adrien Rabiot
-5,Pháp,113,substitution,Ibrahima Konate ,Thay: Raphael Varane
-5,Pháp,118,yellow_card,Kylian Mbappe,
-5,Pháp,120,substitution,Axel Disasi ,Thay: Jules Kounde
-6,Qatar,15,yellow_card,Saad Al Sheeb,
-6,Qatar,22,yellow_card,Almoez Ali,
-6,Qatar,36,yellow_card,Karim Boudiaf,
-6,Qatar,78,yellow_card,Akram Afif,
-6,Qatar,72,substitution,Mohammed Waad ,Thay: Hassan Al Haidos
-6,Qatar,72,substitution,Mohammed Muntari ,Thay: Almoez Ali
-6,Ecuador,3,penalty_nogoal,Enner Valencia ,VAR check
-6,Ecuador,16,goal, Enner Valencia,Pen
-6,Ecuador,29,yellow_card,Moises Caicedo,
-6,Ecuador,31,goal,Enner Valencia ,Kiến tạo: Angelo Preciado
-6,Ecuador,56,yellow_card,Jhegson Mendez,
-6,Ecuador,68,substitution,Jeremy Sarmiento ,Thay: Romario Ibarra
-6,Ecuador,77,substitution,Jose Cifuentes ,Thay: Enner Valencia
-6,Ecuador,90,substitution,Kevin Rodriguez ,Thay: Michael Estrada
-6,Ecuador,90,substitution,Alan Franco ,Thay: Moises Caicedo
-7,ĐT Anh,35,goal,Jude Bellingham ,Kiến tạo: Luke Shaw
-7,ĐT Anh,43,goal,Bukayo Saka ,Kiến tạo: Harry Maguire
-7,ĐT Anh,45+1',goal,Raheem Sterling ,Kiến tạo: Harry Kane
-7,ĐT Anh,62,goal,Bukayo Saka ,Kiến tạo: Raheem Sterling
-7,ĐT Anh,71,goal,Marcus Rashford ,Kiến tạo: Harry Kane
-7,ĐT Anh,70,substitution,Eric Dier ,Thay: Harry Maguire
-7,ĐT Anh,70,substitution,Marcus Rashford ,Thay: Bukayo Saka
-7,ĐT Anh,70,substitution,Jack Grealish ,Thay: Raheem Sterling
-7,ĐT Anh,70,substitution,Phil Foden ,Thay: Mason Mount
-7,ĐT Anh,75,substitution,Callum Wilson ,Thay: Harry Kane
-7,ĐT Anh,90,goal,Jack Grealish ,Kiến tạo: Callum Wilson
-7,Iran,20,substitution,Hossein Hosseini ,Thay: Alireza Beiranvand
-7,Iran,25,yellow_card,Alireza Jahanbakhsh,
-7,Iran,48,yellow_card,Morteza Pouraliganji,
-7,Iran,46,substitution,Ali Gholizadeh ,Thay: Alireza Jahanbakhsh
-7,Iran,46,substitution,Saeid Ezatolahi ,Thay: Ali Karimi
-7,Iran,46,substitution,Hossein Kanaani ,Thay: Roozbeh Cheshmi
-7,Iran,63,substitution,Mehdi Torabi ,Thay: Milad Mohammadi
-7,Iran,65,goal,Mehdi Taremi ,Kiến tạo: Ali Gholizadeh
-7,Iran,77,substitution,Sardar Azmoun ,Thay: Ahmad Nourollahi
-7,Iran,90+13',goal, Mehdi Taremi,Pen
-8,Senegal,62,substitution,Ismail Jakobs ,Thay: Abdou Diallo
-8,Senegal,69,substitution,Ahmadou Bamba Dieng ,Thay: Boulaye Dia
-8,Senegal,73,substitution,Pape Gueye ,Thay: Cheikhou Kouyate
-8,Senegal,73,substitution,Nicolas Jackson ,Thay: Krepin Diatta
-8,Senegal,90+4',yellow_card,Nampalys Mendy,
-8,Senegal,90+6',yellow_card,Idrissa Gana Gueye,
-8,ĐT Hà Lan,56,yellow_card,Matthijs de Ligt,
-8,ĐT Hà Lan,62,substitution,Memphis Depay ,Thay: Vincent Janssen
-8,ĐT Hà Lan,79,substitution,Davy Klaassen ,Thay: Steven Bergwijn
-8,ĐT Hà Lan,79,substitution,Teun Koopmeiners ,Thay: Steven Berghuis
-8,ĐT Hà Lan,84,goal,Cody Gakpo ,Kiến tạo: Frenkie de Jong
-8,ĐT Hà Lan,90,substitution,Marten de Roon ,Thay: Cody Gakpo
-8,ĐT Hà Lan,90+9',goal,Davy Klaassen,
-9,Mỹ,11,yellow_card,Sergino Dest,
-9,Mỹ,13,yellow_card,Weston McKennie,
-9,Mỹ,36,goal,Timothy Weah ,Kiến tạo: Christian Pulisic
-9,Mỹ,51,yellow_card,Tim Ream,
-9,Mỹ,66,substitution,Brenden Aaronson ,Thay: Weston McKennie
-9,Mỹ,74,substitution,DeAndre Yedlin ,Thay: Sergino Dest
-9,Mỹ,74,substitution,Haji Wright ,Thay: Joshua Sargent
-9,Mỹ,74,substitution,Kellyn Acosta ,Thay: Yunus Musah
-9,Mỹ,88,substitution,Jordan Morris ,Thay: Timothy Weah
-9,Mỹ,90+10',yellow_card,Kellyn Acosta,
-9,Wales,40,yellow_card,Gareth Bale,
-9,Wales,45+2',yellow_card,Chris Mepham,
-9,Wales,46,substitution,Kieffer Moore ,Thay: Daniel James
-9,Wales,79,substitution,Brennan Johnson ,Thay: Neco Williams
-9,Wales,82,goal, Gareth Bale,Pen
-9,Wales,90,substitution,Sorba Thomas ,Thay: Harry Wilson
-9,Wales,90,substitution,Joe Morrell ,Thay: Ethan Ampadu
-10,Argentina,10,goal, Lionel Messi,Pen
-10,Argentina,28,penalty_nogoal,Lautaro Martinez ,VAR check
-10,Argentina,59,substitution,Lisandro Martinez ,Thay: Cristian Romero
-10,Argentina,59,substitution,Enzo Fernandez ,Thay: Leandro Paredes
-10,Argentina,59,substitution,Julian Alvarez ,Thay: Alejandro Gomez
-10,Argentina,71,substitution,Marcos Acuna ,Thay: Nicolas Tagliafico
-10,Ả Rập Xê-út,45,substitution,Nawaf Al-Abid ,Thay: Salman Al-Faraj
-10,Ả Rập Xê-út,49,goal,Saleh Al-Shehri ,Kiến tạo: Firas Al-Buraikan
-10,Ả Rập Xê-út,53,goal,Salem Al-Dawsari,
-10,Ả Rập Xê-út,67,yellow_card,Abdulelah Al Malki,
-10,Ả Rập Xê-út,75,yellow_card,Ali Al-Boleahi,
-10,Ả Rập Xê-út,79,yellow_card,Salem Al-Dawsari,
-10,Ả Rập Xê-út,82,yellow_card,Saud Abdulhamid,
-10,Ả Rập Xê-út,78,substitution,Sultan Al Ghanam ,Thay: Saleh Al-Shehri
-10,Ả Rập Xê-út,88,yellow_card,Nawaf Al-Abid,
-10,Ả Rập Xê-út,90+2',yellow_card,Mohammed Al Owais,
-10,Ả Rập Xê-út,89,substitution,Abdulelah Al Amri ,Thay: Nawaf Al-Abid
-10,Ả Rập Xê-út,89,substitution,Haitham Asiri ,Thay: Firas Al-Buraikan
-10,Ả Rập Xê-út,90,substitution,Mohammed Al Burayk ,Thay: Yasir Al Shahrani
-11,ĐT Đan Mạch,24,yellow_card,Rasmus Kristensen,
-11,ĐT Đan Mạch,45,substitution,Mikkel Damsgaard ,Thay: Thomas Delaney
-11,ĐT Đan Mạch,65,substitution,Mathias Jensen ,Thay: Simon Kjaer
-11,ĐT Đan Mạch,65,substitution,Andreas Cornelius ,Thay: Kasper Dolberg
-11,ĐT Đan Mạch,65,substitution,Jesper Lindstroem ,Thay: Andreas Skov Olsen
-11,ĐT Đan Mạch,78,yellow_card,Mathias Jensen,
-11,Tunisia,67,substitution,Naim Sliti ,Thay: Anis Ben Slimane
-11,Tunisia,80,substitution,Hannibal Mejbri ,Thay: Youssef Msakni
-11,Tunisia,80,substitution,Taha Yassine Khenissi ,Thay: Issam Jebali
-11,Tunisia,86,yellow_card,Taha Yassine Khenissi,
-11,Tunisia,88,substitution,Wajdi Kechrida ,Thay: Mohamed Draeger
-11,Tunisia,88,substitution,Ferjani Sassi ,Thay: Aissa Laidouni
-12,Mexico,29,yellow_card,Jorge Sanchez,
-12,Mexico,56,yellow_card,Hector Moreno,
-12,Mexico,71,substitution,Carlos Rodriguez ,Thay: Hector Herrera
-12,Mexico,71,substitution,Raul Jimenez ,Thay: Henry Martin
-12,Mexico,84,substitution,Uriel Antuna ,Thay: Alexis Vega
-12,Ba Lan,46,substitution,Krystian Bielik ,Thay: Nicola Zalewski
-12,Ba Lan,58,penalty_nogoal, Robert Lewandowski,Pen
-12,Ba Lan,71,substitution,Przemyslaw Frankowski ,Thay: Sebastian Szymanski
-12,Ba Lan,76,yellow_card,Przemyslaw Frankowski,
-12,Ba Lan,87,substitution,Arkadiusz Milik ,Thay: Piotr Zielinski
-13,ĐT Pháp,13,substitution,Theo Hernandez ,Thay: Lucas Hernandez
-13,ĐT Pháp,27,goal,Adrien Rabiot ,Kiến tạo: Theo Hernandez
-13,ĐT Pháp,32,goal,Olivier Giroud ,Kiến tạo: Adrien Rabiot
-13,ĐT Pháp,68,goal,Kylian Mbappe ,Kiến tạo: Ousmane Dembele
-13,ĐT Pháp,71,goal,Olivier Giroud ,Kiến tạo: Kylian Mbappe
-13,ĐT Pháp,77,substitution,Youssouf Fofana ,Thay: Aurelien Tchouameni
-13,ĐT Pháp,77,substitution,Kingsley Coman ,Thay: Ousmane Dembele
-13,ĐT Pháp,89,substitution,Jules Kounde ,Thay: Benjamin Pavard
-13,ĐT Pháp,89,substitution,Marcus Thuram ,Thay: Olivier Giroud
-13,Australia,9,goal,Craig Goodwin ,Kiến tạo: Matthew Leckie
-13,Australia,55,yellow_card,Mitchell Duke,
-13,Australia,56,substitution,Jason Cummings ,Thay: Mitchell Duke
-13,Australia,73,substitution,Awer Mabil ,Thay: Riley McGree
-13,Australia,73,substitution,Garang Kuol ,Thay: Craig Goodwin
-13,Australia,80,yellow_card,Jackson Irvine,
-13,Australia,85,substitution,Keanu Baccus ,Thay: Jackson Irvine
-13,Australia,85,substitution,Milos Degenek ,Thay: Nathaniel Atkinson
-13,Australia,90+5',yellow_card,Aaron Mooy,
-14,Ma rốc,60,substitution,Yahia Attiyat Allah ,Thay: Noussair Mazraoui
-14,Ma rốc,65,substitution,Abdessamad Ezzalzouli ,Thay: Sofiane Boufal
-14,Ma rốc,78,yellow_card,Sofyan Amrabat,
-14,Ma rốc,81,substitution,Abderrazak Hamdallah ,Thay: Youssef En-Nesyri
-14,Ma rốc,82,substitution,Abdelhamid Sabiri ,Thay: Azzedine Ounahi
-14,Croatia,46,substitution,Mario Pasalic ,Thay: Nikola Vlasic
-14,Croatia,71,substitution,Marko Livaja ,Thay: Andrej Kramaric
-14,Croatia,79,substitution,Lovro Majer ,Thay: Mateo Kovacic
-14,Croatia,90,substitution,Mislav Orsic ,Thay: Ivan Perisic
-15,ĐT Đức,33,goal, Ilkay Gundogan,Pen
-15,ĐT Đức,45+4',penalty_nogoal,Kai Havertz ,VAR check
-15,ĐT Đức,67,substitution,Jonas Hofmann ,Thay: Thomas Mueller
-15,ĐT Đức,67,substitution,Leon Goretzka ,Thay: Ilkay Gundogan
-15,ĐT Đức,79,substitution,Niclas Fuellkrug ,Thay: Kai Havertz
-15,ĐT Đức,79,substitution,Mario Goetze ,Thay: Jamal Musiala
-15,ĐT Đức,90,substitution,Youssoufa Moukoko ,Thay: Serge Gnabry
-15,Nhật Bản,46,substitution,Takehiro Tomiyasu ,Thay: Takefusa Kubo
-15,Nhật Bản,57,substitution,Kaoru Mitoma ,Thay: Yuto Nagatomo
-15,Nhật Bản,57,substitution,Takuma Asano ,Thay: Daizen Maeda
-15,Nhật Bản,71,substitution,Ritsu Doan ,Thay: Ao Tanaka
-15,Nhật Bản,74,substitution,Takumi Minamino ,Thay: Hiroki Sakai
-15,Nhật Bản,75,goal,Ritsu Doan,
-15,Nhật Bản,83,goal,Takuma Asano ,Kiến tạo: Ko Itakura
-16,ĐT Tây Ban Nha,11,goal,Dani Olmo,
-16,ĐT Tây Ban Nha,21,goal,Marco Asensio ,Kiến tạo: Jordi Alba
-16,ĐT Tây Ban Nha,31,goal, Ferran Torres,Pen
-16,ĐT Tây Ban Nha,54,goal,Ferran Torres,
-16,ĐT Tây Ban Nha,57,substitution,Alvaro Morata ,Thay: Ferran Torres
-16,ĐT Tây Ban Nha,57,substitution,Carlos Soler ,Thay: Pedri
-16,ĐT Tây Ban Nha,64,substitution,Koke ,Thay: Sergio Busquets
-16,ĐT Tây Ban Nha,64,substitution,Alex Balde ,Thay: Jordi Alba
-16,ĐT Tây Ban Nha,69,substitution,Nico Williams ,Thay: Marco Asensio
-16,ĐT Tây Ban Nha,75,goal,Gavi ,Kiến tạo: Alvaro Morata
-16,ĐT Tây Ban Nha,90,goal,Carlos Soler,
-16,ĐT Tây Ban Nha,90+3',goal,Alvaro Morata ,Kiến tạo: Dani Olmo
-16,Costa Rica,46,substitution,Kendall Waston ,Thay: Carlos Martinez
-16,Costa Rica,61,substitution,Alvaro Zamora ,Thay: Anthony Contreras
-16,Costa Rica,61,substitution,Bryan Ruiz ,Thay: Jewison Bennette
-16,Costa Rica,68,yellow_card,Francisco Calvo,
-16,Costa Rica,72,substitution,Brandon Aguilera ,Thay: Celso Borges
-16,Costa Rica,82,substitution,Ronald Matarrita ,Thay: Bryan Oviedo
-16,Costa Rica,90+7',yellow_card,Joel Campbell,
-17,ĐT Bỉ,9,yellow_card,Yannick Carrasco,
-17,ĐT Bỉ,44,goal,Michy Batshuayi ,Kiến tạo: Toby Alderweireld
-17,ĐT Bỉ,46,substitution,Amadou Onana ,Thay: Youri Tielemans
-17,ĐT Bỉ,46,substitution,Thomas Meunier ,Thay: Yannick Carrasco
-17,ĐT Bỉ,54,yellow_card,Thomas Meunier,
-17,ĐT Bỉ,56,yellow_card,Amadou Onana,
-17,ĐT Bỉ,62,substitution,Leandro Trossard ,Thay: Eden Hazard
-17,ĐT Bỉ,78,substitution,Ikoma Lois Openda ,Thay: Michy Batshuayi
-17,Canada,11,penalty_nogoal, Alphonso Davies,Pen
-17,Canada,58,substitution,Cyle Larin ,Thay: Junior Hoilett
-17,Canada,58,substitution,Ismael Kone ,Thay: Atiba Hutchinson
-17,Canada,74,substitution,Sam Adekugbe ,Thay: Richie Laryea
-17,Canada,81,yellow_card,Alphonso Davies,
-17,Canada,83,yellow_card,Alistair Johnston,
-17,Canada,81,substitution,Liam Millar ,Thay: Tajon Buchanan
-17,Canada,81,substitution,Jonathan Osorio ,Thay: Stephen Eustaquio
-18,Thụy Sĩ,48,goal,Breel Embolo ,Kiến tạo: Xherdan Shaqiri
-18,Thụy Sĩ,64,yellow_card,Nico Elvedi,
-18,Thụy Sĩ,72,substitution,Fabian Frei ,Thay: Djibril Sow
-18,Thụy Sĩ,72,substitution,Noah Okafor ,Thay: Xherdan Shaqiri
-18,Thụy Sĩ,72,substitution,Haris Seferovic ,Thay: Breel Embolo
-18,Thụy Sĩ,81,substitution,Fabian Rieder ,Thay: Ruben Vargas
-18,Thụy Sĩ,83,yellow_card,Manuel Akanji,
-18,Thụy Sĩ,90,substitution,Eray Coemert ,Thay: Ricardo Rodriguez
-18,Cameroon,36,yellow_card,Collins Fai,
-18,Cameroon,68,substitution,Gael Ondoua ,Thay: Martin Hongla
-18,Cameroon,74,substitution,Vincent Aboubakar ,Thay: Eric Maxim Choupo-Moting
-18,Cameroon,74,substitution,Georges-Kevin N'Koudou ,Thay: Karl Toko Ekambi
-18,Cameroon,81,substitution,Nicolas Ngamaleu ,Thay: Bryan Mbeumo
-19,Uruguay,57,yellow_card,Martin Caceres,
-19,Uruguay,64,substitution,Edinson Cavani ,Thay: Luis Suarez
-19,Uruguay,79,substitution,Nicolas de la Cruz ,Thay: Matias Vecino
-19,Uruguay,79,substitution,Matias Vina ,Thay: Mathias Olivera
-19,Uruguay,88,substitution,Guillermo Varela ,Thay: Facundo Pellistri
-19,Hàn Quốc,74,substitution,Gue-Sung Cho ,Thay: Ui-Jo Hwang
-19,Hàn Quốc,75,substitution,Kang-In Lee ,Thay: Sang-Ho Na
-19,Hàn Quốc,75,substitution,Joon-Ho Son ,Thay: Jae-Sung Lee
-19,Hàn Quốc,88,yellow_card,Gue-Sung Cho,
-19,Hàn Quốc,90+8',yellow_card,Paulo Bento,
-20,ĐT Bồ Đào Nha,56,substitution,William Carvalho ,Thay: Otavio
-20,ĐT Bồ Đào Nha,65,goal, Cristiano Ronaldo,Pen
-20,ĐT Bồ Đào Nha,78,goal,Joao Felix ,Kiến tạo: Bruno Fernandes
-20,ĐT Bồ Đào Nha,80,goal,Rafael Leao ,Kiến tạo: Bruno Fernandes
-20,ĐT Bồ Đào Nha,77,substitution,Rafael Leao ,Thay: Ruben Neves
-20,ĐT Bồ Đào Nha,90+1',yellow_card,Danilo Pereira,
-20,ĐT Bồ Đào Nha,88,substitution,Joao Palhinha ,Thay: Bernardo Silva
-20,ĐT Bồ Đào Nha,88,substitution,Joao Mario ,Thay: Joao Felix
-20,ĐT Bồ Đào Nha,88,substitution,Goncalo Ramos ,Thay: Cristiano Ronaldo
-20,ĐT Bồ Đào Nha,90+5',yellow_card,Bruno Fernandes,
-20,Ghana,45+1',yellow_card,Mohammed Kudus,
-20,Ghana,49,yellow_card,Andre Ayew,
-20,Ghana,57,yellow_card,Alidu Seidu,
-20,Ghana,73,goal,Andre Ayew,
-20,Ghana,66,substitution,Tariq Lamptey ,Thay: Alidu Seidu
-20,Ghana,77,substitution,Osman Bukari ,Thay: Mohammed Kudus
-20,Ghana,77,substitution,Jordan Ayew ,Thay: Andre Ayew
-20,Ghana,89,goal,Osman Bukari,
-20,Ghana,90+1',yellow_card,Inaki Williams,
-20,Ghana,90,substitution,Daniel-Kofi Kyereh ,Thay: Alexander Djiku
-20,Ghana,90,substitution,Antoine Semenyo ,Thay: Salis Abdul Samed
-21,Brazil,62,goal,Richarlison,
-21,Brazil,73,goal,Richarlison ,Kiến tạo: Vinicius Junior
-21,Brazil,75,substitution,Fred ,Thay: Lucas Paqueta
-21,Brazil,76,substitution,Rodrygo ,Thay: Vinicius Junior
-21,Brazil,79,substitution,Gabriel Jesus ,Thay: Richarlison
-21,Brazil,79,substitution,Antony ,Thay: Neymar
-21,Brazil,87,substitution,Gabriel Martinelli ,Thay: Raphinha
-21,Serbia,7,yellow_card,Strahinja Pavlovic,
-21,Serbia,49,yellow_card,Nemanja Gudelj,
-21,Serbia,57,substitution,Ivan Ilic ,Thay: Nemanja Gudelj
-21,Serbia,57,substitution,Nemanja Radonjic ,Thay: Andrija Zivkovic
-21,Serbia,64,yellow_card,Sasa Lukic,
-21,Serbia,66,substitution,Darko Lazovic ,Thay: Sasa Lukic
-21,Serbia,66,substitution,Dusan Vlahovic ,Thay: Filip Mladenovic
-21,Serbia,83,substitution,Nemanja Maksimovic ,Thay: Aleksandar Mitrovic
-22,Wales,45+3',yellow_card,Joe Rodon,
-22,Wales,58,substitution,Brennan Johnson ,Thay: Harry Wilson
-22,Wales,58,substitution,Daniel James ,Thay: Connor Roberts
-22,Wales,78,substitution,Joe Allen ,Thay: Ethan Ampadu
-22,Wales,87,red_card,Wayne Hennessey,
-22,Wales,88,substitution,Danny Ward ,Thay: Aaron Ramsey
-22,Iran,16,penalty_nogoal,Ali Gholizadeh ,VAR check
-22,Iran,68,substitution,Karim Ansarifard ,Thay: Sardar Azmoun
-22,Iran,77,substitution,Alireza Jahanbakhsh ,Thay: Ali Gholizadeh
-22,Iran,77,substitution,Mehdi Torabi ,Thay: Ehsan Haji Safi
-22,Iran,78,substitution,Roozbeh Cheshmi ,Thay: Ahmad Nourollahi
-22,Iran,83,substitution,Ali Karimi ,Thay: Saeid Ezatolahi
-22,Iran,90+5',yellow_card,Ramin Rezaeian,
-22,Iran,90+6',yellow_card,Alireza Jahanbakhsh,
-22,Iran,90+8',goal,Roozbeh Cheshmi,
-22,Iran,90+11',goal,Ramin Rezaeian ,Kiến tạo: Mehdi Taremi
-23,Qatar,20,yellow_card,Ismael Mohammad,
-23,Qatar,45+2',yellow_card,Homam Elamin,
-23,Qatar,69,substitution,Abdulaziz Hatem ,Thay: Karim Boudiaf
-23,Qatar,74,substitution,Mohammed Muntari ,Thay: Hassan Al Haidos
-23,Qatar,78,goal,Mohammed Muntari ,Kiến tạo: Ismael Mohammad
-23,Qatar,83,substitution,Mohammed Waad ,Thay: Homam Elamin
-23,Qatar,83,substitution,Tarek Salman ,Thay: Pedro Miguel
-23,Qatar,90+1',yellow_card,Assim Madibo,
-23,Senegal,30,yellow_card,Boulaye Dia,
-23,Senegal,41,goal,Boulaye Dia,
-23,Senegal,48,goal,Famara Diedhiou ,Kiến tạo: Ismail Jakobs
-23,Senegal,52,yellow_card,Ismail Jakobs,
-23,Senegal,64,substitution,Pathe Ciss ,Thay: Krepin Diatta
-23,Senegal,74,substitution,Ahmadou Bamba Dieng ,Thay: Famara Diedhiou
-23,Senegal,74,substitution,Iliman Ndiaye ,Thay: Ismaila Sarr
-23,Senegal,78,substitution,Pape Sarr ,Thay: Nampalys Mendy
-23,Senegal,78,substitution,Pape Abou Cisse ,Thay: Ismail Jakobs
-23,Senegal,84,goal,Ahmadou Bamba Dieng ,Kiến tạo: Iliman Ndiaye
-23,Senegal,87,yellow_card,Pathe Ciss,
-24,ĐT Hà Lan,6,goal,Cody Gakpo ,Kiến tạo: Davy Klaassen
-24,ĐT Hà Lan,46,substitution,Memphis Depay ,Thay: Steven Bergwijn
-24,ĐT Hà Lan,69,substitution,Steven Berghuis ,Thay: Davy Klaassen
-24,ĐT Hà Lan,79,substitution,Wout Weghorst ,Thay: Cody Gakpo
-24,ĐT Hà Lan,79,substitution,Marten de Roon ,Thay: Teun Koopmeiners
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,57,yellow_card,Jhegson Mendez,
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,74,substitution,Jeremy Sarmiento ,Thay: Michael Estrada
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,90,substitution,Kevin Rodriguez ,Thay: Enner Valencia
-24,Ecuador,90,substitution,Romario Ibarra ,Thay: Gonzalo Plata
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
-24,Ecuador,49,goal,Enner Valencia,
-25,ĐT Anh,68,substitution,Jack Grealish ,Thay: Raheem Sterling
-25,ĐT Anh,68,substitution,Jordan Henderson ,Thay: Jude Bellingham
-25,ĐT Anh,78,substitution,Marcus Rashford ,Thay: Bukayo Saka
-25,Mỹ,77,substitution,Brenden Aaronson ,Thay: Weston McKennie
-25,Mỹ,78,substitution,Shaq Moore ,Thay: Sergino Dest
-25,Mỹ,83,substitution,Giovanni Reyna ,Thay: Timothy Weah
-25,Mỹ,83,substitution,Joshua Sargent ,Thay: Haji Wright
-26,Tunisia,26,yellow_card,Aissa Laidouni,
-26,Tunisia,46,substitution,Ferjani Sassi ,Thay: Mohamed Draeger
-26,Tunisia,64,yellow_card,Ali Abdi,
-26,Tunisia,67,substitution,Wahbi Khazri ,Thay: Aissa Laidouni
-26,Tunisia,73,substitution,Taha Yassine Khenissi ,Thay: Issam Jebali
-26,Tunisia,73,substitution,Wajdi Kechrida ,Thay: Dylan Bronn
-26,Tunisia,90+3',yellow_card,Ferjani Sassi,
-26,Australia,23,goal,Mitchell Duke,
-26,Australia,64,substitution,Jamie Maclaren ,Thay: Mitchell Duke
-26,Australia,64,substitution,Ajdin Hrustic ,Thay: Riley McGree
-26,Australia,75,substitution,Milos Degenek ,Thay: Fran Karacic
-26,Australia,85,substitution,Awer Mabil ,Thay: Craig Goodwin
-26,Australia,85,substitution,Keanu Baccus ,Thay: Matthew Leckie
-27,Ba Lan,15,yellow_card,Jakub Kiwior,
-27,Ba Lan,16,yellow_card,Matty Cash,
-27,Ba Lan,19,yellow_card,Arkadiusz Milik,
-27,Ba Lan,39,goal,Piotr Zielinski ,Kiến tạo: Robert Lewandowski
-27,Ba Lan,63,substitution,Jakub Kaminski ,Thay: Piotr Zielinski
-27,Ba Lan,71,substitution,Krzysztof Piatek ,Thay: Arkadiusz Milik
-27,Ba Lan,82,goal,Robert Lewandowski,
-27,Ả Rập Xê-út,20,yellow_card,Abdulelah Al Malki,
-27,Ả Rập Xê-út,45+1',penalty_nogoal, Salem Al-Dawsari,Pen
-27,Ả Rập Xê-út,45+4',yellow_card,Abdulelah Al Amri,
-27,Ả Rập Xê-út,46,substitution,Nawaf Al-Abid ,Thay: Sami Al-Najei
-27,Ả Rập Xê-út,65,substitution,Sultan Al Ghanam ,Thay: Mohammed Al Burayk
-27,Ả Rập Xê-út,85,substitution,Abdulrahman Al-Obood ,Thay: Abdulelah Al Malki
-27,Ả Rập Xê-út,85,substitution,Nasser Al Dawsari ,Thay: Saleh Al-Shehri
-27,Ả Rập Xê-út,90,substitution,Hattan Sultan Babhir ,Thay: Nawaf Al-Abid
-28,ĐT Pháp,43,yellow_card,Jules Kounde,
-28,ĐT Pháp,61,goal,Kylian Mbappe ,Kiến tạo: Theo Hernandez
-28,ĐT Pháp,63,substitution,Marcus Thuram ,Thay: Olivier Giroud
-28,ĐT Pháp,75,substitution,Ibrahima Konate ,Thay: Raphael Varane
-28,ĐT Pháp,75,substitution,Kingsley Coman ,Thay: Ousmane Dembele
-28,ĐT Pháp,86,goal,Kylian Mbappe ,Kiến tạo: Antoine Griezmann
-28,ĐT Pháp,90,substitution,Youssouf Fofana ,Thay: Antoine Griezmann
-28,ĐT Đan Mạch,20,yellow_card,Andreas Christensen,
-28,ĐT Đan Mạch,23,yellow_card,Andreas Cornelius,
-28,ĐT Đan Mạch,46,substitution,Martin Braithwaite ,Thay: Andreas Cornelius
-28,ĐT Đan Mạch,68,goal,Andreas Christensen ,Kiến tạo: Joachim Andersen
-28,ĐT Đan Mạch,73,substitution,Kasper Dolberg ,Thay: Mikkel Damsgaard
-28,ĐT Đan Mạch,85,substitution,Christian Noergaard ,Thay: Jesper Lindstroem
-28,ĐT Đan Mạch,90,substitution,Alexander Bah ,Thay: Rasmus Kristensen
-29,Argentina,43,yellow_card,Gonzalo Montiel,
-29,Argentina,64,goal,Lionel Messi ,Kiến tạo: Angel Di Maria
-29,Argentina,57,substitution,Enzo Fernandez ,Thay: Guido Rodriguez
-29,Argentina,63,substitution,Julian Alvarez ,Thay: Lautaro Martinez
-29,Argentina,63,substitution,Nahuel Molina ,Thay: Gonzalo Montiel
-29,Argentina,69,substitution,Exequiel Palacios ,Thay: Alexis Mac Allister
-29,Argentina,69,substitution,Cristian Romero ,Thay: Angel Di Maria
-29,Argentina,87,goal,Enzo Fernandez ,Kiến tạo: Lionel Messi
-29,Mexico,22,yellow_card,Nestor Araujo,
-29,Mexico,42,substitution,Erick Gutierrez ,Thay: Andres Guardado
-29,Mexico,50,yellow_card,Erick Gutierrez,
-29,Mexico,66,yellow_card,Hector Herrera,
-29,Mexico,66,substitution,Raul Jimenez ,Thay: Kevin Alvarez
-29,Mexico,66,substitution,Uriel Antuna ,Thay: Alexis Vega
-29,Mexico,73,substitution,Roberto Alvarado ,Thay: Hirving Lozano
-29,Mexico,89,yellow_card,Roberto Alvarado,
-30,Nhật Bản,44,yellow_card,Miki Yamane,
-30,Nhật Bản,46,substitution,Takuma Asano ,Thay: Ayase Ueda
-30,Nhật Bản,46,substitution,Hiroki Ito ,Thay: Yuto Nagatomo
-30,Nhật Bản,62,substitution,Kaoru Mitoma ,Thay: Miki Yamane
-30,Nhật Bản,67,substitution,Junya Ito ,Thay: Ritsu Doan
-30,Nhật Bản,84,yellow_card,Ko Itakura,
-30,Nhật Bản,82,substitution,Takumi Minamino ,Thay: Yuki Soma
-30,Nhật Bản,90+3',yellow_card,Wataru Endo,
-30,Costa Rica,41,yellow_card,Anthony Contreras,
-30,Costa Rica,61,yellow_card,Celso Borges,
-30,Costa Rica,65,substitution,Brandon Aguilera ,Thay: Gerson Torres
-30,Costa Rica,65,substitution,Jewison Bennette ,Thay: Anthony Contreras
-30,Costa Rica,70,yellow_card,Francisco Calvo,
-30,Costa Rica,81,goal,Keysher Fuller ,Kiến tạo: Yeltsin Tejeda
-30,Costa Rica,89,substitution,Youstin Salas ,Thay: Celso Borges
-30,Costa Rica,90,substitution,Daniel Chacon ,Thay: Joel Campbell
-31,ĐT Bỉ,29,yellow_card,Amadou Onana,
-31,ĐT Bỉ,60,substitution,Youri Tielemans ,Thay: Amadou Onana
-31,ĐT Bỉ,60,substitution,Dries Mertens ,Thay: Eden Hazard
-31,ĐT Bỉ,75,substitution,Charles De Ketelaere ,Thay: Michy Batshuayi
-31,ĐT Bỉ,75,substitution,Leandro Trossard ,Thay: Thorgan Hazard
-31,ĐT Bỉ,81,substitution,Romelu Lukaku ,Thay: Thomas Meunier
-31,Ma rốc,45+2',penalty_nogoal,Hakim Ziyech ,VAR check
-31,Ma rốc,73,goal,Romain Saiss ,Kiến tạo: Abdelhamid Sabiri
-31,Ma rốc,68,substitution,Abdelhamid Sabiri ,Thay: Selim Amallah
-31,Ma rốc,68,substitution,Yahia Attiyat Allah ,Thay: Achraf Hakimi
-31,Ma rốc,73,substitution,Zakaria Aboukhlal ,Thay: Sofiane Boufal
-31,Ma rốc,73,substitution,Abderrazak Hamdallah ,Thay: Youssef En-Nesyri
-31,Ma rốc,78,substitution,Jawad El Yamiq ,Thay: Azzedine Ounahi
-31,Ma rốc,90+2',goal,Zakaria Aboukhlal ,Kiến tạo: Hakim Ziyech
-31,Ma rốc,90+5',yellow_card,Abdelhamid Sabiri,
-32,Croatia,36,goal,Andrej Kramaric ,Kiến tạo: Ivan Perisic
-32,Croatia,44,goal,Marko Livaja ,Kiến tạo: Josip Juranovic
-32,Croatia,56,yellow_card,Dejan Lovren,
-32,Croatia,60,substitution,Bruno Petkovic ,Thay: Marko Livaja
-32,Croatia,70,goal,Andrej Kramaric ,Kiến tạo: Ivan Perisic
-32,Croatia,72,substitution,Nikola Vlasic ,Thay: Andrej Kramaric
-32,Croatia,85,yellow_card,Luka Modric,
-32,Croatia,86,substitution,Mislav Orsic ,Thay: Ivan Perisic
-32,Croatia,90+4',goal,Lovro Majer ,Kiến tạo: Mislav Orsic
-32,Croatia,86,substitution,Mario Pasalic ,Thay: Luka Modric
-32,Croatia,86,substitution,Lovro Majer ,Thay: Mateo Kovacic
-32,Canada,2,goal,Alphonso Davies ,Kiến tạo: Tajon Buchanan
-32,Canada,46,substitution,Jonathan Osorio ,Thay: Cyle Larin
-32,Canada,46,substitution,Ismael Kone ,Thay: Stephen Eustaquio
-32,Canada,52,yellow_card,Tajon Buchanan,
-32,Canada,62,substitution,Junior Hoilett ,Thay: Richie Laryea
-32,Canada,72,substitution,Lucas Daniel Cavallini ,Thay: Jonathan David
-32,Canada,72,substitution,Sam Adekugbe ,Thay: Atiba Hutchinson
-32,Canada,85,yellow_card,Kamal Miller,
-33,ĐT Tây Ban Nha,44,yellow_card,Sergio Busquets,
-33,ĐT Tây Ban Nha,54,substitution,Alvaro Morata ,Thay: Ferran Torres
-33,ĐT Tây Ban Nha,62,goal,Alvaro Morata ,Kiến tạo: Jordi Alba
-33,ĐT Tây Ban Nha,66,substitution,Koke ,Thay: Marco Asensio
-33,ĐT Tây Ban Nha,66,substitution,Nico Williams ,Thay: Gavi
-33,ĐT Tây Ban Nha,82,substitution,Alex Balde ,Thay: Jordi Alba
-33,ĐT Đức,37,yellow_card,Thilo Kehrer,
-33,ĐT Đức,40,penalty_nogoal,Antonio Ruediger ,VAR check
-33,ĐT Đức,58,yellow_card,Leon Goretzka,
-33,ĐT Đức,60,yellow_card,Joshua Kimmich,
-33,ĐT Đức,70,substitution,Leroy Sane ,Thay: Ilkay Gundogan
-33,ĐT Đức,70,substitution,Niclas Fuellkrug ,Thay: Thomas Mueller
-33,ĐT Đức,70,substitution,Lukas Klostermann ,Thay: Thilo Kehrer
-33,ĐT Đức,83,goal,Niclas Fuellkrug ,Kiến tạo: Jamal Musiala
-33,ĐT Đức,85,substitution,Jonas Hofmann ,Thay: Serge Gnabry
-33,ĐT Đức,87,substitution,Nico Schlotterbeck ,Thay: David Raum
-34,Cameroon,24,yellow_card,Nicolas N'Koulou,
-34,Cameroon,29,goal,Jean-Charles Castelletto ,Kiến tạo: Nicolas N'Koulou
-34,Cameroon,30,yellow_card,Christian Bassogog,
-34,Cameroon,55,substitution,Vincent Aboubakar ,Thay: Martin Hongla
-34,Cameroon,63,goal,Vincent Aboubakar ,Kiến tạo: Jean-Charles Castelletto
-34,Cameroon,66,goal,Eric Maxim Choupo-Moting ,Kiến tạo: Vincent Aboubakar
-34,Cameroon,67,substitution,Gael Ondoua ,Thay: Pierre Kunde
-34,Cameroon,67,substitution,Christian Bassogog ,Thay: Karl Toko Ekambi
-34,Cameroon,81,substitution,Samuel Gouet ,Thay: Andre-Frank Zambo Anguissa
-34,Cameroon,81,substitution,Georges-Kevin N'Koudou ,Thay: Bryan Mbeumo
-34,Serbia,45+1',goal,Strahinja Pavlovic ,Kiến tạo: Dusan Tadic
-34,Serbia,45+3',goal,Sergej Milinkovic-Savic ,Kiến tạo: Andrija Zivkovic
-34,Serbia,45+4',yellow_card,Luka Jovic,
-34,Serbia,53,goal,Aleksandar Mitrovic ,Kiến tạo: Andrija Zivkovic
-34,Serbia,55,substitution,Stefan Mitrovic ,Thay: Strahinja Pavlovic
-34,Serbia,78,substitution,Srdjan Babic ,Thay: Milos Veljkovic
-34,Serbia,78,substitution,Marko Grujic ,Thay: Sergej Milinkovic-Savic
-34,Serbia,78,substitution,Nemanja Radonjic ,Thay: Andrija Zivkovic
-34,Serbia,90,substitution,Filip Djuricic ,Thay: Filip Kostic
-34,Serbia,90+3',yellow_card,Nikola Milenkovic,
-35,Hàn Quốc,27,yellow_card,Woo-Young Jung,
-35,Hàn Quốc,46,substitution,Sang-Ho Na ,Thay: Woo-Yeong Jeong
-35,Hàn Quốc,57,substitution,Kang-In Lee ,Thay: Chang-Hoon Kwon
-35,Hàn Quốc,58,goal,Gue-Sung Cho ,Kiến tạo: Kang-In Lee
-35,Hàn Quốc,61,goal,Gue-Sung Cho ,Kiến tạo: Jin-Su Kim
-35,Hàn Quốc,77,yellow_card,Young-Gwon Kim,
-35,Hàn Quốc,78,substitution,Ui-Jo Hwang ,Thay: Woo-Young Jung
-35,Hàn Quốc,90,substitution,Kyung-Won Kwon ,Thay: Min-Jae Kim
-35,Hàn Quốc,90+11',red_card,Paulo Bento,
-35,Ghana,21,yellow_card,Daniel Amartey,
-35,Ghana,24,goal,Mohammed Salisu,
-35,Ghana,34,goal,Mohammed Kudus ,Kiến tạo: Jordan Ayew
-35,Ghana,68,goal,Mohammed Kudus ,Kiến tạo: Inaki Williams
-35,Ghana,73,yellow_card,Tariq Lamptey,
-35,Ghana,78,substitution,Kamaldeen Sulemana ,Thay: Andre Ayew
-35,Ghana,78,substitution,Denis Odoi ,Thay: Tariq Lamptey
-35,Ghana,78,substitution,Daniel-Kofi Kyereh ,Thay: Jordan Ayew
-35,Ghana,83,substitution,Alexander Djiku ,Thay: Mohammed Kudus
-35,Ghana,88,substitution,Abdul Rahman Baba ,Thay: Gideon Mensah
-36,Brazil,46,substitution,Rodrygo ,Thay: Lucas Paqueta
-36,Brazil,52,yellow_card,Fred,
-36,Brazil,58,substitution,Bruno Guimaraes ,Thay: Fred
-36,Brazil,64,penalty_nogoal,Vinicius Junior ,VAR check
-36,Brazil,73,substitution,Gabriel Jesus ,Thay: Richarlison
-36,Brazil,73,substitution,Antony ,Thay: Raphinha
-36,Brazil,83,goal,Casemiro ,Kiến tạo: Rodrygo
-36,Brazil,86,substitution,Alex Telles ,Thay: Alex Sandro
-36,Thụy Sĩ,50,yellow_card,Fabian Rieder,
-36,Thụy Sĩ,58,substitution,Edimilson Fernandes ,Thay: Ruben Vargas
-36,Thụy Sĩ,58,substitution,Renato Steffen ,Thay: Fabian Rieder
-36,Thụy Sĩ,76,substitution,Michel Aebischer ,Thay: Djibril Sow
-36,Thụy Sĩ,76,substitution,Haris Seferovic ,Thay: Breel Embolo
-36,Thụy Sĩ,86,substitution,Fabian Frei ,Thay: Silvan Widmer
-37,ĐT Bồ Đào Nha,38,yellow_card,Ruben Neves,
-37,ĐT Bồ Đào Nha,42,substitution,Raphael Guerreiro ,Thay: Nuno Mendes
-37,ĐT Bồ Đào Nha,54,goal,Bruno Fernandes ,Kiến tạo: Raphael Guerreiro
-37,ĐT Bồ Đào Nha,69,substitution,Rafael Leao ,Thay: Ruben Neves
-37,ĐT Bồ Đào Nha,77,yellow_card,Joao Felix,
-37,ĐT Bồ Đào Nha,89,yellow_card,Ruben Dias,
-37,ĐT Bồ Đào Nha,82,substitution,Matheus Nunes ,Thay: Joao Felix
-37,ĐT Bồ Đào Nha,82,substitution,Goncalo Ramos ,Thay: Cristiano Ronaldo
-37,ĐT Bồ Đào Nha,82,substitution,Joao Palhinha ,Thay: William Carvalho
-37,ĐT Bồ Đào Nha,90+3',goal, Bruno Fernandes,Pen
-37,Uruguay,6,yellow_card,Rodrigo Bentancur,
-37,Uruguay,44,yellow_card,Mathias Olivera,
-37,Uruguay,62,substitution,Giorgian De Arrascaeta ,Thay: Matias Vecino
-37,Uruguay,62,substitution,Facundo Pellistri ,Thay: Diego Godin
-37,Uruguay,72,substitution,Maximiliano Gomez ,Thay: Darwin Nunez
-37,Uruguay,72,substitution,Luis Suarez ,Thay: Edinson Cavani
-37,Uruguay,86,substitution,Matias Vina ,Thay: Mathias Olivera
-38,Ecuador,46,substitution,Jose Cifuentes ,Thay: Carlos Gruezo
-38,Ecuador,46,substitution,Jeremy Sarmiento ,Thay: Alan Franco
-38,Ecuador,64,substitution,Djorkaeff Reasco ,Thay: Michael Estrada
-38,Ecuador,67,goal,Moises Caicedo ,Kiến tạo: Felix Torres
-38,Ecuador,85,substitution,Jackson Porozo ,Thay: Angelo Preciado
-38,Senegal,44,goal, Ismaila Sarr,Pen
-38,Senegal,66,yellow_card,Idrissa Gana Gueye,
-38,Senegal,70,goal,Kalidou Koulibaly,
-38,Senegal,74,substitution,Nampalys Mendy ,Thay: Pathe Ciss
-38,Senegal,74,substitution,Ahmadou Bamba Dieng ,Thay: Iliman Ndiaye
-38,Senegal,90,substitution,Pape Abou Cisse ,Thay: Boulaye Dia
-39,ĐT Hà Lan,26,goal,Cody Gakpo ,Kiến tạo: Davy Klaassen
-39,ĐT Hà Lan,49,goal,Frenkie de Jong,
-39,ĐT Hà Lan,52,yellow_card,Nathan Ake,
-39,ĐT Hà Lan,66,substitution,Steven Berghuis ,Thay: Davy Klaassen
-39,ĐT Hà Lan,68,penalty_nogoal,Steven Berghuis ,VAR check
-39,ĐT Hà Lan,66,substitution,Vincent Janssen ,Thay: Memphis Depay
-39,ĐT Hà Lan,82,substitution,Wout Weghorst ,Thay: Cody Gakpo
-39,ĐT Hà Lan,82,substitution,Teun Koopmeiners ,Thay: Marten de Roon
-39,ĐT Hà Lan,86,substitution,Kenneth Taylor ,Thay: Frenkie de Jong
-39,Qatar,64,substitution,Ali Assadalla ,Thay: Hassan Al Haidos
-39,Qatar,64,substitution,Mohammed Muntari ,Thay: Almoez Ali
-39,Qatar,64,substitution,Karim Boudiaf ,Thay: Assim Madibo
-39,Qatar,85,substitution,Ahmed Alaaeldin ,Thay: Abdulaziz Hatem
-39,Qatar,85,substitution,Musab Kheder ,Thay: Ismael Mohammad
-40,Iran,45,substitution,Ali Karimi ,Thay: Milad Mohammadi
-40,Iran,46,substitution,Saman Ghoddos ,Thay: Sardar Azmoun
-40,Iran,71,substitution,Mehdi Torabi ,Thay: Ahmad Nourollahi
-40,Iran,71,substitution,Abolfazl Jalali ,Thay: Ehsan Haji Safi
-40,Iran,77,yellow_card,Majid Hosseini,
-40,Iran,77,substitution,Karim Ansarifard ,Thay: Ali Gholizadeh
-40,Iran,83,yellow_card,Hossein Kanaani,
-40,Iran,90+6',yellow_card,Abolfazl Jalali,
-40,Mỹ,38,goal,Christian Pulisic ,Kiến tạo: Sergino Dest
-40,Mỹ,43,yellow_card,Tyler Adams,
-40,Mỹ,46,substitution,Brenden Aaronson ,Thay: Christian Pulisic
-40,Mỹ,65,substitution,Kellyn Acosta ,Thay: Weston McKennie
-40,Mỹ,77,substitution,Haji Wright ,Thay: Joshua Sargent
-40,Mỹ,82,substitution,Walker Zimmerman ,Thay: Sergino Dest
-40,Mỹ,82,substitution,Shaq Moore ,Thay: Timothy Weah
-41,Wales,29,yellow_card,Daniel James,
-41,Wales,36,substitution,Connor Roberts ,Thay: Neco Williams
-41,Wales,46,substitution,Brennan Johnson ,Thay: Gareth Bale
-41,Wales,61,yellow_card,Aaron Ramsey,
-41,Wales,59,substitution,Joe Morrell ,Thay: Ben Davies
-41,Wales,77,substitution,Harry Wilson ,Thay: Daniel James
-41,Wales,81,substitution,Rubin Colwill ,Thay: Joe Allen
-41,ĐT Anh,50,goal,Marcus Rashford,
-41,ĐT Anh,51,goal,Phil Foden ,Kiến tạo: Harry Kane
-41,ĐT Anh,57,substitution,Trent Alexander-Arnold ,Thay: Kyle Walker
-41,ĐT Anh,58,substitution,Callum Wilson ,Thay: Harry Kane
-41,ĐT Anh,58,substitution,Kalvin Phillips ,Thay: Declan Rice
-41,ĐT Anh,68,goal,Marcus Rashford ,Kiến tạo: Kalvin Phillips
-41,ĐT Anh,65,substitution,Kieran Trippier ,Thay: Luke Shaw
-41,ĐT Anh,75,substitution,Jack Grealish ,Thay: Marcus Rashford
-42,Tunisia,9,penalty_nogoal,,VAR check
-42,Tunisia,28,yellow_card,Wajdi Kechrida,
-42,Tunisia,58,goal,Wahbi Khazri ,Kiến tạo: Aissa Laidouni
-42,Tunisia,60,substitution,Issam Jebali ,Thay: Wahbi Khazri
-42,Tunisia,74,substitution,Ghaylen Chaaleli ,Thay: Mohamed Ali Ben Romdhane
-42,Tunisia,83,substitution,Ali Abdi ,Thay: Anis Ben Slimane
-42,ĐT Pháp,63,substitution,William Saliba ,Thay: Raphael Varane
-42,ĐT Pháp,63,substitution,Adrien Rabiot ,Thay: Jordan Veretout
-42,ĐT Pháp,63,substitution,Kylian Mbappe ,Thay: Kingsley Coman
-42,ĐT Pháp,73,substitution,Antoine Griezmann ,Thay: Youssouf Fofana
-42,ĐT Pháp,79,substitution,Ousmane Dembele ,Thay: Matteo Guendouzi
-42,ĐT Pháp,90+8',penalty_nogoal,Antoine Griezmann ,VAR check
-43,Australia,4,yellow_card,Aziz Behich,
-43,Australia,46,substitution,Keanu Baccus ,Thay: Craig Goodwin
-43,Australia,57,yellow_card,Milos Degenek,
-43,Australia,60,goal,Matthew Leckie ,Kiến tạo: Riley McGree
-43,Australia,74,substitution,Bailey Wright ,Thay: Riley McGree
-43,Australia,82,substitution,Jamie Maclaren ,Thay: Mitchell Duke
-43,Australia,89,substitution,Ajdin Hrustic ,Thay: Matthew Leckie
-43,ĐT Đan Mạch,46,substitution,Alexander Bah ,Thay: Rasmus Kristensen
-43,ĐT Đan Mạch,59,substitution,Kasper Dolberg ,Thay: Martin Braithwaite
-43,ĐT Đan Mạch,59,substitution,Mikkel Damsgaard ,Thay: Mathias Jensen
-43,ĐT Đan Mạch,69,substitution,Robert Skov ,Thay: Andreas Skov Olsen
-43,ĐT Đan Mạch,69,substitution,Andreas Cornelius ,Thay: Joakim Maehle
-43,ĐT Đan Mạch,75,yellow_card,Robert Skov,
-44,Ba Lan,46,substitution,Michal Skoras ,Thay: Przemyslaw Frankowski
-44,Ba Lan,46,substitution,Jakub Kaminski ,Thay: Karol Swiderski
-44,Ba Lan,46,substitution,Michal Skoras ,Thay: Karol Swiderski
-44,Ba Lan,46,substitution,Jakub Kaminski ,Thay: Przemyslaw Frankowski
-44,Ba Lan,62,substitution,Damian Szymanski ,Thay: Krystian Bielik
-44,Ba Lan,72,substitution,Artur Jedrzejczyk ,Thay: Bartosz Bereszynski
-44,Ba Lan,78,yellow_card,Grzegorz Krychowiak,
-44,Ba Lan,83,substitution,Krzysztof Piatek ,Thay: Grzegorz Krychowiak
-44,Argentina,39,penalty_nogoal, Lionel Messi,Pen
-44,Argentina,46,goal,Alexis Mac Allister ,Kiến tạo: Nahuel Molina
-44,Argentina,49,yellow_card,Marcos Acuna,
-44,Argentina,59,substitution,Leandro Paredes ,Thay: Angel Di Maria
-44,Argentina,59,substitution,Nicolas Tagliafico ,Thay: Marcos Acuna
-44,Argentina,67,goal,Julian Alvarez ,Kiến tạo: Enzo Fernandez
-44,Argentina,79,substitution,Lautaro Martinez ,Thay: Julian Alvarez
-44,Argentina,79,substitution,German Pezzella ,Thay: Enzo Fernandez
-44,Argentina,83,substitution,Thiago Almada ,Thay: Alexis Mac Allister
-45,Ả Rập Xê-út,28,yellow_card,Saleh Al-Shehri,
-45,Ả Rập Xê-út,34,yellow_card,Ali Al-Hassan,
-45,Ả Rập Xê-út,37,substitution,Riyadh Sharahili ,Thay: Ali Al-Boleahi
-45,Ả Rập Xê-út,46,substitution,Abdullah Madu ,Thay: Ali Al-Hassan
-45,Ả Rập Xê-út,52,yellow_card,Hassan Altambakti,
-45,Ả Rập Xê-út,62,substitution,Abdulrahman Al-Obood ,Thay: Saleh Al-Shehri
-45,Ả Rập Xê-út,81,yellow_card,Abdullah Madu,
-45,Ả Rập Xê-út,88,substitution,Hattan Sultan Babhir ,Thay: Sultan Al Ghanam
-45,Ả Rập Xê-út,90+1',yellow_card,Abdulelah Al Amri,
-45,Ả Rập Xê-út,90+5',goal,Salem Al-Dawsari ,Kiến tạo: Hattan Sultan Babhir
-45,Ả Rập Xê-út,90+7',yellow_card,Hattan Sultan Babhir,
-45,Mexico,16,yellow_card,Edson Alvarez,
-45,Mexico,47,goal,Henry Martin ,Kiến tạo: Cesar Montes
-45,Mexico,46,substitution,Uriel Antuna ,Thay: Alexis Vega
-45,Mexico,52,goal,Luis Chavez,
-45,Mexico,77,substitution,Raul Jimenez ,Thay: Henry Martin
-45,Mexico,77,substitution,Carlos Rodriguez ,Thay: Orbelin Pineda
-45,Mexico,88,substitution,Rogelio Funes Mori ,Thay: Edson Alvarez
-45,Mexico,88,substitution,Kevin Alvarez ,Thay: Jorge Sanchez
-45,Mexico,86,substitution,Rogelio Funes Mori ,Thay: Edson Alvarez
-45,Mexico,86,substitution,Kevin Alvarez ,Thay: Jorge Sanchez
-46,Canada,7,yellow_card,Junior Hoilett,
-46,Canada,26,yellow_card,Jonathan Osorio,
-46,Canada,40,goal, Naif Aguerd,og
-46,Canada,45+2',yellow_card,Sam Adekugbe,
-46,Canada,60,substitution,Atiba Hutchinson ,Thay: Mark-Anthony Kaye
-46,Canada,60,substitution,Ismael Kone ,Thay: Sam Adekugbe
-46,Canada,60,substitution,Jonathan David ,Thay: Cyle Larin
-46,Canada,65,substitution,Richie Laryea ,Thay: Jonathan Osorio
-46,Canada,76,substitution,David Wotherspoon ,Thay: Junior Hoilett
-46,Canada,84,yellow_card,Steven Vitoria,
-46,Ma rốc,4,goal,Hakim Ziyech,
-46,Ma rốc,23,goal,Youssef En-Nesyri ,Kiến tạo: Achraf Hakimi
-46,Ma rốc,65,substitution,Zakaria Aboukhlal ,Thay: Sofiane Boufal
-46,Ma rốc,65,substitution,Selim Amallah ,Thay: Abdelhamid Sabiri
-46,Ma rốc,76,substitution,Abderazak Hamdallah ,Thay: Hakim Ziyech
-46,Ma rốc,76,substitution,Jawad El Yamiq ,Thay: Azzedine Ounahi
-46,Ma rốc,85,substitution,Yahya Jabrane ,Thay: Achraf Hakimi
-46,Ma rốc,76,substitution,Abderrazak Hamdallah ,Thay: Hakim Ziyech
-47,Croatia,64,substitution,Bruno Petkovic ,Thay: Marko Livaja
-47,Croatia,64,substitution,Mario Pasalic ,Thay: Andrej Kramaric
-47,Croatia,90,substitution,Lovro Majer ,Thay: Mateo Kovacic
-47,ĐT Bỉ,46,substitution,Romelu Lukaku ,Thay: Dries Mertens
-47,ĐT Bỉ,59,substitution,Thorgan Hazard ,Thay: Leandro Trossard
-47,ĐT Bỉ,67,yellow_card,Leander Dendoncker,
-47,ĐT Bỉ,72,substitution,Jeremy Doku ,Thay: Yannick Carrasco
-47,ĐT Bỉ,72,substitution,Youri Tielemans ,Thay: Leander Dendoncker
-47,ĐT Bỉ,87,substitution,Eden Hazard ,Thay: Thomas Meunier
-48,Costa Rica,46,substitution,Youstin Salas ,Thay: Brandon Aguilera
-48,Costa Rica,58,goal,Yeltsin Tejeda,
-48,Costa Rica,70,goal, Manuel Neuer,og
-48,Costa Rica,74,substitution,Jewison Bennette ,Thay: Keysher Fuller
-48,Costa Rica,74,substitution,Ronald Matarrita ,Thay: Johan Venegas
-48,Costa Rica,77,yellow_card,Oscar Duarte,
-48,Costa Rica,90,substitution,Anthony Contreras ,Thay: Yeltsin Tejeda
-48,Costa Rica,90,substitution,Roan Wilson ,Thay: Bryan Oviedo
-48,ĐT Đức,10,goal,Serge Gnabry ,Kiến tạo: David Raum
-48,ĐT Đức,46,substitution,Lukas Klostermann ,Thay: Leon Goretzka
-48,ĐT Đức,55,substitution,Niclas Fuellkrug ,Thay: Ilkay Gundogan
-48,ĐT Đức,66,substitution,Kai Havertz ,Thay: Thomas Mueller
-48,ĐT Đức,66,substitution,Mario Goetze ,Thay: David Raum
-48,ĐT Đức,73,goal,Kai Havertz ,Kiến tạo: Niclas Fuellkrug
-48,ĐT Đức,85,goal,Kai Havertz ,Kiến tạo: Serge Gnabry
-48,ĐT Đức,89,goal,Niclas Fuellkrug ,Kiến tạo: Leroy Sane
-48,ĐT Đức,90,substitution,Matthias Ginter ,Thay: Niklas Suele
-49,Nhật Bản,39,yellow_card,Ko Itakura,
-49,Nhật Bản,44,yellow_card,Shogo Taniguchi,
-49,Nhật Bản,45,yellow_card,Maya Yoshida,
-49,Nhật Bản,48,goal,Ritsu Doan ,Kiến tạo: Junya Ito
-49,Nhật Bản,46,substitution,Ritsu Doan ,Thay: Takefusa Kubo
-49,Nhật Bản,46,substitution,Kaoru Mitoma ,Thay: Yuto Nagatomo
-49,Nhật Bản,51,goal,Ao Tanaka ,Kiến tạo: Kaoru Mitoma
-49,Nhật Bản,62,substitution,Takuma Asano ,Thay: Daizen Maeda
-49,Nhật Bản,68,substitution,Takehiro Tomiyasu ,Thay: Daichi Kamada
-49,Nhật Bản,87,substitution,Wataru Endo ,Thay: Ao Tanaka
-49,ĐT Tây Ban Nha,11,goal,Alvaro Morata ,Kiến tạo: Cesar Azpilicueta
-49,ĐT Tây Ban Nha,46,substitution,Dani Carvajal ,Thay: Cesar Azpilicueta
-49,ĐT Tây Ban Nha,46,substitution,Daniel Carvajal ,Thay: Cesar Azpilicueta
-49,ĐT Tây Ban Nha,57,substitution,Ferran Torres ,Thay: Nico Williams
-49,ĐT Tây Ban Nha,57,substitution,Marco Asensio ,Thay: Alvaro Morata
-49,ĐT Tây Ban Nha,68,substitution,Ansu Fati ,Thay: Gavi
-49,ĐT Tây Ban Nha,68,substitution,Jordi Alba ,Thay: Alex Balde
-50,Ghana,21,penalty_nogoal, Andre Ayew,Pen
-50,Ghana,46,substitution,Kamaldeen Sulemana ,Thay: Jordan Ayew
-50,Ghana,46,substitution,Osman Bukari ,Thay: Andre Ayew
-50,Ghana,72,substitution,Antoine Semenyo ,Thay: Inaki Williams
-50,Ghana,72,substitution,Daniel-Kofi Kyereh ,Thay: Salis Abdul Samed
-50,Ghana,86,yellow_card,Kamaldeen Sulemana,
-50,Ghana,90,substitution,Abdul Issahaku ,Thay: Mohammed Kudus
-50,Ghana,90+9',yellow_card,Alidu Seidu,
-50,Uruguay,20,yellow_card,Darwin Nunez,
-50,Uruguay,26,goal,Giorgian De Arrascaeta,
-50,Uruguay,32,goal,Giorgian De Arrascaeta ,Kiến tạo: Luis Suarez
-50,Uruguay,34,substitution,Matias Vecino ,Thay: Rodrigo Bentancur
-50,Uruguay,60,yellow_card,Luis Suarez,
-50,Uruguay,66,substitution,Edinson Cavani ,Thay: Luis Suarez
-50,Uruguay,66,substitution,Nicolas de la Cruz ,Thay: Facundo Pellistri
-50,Uruguay,80,substitution,Maximiliano Gomez ,Thay: Giorgian De Arrascaeta
-50,Uruguay,80,substitution,Agustin Canobbio ,Thay: Darwin Nunez
-50,Uruguay,87,yellow_card,Sebastian Coates,
-50,Uruguay,90+10',yellow_card,Edinson Cavani,
-50,Uruguay,90+10',yellow_card,Jose Gimenez,
-51,Hàn Quốc,27,goal,Young-Gwon Kim,
-51,Hàn Quốc,36,yellow_card,Kang-In Lee,
-51,Hàn Quốc,65,substitution,Hee-Chan Hwang ,Thay: Jae-Sung Lee
-51,Hàn Quốc,81,substitution,Joon-Ho Son ,Thay: Kang-In Lee
-51,Hàn Quốc,81,substitution,Ui-Jo Hwang ,Thay: Young-Gwon Kim
-51,Hàn Quốc,90+1',goal,Hee-Chan Hwang ,Kiến tạo: Heung-Min Son
-51,Hàn Quốc,90+2',yellow_card,Hee-Chan Hwang,
-51,Hàn Quốc,90,substitution,Yu-Min Cho ,Thay: Gue-Sung Cho
-51,ĐT Bồ Đào Nha,5,goal,Ricardo Horta ,Kiến tạo: Diogo Dalot
-51,ĐT Bồ Đào Nha,65,substitution,Joao Palhinha ,Thay: Matheus Nunes
-51,ĐT Bồ Đào Nha,65,substitution,Andre Silva ,Thay: Cristiano Ronaldo
-51,ĐT Bồ Đào Nha,65,substitution,Rafael Leao ,Thay: Ruben Neves
-51,ĐT Bồ Đào Nha,81,substitution,William Carvalho ,Thay: Vitinha
-51,ĐT Bồ Đào Nha,81,substitution,Bernardo Silva ,Thay: Joao Mario
-52,Cameroon,6,yellow_card,Nouhou Tolo,
-52,Cameroon,28,yellow_card,Pierre Kunde,
-52,Cameroon,32,yellow_card,Collins Fai,
-52,Cameroon,64,substitution,Karl Toko Ekambi ,Thay: Bryan Mbeumo
-52,Cameroon,68,substitution,Olivier Ntcham ,Thay: Pierre Kunde
-52,Cameroon,81,yellow_card,Vincent Aboubakar,
-52,Cameroon,86,substitution,Jerome Mbekeli ,Thay: Nicolas Ngamaleu
-52,Cameroon,90+2',goal,Vincent Aboubakar ,Kiến tạo: Jerome Mbekeli
-52,Cameroon,90+3',yellow_red_card,Vincent Aboubakar,
-52,Brazil,7,yellow_card,Eder Militao,
-52,Brazil,54,substitution,Marquinhos ,Thay: Alex Telles
-52,Brazil,54,substitution,Bruno Guimaraes ,Thay: Fred
-52,Brazil,54,substitution,Everton Ribeiro ,Thay: Rodrygo
-52,Brazil,64,substitution,Pedro ,Thay: Gabriel Jesus
-52,Brazil,79,substitution,Raphinha ,Thay: Antony
-52,Brazil,85,yellow_card,Bruno Guimaraes,
-53,Serbia,26,goal,Aleksandar Mitrovic ,Kiến tạo: Dusan Tadic
-53,Serbia,35,goal,Dusan Vlahovic,
-53,Serbia,47,yellow_card,Sergej Milinkovic-Savic,
-53,Serbia,56,yellow_card,Strahinja Pavlovic,
-53,Serbia,55,substitution,Luka Jovic ,Thay: Dusan Vlahovic
-53,Serbia,55,substitution,Nemanja Gudelj ,Thay: Milos Veljkovic
-53,Serbia,66,yellow_card,Predrag Rajkovic,
-53,Serbia,68,substitution,Nemanja Maksimovic ,Thay: Sergej Milinkovic-Savic
-53,Serbia,78,substitution,Filip Djuricic ,Thay: Dusan Tadic
-53,Serbia,78,substitution,Nemanja Radonjic ,Thay: Andrija Zivkovic
-53,Serbia,81,yellow_card,Nemanja Gudelj,
-53,Serbia,82,yellow_card,Aleksandar Mitrovic,
-53,Serbia,90+5',yellow_card,Nikola Milenkovic,
-53,Serbia,90+10',yellow_card,Sasa Lukic,
-53,Thụy Sĩ,15,yellow_card,Silvan Widmer,
-53,Thụy Sĩ,20,goal,Xherdan Shaqiri ,Kiến tạo: Djibril Sow
-53,Thụy Sĩ,34,yellow_card,Ruben Vargas,
-53,Thụy Sĩ,44,goal,Breel Embolo ,Kiến tạo: Silvan Widmer
-53,Thụy Sĩ,48,goal,Remo Freuler ,Kiến tạo: Ruben Vargas
-53,Thụy Sĩ,69,substitution,Edimilson Fernandes ,Thay: Djibril Sow
-53,Thụy Sĩ,69,substitution,Denis Zakaria ,Thay: Xherdan Shaqiri
-53,Thụy Sĩ,83,substitution,Christian Fassnacht ,Thay: Ruben Vargas
-53,Thụy Sĩ,90+5',yellow_card,Granit Xhaka,
-53,Thụy Sĩ,90,substitution,Noah Okafor ,Thay: Breel Embolo
-53,Thụy Sĩ,90+9',yellow_card,Fabian Schaer,
-54,Hà Lan,10,goal,Memphis Depay ,Kiến tạo: Denzel Dumfries
-54,Hà Lan,45+1',goal,Daley Blind ,Kiến tạo: Denzel Dumfries
-54,Hà Lan,46,substitution,Teun Koopmeiners ,Thay: Davy Klaassen
-54,Hà Lan,46,substitution,Steven Bergwijn ,Thay: Marten de Roon
-54,Hà Lan,60,yellow_card,Teun Koopmeiners,
-54,Hà Lan,81,goal,Denzel Dumfries ,Kiến tạo: Daley Blind
-54,Hà Lan,87,yellow_card,Frenkie de Jong,
-54,Hà Lan,82,substitution,Xavi Simons ,Thay: Memphis Depay
-54,Hà Lan,90,substitution,Matthijs de Ligt ,Thay: Nathan Ake
-54,Hà Lan,90,substitution,Wout Weghorst ,Thay: Cody Gakpo
-54,Mỹ,46,substitution,Giovanni Reyna ,Thay: Jesus Ferreira
-54,Mỹ,67,substitution,Brenden Aaronson ,Thay: Timothy Weah
-54,Mỹ,67,substitution,Haji Wright ,Thay: Weston McKennie
-54,Mỹ,76,goal,Haji Wright ,Kiến tạo: Christian Pulisic
-54,Mỹ,76,substitution,DeAndre Yedlin ,Thay: Sergino Dest
-54,Mỹ,90,substitution,Jordan Morris ,Thay: Antonee Robinson
-55,Argentina,35,goal,Lionel Messi ,Kiến tạo: Nicolas Otamendi
-55,Argentina,50,substitution,Lisandro Martinez ,Thay: Alejandro Gomez
-55,Argentina,57,goal,Julian Alvarez,
-55,Argentina,71,substitution,Lautaro Martinez ,Thay: Julian Alvarez
-55,Argentina,72,substitution,Nicolas Tagliafico ,Thay: Marcos Acuna
-55,Argentina,80,substitution,Exequiel Palacios ,Thay: Alexis Mac Allister
-55,Argentina,80,substitution,Gonzalo Montiel ,Thay: Nahuel Molina
-55,Australia,15,yellow_card,Jackson Irvine,
-55,Australia,38,yellow_card,Milos Degenek,
-55,Australia,58,substitution,Craig Goodwin ,Thay: Riley McGree
-55,Australia,58,substitution,Ajdin Hrustic ,Thay: Keanu Baccus
-55,Australia,72,substitution,Garang Kuol ,Thay: Matthew Leckie
-55,Australia,72,substitution,Fran Karacic ,Thay: Milos Degenek
-55,Australia,72,substitution,Jamie Maclaren ,Thay: Mitchell Duke
-55,Australia,77,goal, Enzo Fernandez,og
-56,Pháp,32,yellow_card,Aurelien Tchouameni,
-56,Pháp,44,goal,Olivier Giroud ,Kiến tạo: Kylian Mbappe
-56,Pháp,66,substitution,Youssouf Fofana ,Thay: Aurelien Tchouameni
-56,Pháp,74,goal,Kylian Mbappe ,Kiến tạo: Ousmane Dembele
-56,Pháp,76,substitution,Marcus Thuram ,Thay: Olivier Giroud
-56,Pháp,76,substitution,Kingsley Coman ,Thay: Ousmane Dembele
-56,Pháp,90+1',goal,Kylian Mbappe ,Kiến tạo: Marcus Thuram
-56,Pháp,90,substitution,Axel Disasi ,Thay: Jules Kounde
-56,Ba Lan,47,yellow_card,Bartosz Bereszynski,
-56,Ba Lan,64,substitution,Arkadiusz Milik ,Thay: Sebastian Szymanski
-56,Ba Lan,71,substitution,Nicola Zalewski ,Thay: Jakub Kaminski
-56,Ba Lan,71,substitution,Krystian Bielik ,Thay: Grzegorz Krychowiak
-56,Ba Lan,87,substitution,Jan Bednarek ,Thay: Jakub Kiwior
-56,Ba Lan,87,substitution,Kamil Grosicki ,Thay: Przemyslaw Frankowski
-56,Ba Lan,88,yellow_card,Matty Cash,
-56,Ba Lan,90+8',penalty_nogoal, Robert Lewandowski,Pen
-56,Ba Lan,90+9',goal, Robert Lewandowski,Pen
-57,ĐT Anh,38,goal,Jordan Henderson ,Kiến tạo: Jude Bellingham
-57,ĐT Anh,45+3',goal,Harry Kane ,Kiến tạo: Phil Foden
-57,ĐT Anh,57,goal,Bukayo Saka ,Kiến tạo: Phil Foden
-57,ĐT Anh,65,substitution,Jack Grealish ,Thay: Phil Foden
-57,ĐT Anh,65,substitution,Marcus Rashford ,Thay: Bukayo Saka
-57,ĐT Anh,76,substitution,Mason Mount ,Thay: Jude Bellingham
-57,ĐT Anh,76,substitution,Eric Dier ,Thay: John Stones
-57,ĐT Anh,82,substitution,Kalvin Phillips ,Thay: Jordan Henderson
-57,Senegal,46,substitution,Pape Sarr ,Thay: Krepin Diatta
-57,Senegal,46,substitution,Ahmadou Bamba Dieng ,Thay: Iliman Ndiaye
-57,Senegal,46,substitution,Pape Gueye ,Thay: Pathe Ciss
-57,Senegal,72,substitution,Famara Diedhiou ,Thay: Boulaye Dia
-57,Senegal,76,yellow_card,Kalidou Koulibaly,
-57,Senegal,84,substitution,Fode Ballo-Toure ,Thay: Ismail Jakobs
-58,Nhật Bản,43,goal,Daizen Maeda ,Kiến tạo: Maya Yoshida
-58,Nhật Bản,64,substitution,Kaoru Mitoma ,Thay: Yuto Nagatomo
-58,Nhật Bản,64,substitution,Takuma Asano ,Thay: Daizen Maeda
-58,Nhật Bản,75,substitution,Hiroki Sakai ,Thay: Daichi Kamada
-58,Nhật Bản,87,substitution,Takumi Minamino ,Thay: Ritsu Doan
-58,Nhật Bản,106,substitution,Ao Tanaka ,Thay: Hidemasa Morita
-58,Croatia,55,goal,Ivan Perisic ,Kiến tạo: Dejan Lovren
-58,Croatia,62,substitution,Ante Budimir ,Thay: Bruno Petkovic
-58,Croatia,68,substitution,Mario Pasalic ,Thay: Andrej Kramaric
-58,Croatia,90,yellow_card,Mateo Kovacic,
-58,Croatia,99,substitution,Lovro Majer ,Thay: Luka Modric
-58,Croatia,99,substitution,Nikola Vlasic ,Thay: Mateo Kovacic
-58,Croatia,106,substitution,Marko Livaja ,Thay: Ante Budimir
-58,Croatia,106,substitution,Mislav Orsic ,Thay: Ivan Perisic
-58,Croatia,116,yellow_card,Borna Barisic,
-59,Brazil,7,goal,Vinicius Junior ,Kiến tạo: Neymar
-59,Brazil,13,goal, Neymar,Pen
-59,Brazil,29,goal,Richarlison ,Kiến tạo: Thiago Silva
-59,Brazil,36,goal,Lucas Paqueta ,Kiến tạo: Vinicius Junior
-59,Brazil,63,substitution,Dani Alves ,Thay: Eder Militao
-59,Brazil,72,substitution,Gleison Bremer ,Thay: Danilo
-59,Brazil,72,substitution,Gabriel Martinelli ,Thay: Vinicius Junior
-59,Brazil,80,substitution,Weverton ,Thay: Alisson Becker
-59,Brazil,80,substitution,Rodrygo ,Thay: Neymar
-59,Hàn Quốc,44,yellow_card,Woo-Young Jung,
-59,Hàn Quốc,46,substitution,Chul Hong ,Thay: Jin-Su Kim
-59,Hàn Quốc,46,substitution,Joon-Ho Son ,Thay: Woo-Young Jung
-59,Hàn Quốc,65,substitution,Seung-Ho Paik ,Thay: In-Beom Hwang
-59,Hàn Quốc,74,substitution,Kang-In Lee ,Thay: Jae-Sung Lee
-59,Hàn Quốc,76,goal,Seung-Ho Paik,
-59,Hàn Quốc,80,substitution,Ui-Jo Hwang ,Thay: Gue-Sung Cho
-60,Ma rốc,66,substitution,Abdessamad Ezzalzouli ,Thay: Sofiane Boufal
-60,Ma rốc,82,substitution,Abdelhamid Sabiri ,Thay: Youssef En-Nesyri
-60,Ma rốc,82,substitution,Walid Cheddira ,Thay: Selim Amallah
-60,Ma rốc,82,substitution,Yahia Attiyat Allah ,Thay: Noussair Mazraoui
-60,Ma rốc,84,substitution,Jawad El Yamiq ,Thay: Naif Aguerd
-60,Ma rốc,90,yellow_card,Romain Saiss,
-60,Ma rốc,120,substitution,Badr Banoune ,Thay: Azzedine Ounahi
-60,Tây Ban Nha,63,substitution,Carlos Soler ,Thay: Gavi
-60,Tây Ban Nha,63,substitution,Alvaro Morata ,Thay: Marco Asensio
-60,Tây Ban Nha,75,substitution,Nico Williams ,Thay: Ferran Torres
-60,Tây Ban Nha,77,yellow_card,Aymeric Laporte,
-60,Tây Ban Nha,98,substitution,Ansu Fati ,Thay: Dani Olmo
-60,Tây Ban Nha,98,substitution,Alex Balde ,Thay: Jordi Alba
-60,Tây Ban Nha,118,substitution,Pablo Sarabia ,Thay: Nico Williams
-61,Bồ Đào Nha,17,goal,Goncalo Ramos ,Kiến tạo: Joao Felix
-61,Bồ Đào Nha,33,goal,Pepe ,Kiến tạo: Bruno Fernandes
-61,Bồ Đào Nha,51,goal,Goncalo Ramos ,Kiến tạo: Diogo Dalot
-61,Bồ Đào Nha,55,goal,Raphael Guerreiro ,Kiến tạo: Goncalo Ramos
-61,Bồ Đào Nha,67,goal,Goncalo Ramos ,Kiến tạo: Joao Felix
-61,Bồ Đào Nha,74,substitution,Cristiano Ronaldo ,Thay: Goncalo Ramos
-61,Bồ Đào Nha,74,substitution,Vitinha ,Thay: Otavio
-61,Bồ Đào Nha,74,substitution,Ricardo Horta ,Thay: Joao Felix
-61,Bồ Đào Nha,81,substitution,Ruben Neves ,Thay: Bernardo Silva
-61,Bồ Đào Nha,87,substitution,Rafael Leao ,Thay: Bruno Fernandes
-61,Bồ Đào Nha,90+2',goal,Rafael Leao ,Kiến tạo: Raphael Guerreiro
-61,Thụy Sĩ,43,yellow_card,Fabian Schaer,
-61,Thụy Sĩ,46,substitution,Eray Comert ,Thay: Fabian Schar
-61,Thụy Sĩ,46,substitution,Eray Coemert ,Thay: Fabian Schaer
-61,Thụy Sĩ,54,substitution,Denis Zakaria ,Thay: Remo Freuler
-61,Thụy Sĩ,54,substitution,Haris Seferovic ,Thay: Djibril Sow
-61,Thụy Sĩ,58,goal,Manuel Akanji,
-61,Thụy Sĩ,59,yellow_card,Eray Coemert,
-61,Thụy Sĩ,66,substitution,Noah Okafor ,Thay: Ruben Vargas
-61,Thụy Sĩ,89,substitution,Ardon Jashari ,Thay: Breel Embolo
-62,Croatia,7,goal,Josko Gvardiol ,Kiến tạo: Ivan Perisic
-62,Croatia,42,goal,Mislav Orsic ,Kiến tạo: Marko Livaja
-62,Croatia,61,substitution,Nikola Vlasic ,Thay: Andrej Kramaric
-62,Croatia,66,substitution,Mario Pasalic ,Thay: Marko Livaja
-62,Croatia,66,substitution,Bruno Petkovic ,Thay: Lovro Majer
-62,Croatia,90,substitution,Kristijan Jakic ,Thay: Mislav Orsic
-62,Ma rốc,9,goal,Achraf Dari,
-62,Ma rốc,46,substitution,Ilias Chair ,Thay: Abdelhamid Sabiri
-62,Ma rốc,56,substitution,Azzedine Ounahi ,Thay: Bilal El Khannous
-62,Ma rốc,64,substitution,Anass Zaroury ,Thay: Sofiane Boufal
-62,Ma rốc,64,substitution,Badr Banoune ,Thay: Achraf Dari
-62,Ma rốc,67,substitution,Selim Amallah ,Thay: Jawad El Yamiq
-62,Ma rốc,69,yellow_card,Azzedine Ounahi,
-62,Ma rốc,84,yellow_card,Selim Amallah,
-63,Croatia,31,yellow_card,Marcelo Brozovic,
-63,Croatia,72,substitution,Bruno Petkovic ,Thay: Andrej Kramaric
-63,Croatia,72,substitution,Nikola Vlasic ,Thay: Mario Pasalic
-63,Croatia,106,substitution,Lovro Majer ,Thay: Mateo Kovacic
-63,Croatia,110,substitution,Ante Budimir ,Thay: Borna Sosa
-63,Croatia,114,substitution,Mislav Orsic ,Thay: Marcelo Brozovic
-63,Croatia,117,goal,Bruno Petkovic ,Kiến tạo: Mislav Orsic
-63,Croatia,117,yellow_card,Bruno Petkovic,
-63,Brazil,25,yellow_card,Danilo,
-63,Brazil,56,substitution,Antony ,Thay: Raphinha
-63,Brazil,64,substitution,Rodrygo ,Thay: Vinicius Junior
-63,Brazil,68,yellow_card,Casemiro,
-63,Brazil,77,yellow_card,Marquinhos,
-63,Brazil,84,substitution,Pedro ,Thay: Richarlison
-63,Brazil,105+1',goal,Neymar ,Kiến tạo: Lucas Paqueta
-63,Brazil,106,substitution,Alex Sandro ,Thay: Eder Militao
-63,Brazil,106,substitution,Fred ,Thay: Lucas Paqueta
-64,Hà Lan,43,yellow_card,Jurrien Timber,
-64,Hà Lan,45+2',yellow_card,Wout Weghorst,
-64,Hà Lan,46,substitution,Teun Koopmeiners ,Thay: Marten De Roon
-64,Hà Lan,46,substitution,Steven Berghuis ,Thay: Steven Bergwijn
-64,Hà Lan,64,substitution,Luuk de Jong ,Thay: Daley Blind
-64,Hà Lan,76,yellow_card,Memphis Depay,
-64,Hà Lan,78,substitution,Wout Weghorst ,Thay: Memphis Depay
-64,Hà Lan,83,goal,Wout Weghorst ,Kiến tạo: Steven Berghuis
-64,Hà Lan,88,yellow_card,Steven Berghuis,
-64,Hà Lan,89,yellow_card,Virgil van Dijk,
-64,Hà Lan,90+11',goal,Wout Weghorst ,Kiến tạo: Teun Koopmeiners
-64,Hà Lan,91,yellow_card,Steven Bergwijn,
-64,Hà Lan,91,yellow_card,Virgil van Dijk,
-64,Hà Lan,113,substitution,Noa Lang ,Thay: Cody Gakpo
-64,Hà Lan,121,yellow_card,Denzel Dumfries,
-64,Hà Lan,121,yellow_card,Noa Lang,
-64,Hà Lan,121,yellow_red_card,Denzel Dumfries,
-64,Argentina,35,goal,Nahuel Molina ,Kiến tạo: Lionel Messi
-64,Argentina,43,yellow_card,Marcos Acuna,
-64,Argentina,45,yellow_card,Cristian Romero,
-64,Argentina,67,substitution,Leandro Paredes ,Thay: Rodrigo De Paul
-64,Argentina,73,goal, Lionel Messi,Pen
-64,Argentina,76,yellow_card,Lisandro Martinez,
-64,Argentina,78,substitution,Nicolas Tagliafico ,Thay: Marcos Acuna
-64,Argentina,78,substitution,German Pezzella ,Thay: Cristian Romero
-64,Argentina,82,substitution,Lautaro Martinez ,Thay: Julian Alvarez
-64,Argentina,89,yellow_card,Leandro Paredes,
-64,Argentina,90+7',yellow_card,Lionel Scaloni,
-64,Argentina,90+10',yellow_card,Lionel Messi,
-64,Argentina,90+12',yellow_card,Nicolas Otamendi,
-64,Argentina,106,substitution,Gonzalo Montiel ,Thay: Nahuel Molina
-64,Argentina,110,yellow_card,Gonzalo Montiel,
-64,Argentina,112,substitution,Angel Di Maria ,Thay: Lisandro Martinez
-64,Argentina,112,yellow_card,German Pezzella,
-64,Argentina,90,yellow_card,Lionel Scaloni,
+1,Argentina,23,goal, Lionel Messi,Pen
+1,Argentina,36,goal,Angel Di Maria ,Kiến tạo: Alexis Mac Allister
+1,Argentina,45+7',yellow_card,Enzo Fernandez,
+1,Argentina,64,substitution,Marcos Acuna ,Thay: Angel Di Maria
+1,Argentina,90+8',yellow_card,Marcos Acuna,
+1,Argentina,91,substitution,Gonzalo Montiel ,Thay: Nahuel Molina
+1,Argentina,102,substitution,Leandro Paredes ,Thay: Rodrigo De Paul
+1,Argentina,102,substitution,Lautaro Martinez ,Thay: Julian Alvarez
+1,Argentina,108,goal,Lionel Messi,
+1,Argentina,114,yellow_card,Leandro Paredes,
+1,Argentina,116,substitution,German Pezzella ,Thay: Alexis Mac Allister
+1,Argentina,116,yellow_card,Gonzalo Montiel,
+1,Argentina,120,substitution,Paulo Dybala ,Thay: Nicolas Tagliafico
+1,Argentina,121,yellow_card,Emiliano Martinez,
+1,Pháp,41,substitution,Randal Kolo Muani ,Thay: Ousmane Dembele
+1,Pháp,41,substitution,Marcus Thuram ,Thay: Olivier Giroud
+1,Pháp,55,yellow_card,Adrien Rabiot,
+1,Pháp,71,substitution,Kingsley Coman ,Thay: Antoine Griezmann
+1,Pháp,71,substitution,Eduardo Camavinga ,Thay: Theo Hernandez
+1,Pháp,80,goal, Kylian Mbappe,Pen
+1,Pháp,81,goal,Kylian Mbappe ,Kiến tạo: Marcus Thuram
+1,Pháp,87,yellow_card,Marcus Thuram,
+1,Pháp,90+5',yellow_card,Olivier Giroud,
+1,Pháp,96,substitution,Youssouf Fofana ,Thay: Adrien Rabiot
+1,Pháp,113,substitution,Ibrahima Konate ,Thay: Raphael Varane
+1,Pháp,118,yellow_card,Kylian Mbappe,
+1,Pháp,120,substitution,Axel Disasi ,Thay: Jules Kounde
+2,Qatar,15,yellow_card,Saad Al Sheeb,
+2,Qatar,22,yellow_card,Almoez Ali,
+2,Qatar,36,yellow_card,Karim Boudiaf,
+2,Qatar,78,yellow_card,Akram Afif,
+2,Qatar,72,substitution,Mohammed Waad ,Thay: Hassan Al Haidos
+2,Qatar,72,substitution,Mohammed Muntari ,Thay: Almoez Ali
+2,Ecuador,3,penalty_nogoal,Enner Valencia ,VAR check
+2,Ecuador,16,goal, Enner Valencia,Pen
+2,Ecuador,29,yellow_card,Moises Caicedo,
+2,Ecuador,31,goal,Enner Valencia ,Kiến tạo: Angelo Preciado
+2,Ecuador,56,yellow_card,Jhegson Mendez,
+2,Ecuador,68,substitution,Jeremy Sarmiento ,Thay: Romario Ibarra
+2,Ecuador,77,substitution,Jose Cifuentes ,Thay: Enner Valencia
+2,Ecuador,90,substitution,Kevin Rodriguez ,Thay: Michael Estrada
+2,Ecuador,90,substitution,Alan Franco ,Thay: Moises Caicedo
+3,ĐT Anh,35,goal,Jude Bellingham ,Kiến tạo: Luke Shaw
+3,ĐT Anh,43,goal,Bukayo Saka ,Kiến tạo: Harry Maguire
+3,ĐT Anh,45+1',goal,Raheem Sterling ,Kiến tạo: Harry Kane
+3,ĐT Anh,62,goal,Bukayo Saka ,Kiến tạo: Raheem Sterling
+3,ĐT Anh,71,goal,Marcus Rashford ,Kiến tạo: Harry Kane
+3,ĐT Anh,70,substitution,Eric Dier ,Thay: Harry Maguire
+3,ĐT Anh,70,substitution,Marcus Rashford ,Thay: Bukayo Saka
+3,ĐT Anh,70,substitution,Jack Grealish ,Thay: Raheem Sterling
+3,ĐT Anh,70,substitution,Phil Foden ,Thay: Mason Mount
+3,ĐT Anh,75,substitution,Callum Wilson ,Thay: Harry Kane
+3,ĐT Anh,90,goal,Jack Grealish ,Kiến tạo: Callum Wilson
+3,Iran,20,substitution,Hossein Hosseini ,Thay: Alireza Beiranvand
+3,Iran,25,yellow_card,Alireza Jahanbakhsh,
+3,Iran,48,yellow_card,Morteza Pouraliganji,
+3,Iran,46,substitution,Ali Gholizadeh ,Thay: Alireza Jahanbakhsh
+3,Iran,46,substitution,Saeid Ezatolahi ,Thay: Ali Karimi
+3,Iran,46,substitution,Hossein Kanaani ,Thay: Roozbeh Cheshmi
+3,Iran,63,substitution,Mehdi Torabi ,Thay: Milad Mohammadi
+3,Iran,65,goal,Mehdi Taremi ,Kiến tạo: Ali Gholizadeh
+3,Iran,77,substitution,Sardar Azmoun ,Thay: Ahmad Nourollahi
+3,Iran,90+13',goal, Mehdi Taremi,Pen
+4,Senegal,62,substitution,Ismail Jakobs ,Thay: Abdou Diallo
+4,Senegal,69,substitution,Ahmadou Bamba Dieng ,Thay: Boulaye Dia
+4,Senegal,73,substitution,Pape Gueye ,Thay: Cheikhou Kouyate
+4,Senegal,73,substitution,Nicolas Jackson ,Thay: Krepin Diatta
+4,Senegal,90+4',yellow_card,Nampalys Mendy,
+4,Senegal,90+6',yellow_card,Idrissa Gana Gueye,
+4,ĐT Hà Lan,56,yellow_card,Matthijs de Ligt,
+4,ĐT Hà Lan,62,substitution,Memphis Depay ,Thay: Vincent Janssen
+4,ĐT Hà Lan,79,substitution,Davy Klaassen ,Thay: Steven Bergwijn
+4,ĐT Hà Lan,79,substitution,Teun Koopmeiners ,Thay: Steven Berghuis
+4,ĐT Hà Lan,84,goal,Cody Gakpo ,Kiến tạo: Frenkie de Jong
+4,ĐT Hà Lan,90,substitution,Marten de Roon ,Thay: Cody Gakpo
+4,ĐT Hà Lan,90+9',goal,Davy Klaassen,
+5,Mỹ,11,yellow_card,Sergino Dest,
+5,Mỹ,13,yellow_card,Weston McKennie,
+5,Mỹ,36,goal,Timothy Weah ,Kiến tạo: Christian Pulisic
+5,Mỹ,51,yellow_card,Tim Ream,
+5,Mỹ,66,substitution,Brenden Aaronson ,Thay: Weston McKennie
+5,Mỹ,74,substitution,DeAndre Yedlin ,Thay: Sergino Dest
+5,Mỹ,74,substitution,Haji Wright ,Thay: Joshua Sargent
+5,Mỹ,74,substitution,Kellyn Acosta ,Thay: Yunus Musah
+5,Mỹ,88,substitution,Jordan Morris ,Thay: Timothy Weah
+5,Mỹ,90+10',yellow_card,Kellyn Acosta,
+5,Wales,40,yellow_card,Gareth Bale,
+5,Wales,45+2',yellow_card,Chris Mepham,
+5,Wales,46,substitution,Kieffer Moore ,Thay: Daniel James
+5,Wales,79,substitution,Brennan Johnson ,Thay: Neco Williams
+5,Wales,82,goal, Gareth Bale,Pen
+5,Wales,90,substitution,Sorba Thomas ,Thay: Harry Wilson
+5,Wales,90,substitution,Joe Morrell ,Thay: Ethan Ampadu
+6,Argentina,10,goal, Lionel Messi,Pen
+6,Argentina,28,penalty_nogoal,Lautaro Martinez ,VAR check
+6,Argentina,59,substitution,Lisandro Martinez ,Thay: Cristian Romero
+6,Argentina,59,substitution,Enzo Fernandez ,Thay: Leandro Paredes
+6,Argentina,59,substitution,Julian Alvarez ,Thay: Alejandro Gomez
+6,Argentina,71,substitution,Marcos Acuna ,Thay: Nicolas Tagliafico
+6,Ả Rập Xê-út,45,substitution,Nawaf Al-Abid ,Thay: Salman Al-Faraj
+6,Ả Rập Xê-út,49,goal,Saleh Al-Shehri ,Kiến tạo: Firas Al-Buraikan
+6,Ả Rập Xê-út,53,goal,Salem Al-Dawsari,
+6,Ả Rập Xê-út,67,yellow_card,Abdulelah Al Malki,
+6,Ả Rập Xê-út,75,yellow_card,Ali Al-Boleahi,
+6,Ả Rập Xê-út,79,yellow_card,Salem Al-Dawsari,
+6,Ả Rập Xê-út,82,yellow_card,Saud Abdulhamid,
+6,Ả Rập Xê-út,78,substitution,Sultan Al Ghanam ,Thay: Saleh Al-Shehri
+6,Ả Rập Xê-út,88,yellow_card,Nawaf Al-Abid,
+6,Ả Rập Xê-út,90+2',yellow_card,Mohammed Al Owais,
+6,Ả Rập Xê-út,89,substitution,Abdulelah Al Amri ,Thay: Nawaf Al-Abid
+6,Ả Rập Xê-út,89,substitution,Haitham Asiri ,Thay: Firas Al-Buraikan
+6,Ả Rập Xê-út,90,substitution,Mohammed Al Burayk ,Thay: Yasir Al Shahrani
+7,ĐT Đan Mạch,24,yellow_card,Rasmus Kristensen,
+7,ĐT Đan Mạch,45,substitution,Mikkel Damsgaard ,Thay: Thomas Delaney
+7,ĐT Đan Mạch,65,substitution,Mathias Jensen ,Thay: Simon Kjaer
+7,ĐT Đan Mạch,65,substitution,Andreas Cornelius ,Thay: Kasper Dolberg
+7,ĐT Đan Mạch,65,substitution,Jesper Lindstroem ,Thay: Andreas Skov Olsen
+7,ĐT Đan Mạch,78,yellow_card,Mathias Jensen,
+7,Tunisia,67,substitution,Naim Sliti ,Thay: Anis Ben Slimane
+7,Tunisia,80,substitution,Hannibal Mejbri ,Thay: Youssef Msakni
+7,Tunisia,80,substitution,Taha Yassine Khenissi ,Thay: Issam Jebali
+7,Tunisia,86,yellow_card,Taha Yassine Khenissi,
+7,Tunisia,88,substitution,Wajdi Kechrida ,Thay: Mohamed Draeger
+7,Tunisia,88,substitution,Ferjani Sassi ,Thay: Aissa Laidouni
+8,Mexico,29,yellow_card,Jorge Sanchez,
+8,Mexico,56,yellow_card,Hector Moreno,
+8,Mexico,71,substitution,Carlos Rodriguez ,Thay: Hector Herrera
+8,Mexico,71,substitution,Raul Jimenez ,Thay: Henry Martin
+8,Mexico,84,substitution,Uriel Antuna ,Thay: Alexis Vega
+8,Ba Lan,46,substitution,Krystian Bielik ,Thay: Nicola Zalewski
+8,Ba Lan,58,penalty_nogoal, Robert Lewandowski,Pen
+8,Ba Lan,71,substitution,Przemyslaw Frankowski ,Thay: Sebastian Szymanski
+8,Ba Lan,76,yellow_card,Przemyslaw Frankowski,
+8,Ba Lan,87,substitution,Arkadiusz Milik ,Thay: Piotr Zielinski
+9,ĐT Pháp,13,substitution,Theo Hernandez ,Thay: Lucas Hernandez
+9,ĐT Pháp,27,goal,Adrien Rabiot ,Kiến tạo: Theo Hernandez
+9,ĐT Pháp,32,goal,Olivier Giroud ,Kiến tạo: Adrien Rabiot
+9,ĐT Pháp,68,goal,Kylian Mbappe ,Kiến tạo: Ousmane Dembele
+9,ĐT Pháp,71,goal,Olivier Giroud ,Kiến tạo: Kylian Mbappe
+9,ĐT Pháp,77,substitution,Youssouf Fofana ,Thay: Aurelien Tchouameni
+9,ĐT Pháp,77,substitution,Kingsley Coman ,Thay: Ousmane Dembele
+9,ĐT Pháp,89,substitution,Jules Kounde ,Thay: Benjamin Pavard
+9,ĐT Pháp,89,substitution,Marcus Thuram ,Thay: Olivier Giroud
+9,Australia,9,goal,Craig Goodwin ,Kiến tạo: Matthew Leckie
+9,Australia,55,yellow_card,Mitchell Duke,
+9,Australia,56,substitution,Jason Cummings ,Thay: Mitchell Duke
+9,Australia,73,substitution,Awer Mabil ,Thay: Riley McGree
+9,Australia,73,substitution,Garang Kuol ,Thay: Craig Goodwin
+9,Australia,80,yellow_card,Jackson Irvine,
+9,Australia,85,substitution,Keanu Baccus ,Thay: Jackson Irvine
+9,Australia,85,substitution,Milos Degenek ,Thay: Nathaniel Atkinson
+9,Australia,90+5',yellow_card,Aaron Mooy,
+10,Ma rốc,60,substitution,Yahia Attiyat Allah ,Thay: Noussair Mazraoui
+10,Ma rốc,65,substitution,Abdessamad Ezzalzouli ,Thay: Sofiane Boufal
+10,Ma rốc,78,yellow_card,Sofyan Amrabat,
+10,Ma rốc,81,substitution,Abderrazak Hamdallah ,Thay: Youssef En-Nesyri
+10,Ma rốc,82,substitution,Abdelhamid Sabiri ,Thay: Azzedine Ounahi
+10,Croatia,46,substitution,Mario Pasalic ,Thay: Nikola Vlasic
+10,Croatia,71,substitution,Marko Livaja ,Thay: Andrej Kramaric
+10,Croatia,79,substitution,Lovro Majer ,Thay: Mateo Kovacic
+10,Croatia,90,substitution,Mislav Orsic ,Thay: Ivan Perisic
+11,ĐT Đức,33,goal, Ilkay Gundogan,Pen
+11,ĐT Đức,45+4',penalty_nogoal,Kai Havertz ,VAR check
+11,ĐT Đức,67,substitution,Jonas Hofmann ,Thay: Thomas Mueller
+11,ĐT Đức,67,substitution,Leon Goretzka ,Thay: Ilkay Gundogan
+11,ĐT Đức,79,substitution,Niclas Fuellkrug ,Thay: Kai Havertz
+11,ĐT Đức,79,substitution,Mario Goetze ,Thay: Jamal Musiala
+11,ĐT Đức,90,substitution,Youssoufa Moukoko ,Thay: Serge Gnabry
+11,Nhật Bản,46,substitution,Takehiro Tomiyasu ,Thay: Takefusa Kubo
+11,Nhật Bản,57,substitution,Kaoru Mitoma ,Thay: Yuto Nagatomo
+11,Nhật Bản,57,substitution,Takuma Asano ,Thay: Daizen Maeda
+11,Nhật Bản,71,substitution,Ritsu Doan ,Thay: Ao Tanaka
+11,Nhật Bản,74,substitution,Takumi Minamino ,Thay: Hiroki Sakai
+11,Nhật Bản,75,goal,Ritsu Doan,
+11,Nhật Bản,83,goal,Takuma Asano ,Kiến tạo: Ko Itakura
+12,ĐT Tây Ban Nha,11,goal,Dani Olmo,
+12,ĐT Tây Ban Nha,21,goal,Marco Asensio ,Kiến tạo: Jordi Alba
+12,ĐT Tây Ban Nha,31,goal, Ferran Torres,Pen
+12,ĐT Tây Ban Nha,54,goal,Ferran Torres,
+12,ĐT Tây Ban Nha,57,substitution,Alvaro Morata ,Thay: Ferran Torres
+12,ĐT Tây Ban Nha,57,substitution,Carlos Soler ,Thay: Pedri
+12,ĐT Tây Ban Nha,64,substitution,Koke ,Thay: Sergio Busquets
+12,ĐT Tây Ban Nha,64,substitution,Alex Balde ,Thay: Jordi Alba
+12,ĐT Tây Ban Nha,69,substitution,Nico Williams ,Thay: Marco Asensio
+12,ĐT Tây Ban Nha,75,goal,Gavi ,Kiến tạo: Alvaro Morata
+12,ĐT Tây Ban Nha,90,goal,Carlos Soler,
+12,ĐT Tây Ban Nha,90+3',goal,Alvaro Morata ,Kiến tạo: Dani Olmo
+12,Costa Rica,46,substitution,Kendall Waston ,Thay: Carlos Martinez
+12,Costa Rica,61,substitution,Alvaro Zamora ,Thay: Anthony Contreras
+12,Costa Rica,61,substitution,Bryan Ruiz ,Thay: Jewison Bennette
+12,Costa Rica,68,yellow_card,Francisco Calvo,
+12,Costa Rica,72,substitution,Brandon Aguilera ,Thay: Celso Borges
+12,Costa Rica,82,substitution,Ronald Matarrita ,Thay: Bryan Oviedo
+12,Costa Rica,90+7',yellow_card,Joel Campbell,
+13,ĐT Bỉ,9,yellow_card,Yannick Carrasco,
+13,ĐT Bỉ,44,goal,Michy Batshuayi ,Kiến tạo: Toby Alderweireld
+13,ĐT Bỉ,46,substitution,Amadou Onana ,Thay: Youri Tielemans
+13,ĐT Bỉ,46,substitution,Thomas Meunier ,Thay: Yannick Carrasco
+13,ĐT Bỉ,54,yellow_card,Thomas Meunier,
+13,ĐT Bỉ,56,yellow_card,Amadou Onana,
+13,ĐT Bỉ,62,substitution,Leandro Trossard ,Thay: Eden Hazard
+13,ĐT Bỉ,78,substitution,Ikoma Lois Openda ,Thay: Michy Batshuayi
+13,Canada,11,penalty_nogoal, Alphonso Davies,Pen
+13,Canada,58,substitution,Cyle Larin ,Thay: Junior Hoilett
+13,Canada,58,substitution,Ismael Kone ,Thay: Atiba Hutchinson
+13,Canada,74,substitution,Sam Adekugbe ,Thay: Richie Laryea
+13,Canada,81,yellow_card,Alphonso Davies,
+13,Canada,83,yellow_card,Alistair Johnston,
+13,Canada,81,substitution,Liam Millar ,Thay: Tajon Buchanan
+13,Canada,81,substitution,Jonathan Osorio ,Thay: Stephen Eustaquio
+14,Thụy Sĩ,48,goal,Breel Embolo ,Kiến tạo: Xherdan Shaqiri
+14,Thụy Sĩ,64,yellow_card,Nico Elvedi,
+14,Thụy Sĩ,72,substitution,Fabian Frei ,Thay: Djibril Sow
+14,Thụy Sĩ,72,substitution,Noah Okafor ,Thay: Xherdan Shaqiri
+14,Thụy Sĩ,72,substitution,Haris Seferovic ,Thay: Breel Embolo
+14,Thụy Sĩ,81,substitution,Fabian Rieder ,Thay: Ruben Vargas
+14,Thụy Sĩ,83,yellow_card,Manuel Akanji,
+14,Thụy Sĩ,90,substitution,Eray Coemert ,Thay: Ricardo Rodriguez
+14,Cameroon,36,yellow_card,Collins Fai,
+14,Cameroon,68,substitution,Gael Ondoua ,Thay: Martin Hongla
+14,Cameroon,74,substitution,Vincent Aboubakar ,Thay: Eric Maxim Choupo-Moting
+14,Cameroon,74,substitution,Georges-Kevin N'Koudou ,Thay: Karl Toko Ekambi
+14,Cameroon,81,substitution,Nicolas Ngamaleu ,Thay: Bryan Mbeumo
+15,Uruguay,57,yellow_card,Martin Caceres,
+15,Uruguay,64,substitution,Edinson Cavani ,Thay: Luis Suarez
+15,Uruguay,79,substitution,Nicolas de la Cruz ,Thay: Matias Vecino
+15,Uruguay,79,substitution,Matias Vina ,Thay: Mathias Olivera
+15,Uruguay,88,substitution,Guillermo Varela ,Thay: Facundo Pellistri
+15,Hàn Quốc,74,substitution,Gue-Sung Cho ,Thay: Ui-Jo Hwang
+15,Hàn Quốc,75,substitution,Kang-In Lee ,Thay: Sang-Ho Na
+15,Hàn Quốc,75,substitution,Joon-Ho Son ,Thay: Jae-Sung Lee
+15,Hàn Quốc,88,yellow_card,Gue-Sung Cho,
+15,Hàn Quốc,90+8',yellow_card,Paulo Bento,
+16,ĐT Bồ Đào Nha,56,substitution,William Carvalho ,Thay: Otavio
+16,ĐT Bồ Đào Nha,65,goal, Cristiano Ronaldo,Pen
+16,ĐT Bồ Đào Nha,78,goal,Joao Felix ,Kiến tạo: Bruno Fernandes
+16,ĐT Bồ Đào Nha,80,goal,Rafael Leao ,Kiến tạo: Bruno Fernandes
+16,ĐT Bồ Đào Nha,77,substitution,Rafael Leao ,Thay: Ruben Neves
+16,ĐT Bồ Đào Nha,90+1',yellow_card,Danilo Pereira,
+16,ĐT Bồ Đào Nha,88,substitution,Joao Palhinha ,Thay: Bernardo Silva
+16,ĐT Bồ Đào Nha,88,substitution,Joao Mario ,Thay: Joao Felix
+16,ĐT Bồ Đào Nha,88,substitution,Goncalo Ramos ,Thay: Cristiano Ronaldo
+16,ĐT Bồ Đào Nha,90+5',yellow_card,Bruno Fernandes,
+16,Ghana,45+1',yellow_card,Mohammed Kudus,
+16,Ghana,49,yellow_card,Andre Ayew,
+16,Ghana,57,yellow_card,Alidu Seidu,
+16,Ghana,73,goal,Andre Ayew,
+16,Ghana,66,substitution,Tariq Lamptey ,Thay: Alidu Seidu
+16,Ghana,77,substitution,Osman Bukari ,Thay: Mohammed Kudus
+16,Ghana,77,substitution,Jordan Ayew ,Thay: Andre Ayew
+16,Ghana,89,goal,Osman Bukari,
+16,Ghana,90+1',yellow_card,Inaki Williams,
+16,Ghana,90,substitution,Daniel-Kofi Kyereh ,Thay: Alexander Djiku
+16,Ghana,90,substitution,Antoine Semenyo ,Thay: Salis Abdul Samed
+17,Brazil,62,goal,Richarlison,
+17,Brazil,73,goal,Richarlison ,Kiến tạo: Vinicius Junior
+17,Brazil,75,substitution,Fred ,Thay: Lucas Paqueta
+17,Brazil,76,substitution,Rodrygo ,Thay: Vinicius Junior
+17,Brazil,79,substitution,Gabriel Jesus ,Thay: Richarlison
+17,Brazil,79,substitution,Antony ,Thay: Neymar
+17,Brazil,87,substitution,Gabriel Martinelli ,Thay: Raphinha
+17,Serbia,7,yellow_card,Strahinja Pavlovic,
+17,Serbia,49,yellow_card,Nemanja Gudelj,
+17,Serbia,57,substitution,Ivan Ilic ,Thay: Nemanja Gudelj
+17,Serbia,57,substitution,Nemanja Radonjic ,Thay: Andrija Zivkovic
+17,Serbia,64,yellow_card,Sasa Lukic,
+17,Serbia,66,substitution,Darko Lazovic ,Thay: Sasa Lukic
+17,Serbia,66,substitution,Dusan Vlahovic ,Thay: Filip Mladenovic
+17,Serbia,83,substitution,Nemanja Maksimovic ,Thay: Aleksandar Mitrovic
+18,Wales,45+3',yellow_card,Joe Rodon,
+18,Wales,58,substitution,Brennan Johnson ,Thay: Harry Wilson
+18,Wales,58,substitution,Daniel James ,Thay: Connor Roberts
+18,Wales,78,substitution,Joe Allen ,Thay: Ethan Ampadu
+18,Wales,87,red_card,Wayne Hennessey,
+18,Wales,88,substitution,Danny Ward ,Thay: Aaron Ramsey
+18,Iran,16,penalty_nogoal,Ali Gholizadeh ,VAR check
+18,Iran,68,substitution,Karim Ansarifard ,Thay: Sardar Azmoun
+18,Iran,77,substitution,Alireza Jahanbakhsh ,Thay: Ali Gholizadeh
+18,Iran,77,substitution,Mehdi Torabi ,Thay: Ehsan Haji Safi
+18,Iran,78,substitution,Roozbeh Cheshmi ,Thay: Ahmad Nourollahi
+18,Iran,83,substitution,Ali Karimi ,Thay: Saeid Ezatolahi
+18,Iran,90+5',yellow_card,Ramin Rezaeian,
+18,Iran,90+6',yellow_card,Alireza Jahanbakhsh,
+18,Iran,90+8',goal,Roozbeh Cheshmi,
+18,Iran,90+11',goal,Ramin Rezaeian ,Kiến tạo: Mehdi Taremi
+19,Qatar,20,yellow_card,Ismael Mohammad,
+19,Qatar,45+2',yellow_card,Homam Elamin,
+19,Qatar,69,substitution,Abdulaziz Hatem ,Thay: Karim Boudiaf
+19,Qatar,74,substitution,Mohammed Muntari ,Thay: Hassan Al Haidos
+19,Qatar,78,goal,Mohammed Muntari ,Kiến tạo: Ismael Mohammad
+19,Qatar,83,substitution,Mohammed Waad ,Thay: Homam Elamin
+19,Qatar,83,substitution,Tarek Salman ,Thay: Pedro Miguel
+19,Qatar,90+1',yellow_card,Assim Madibo,
+19,Senegal,30,yellow_card,Boulaye Dia,
+19,Senegal,41,goal,Boulaye Dia,
+19,Senegal,48,goal,Famara Diedhiou ,Kiến tạo: Ismail Jakobs
+19,Senegal,52,yellow_card,Ismail Jakobs,
+19,Senegal,64,substitution,Pathe Ciss ,Thay: Krepin Diatta
+19,Senegal,74,substitution,Ahmadou Bamba Dieng ,Thay: Famara Diedhiou
+19,Senegal,74,substitution,Iliman Ndiaye ,Thay: Ismaila Sarr
+19,Senegal,78,substitution,Pape Sarr ,Thay: Nampalys Mendy
+19,Senegal,78,substitution,Pape Abou Cisse ,Thay: Ismail Jakobs
+19,Senegal,84,goal,Ahmadou Bamba Dieng ,Kiến tạo: Iliman Ndiaye
+19,Senegal,87,yellow_card,Pathe Ciss,
+20,ĐT Hà Lan,6,goal,Cody Gakpo ,Kiến tạo: Davy Klaassen
+20,ĐT Hà Lan,46,substitution,Memphis Depay ,Thay: Steven Bergwijn
+20,ĐT Hà Lan,69,substitution,Steven Berghuis ,Thay: Davy Klaassen
+20,ĐT Hà Lan,79,substitution,Wout Weghorst ,Thay: Cody Gakpo
+20,ĐT Hà Lan,79,substitution,Marten de Roon ,Thay: Teun Koopmeiners
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,57,yellow_card,Jhegson Mendez,
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,74,substitution,Jeremy Sarmiento ,Thay: Michael Estrada
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,90,substitution,Kevin Rodriguez ,Thay: Enner Valencia
+20,Ecuador,90,substitution,Romario Ibarra ,Thay: Gonzalo Plata
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,45+4',penalty_nogoal,Pervis Estupinan ,VAR check
+20,Ecuador,49,goal,Enner Valencia,
+21,ĐT Anh,68,substitution,Jack Grealish ,Thay: Raheem Sterling
+21,ĐT Anh,68,substitution,Jordan Henderson ,Thay: Jude Bellingham
+21,ĐT Anh,78,substitution,Marcus Rashford ,Thay: Bukayo Saka
+21,Mỹ,77,substitution,Brenden Aaronson ,Thay: Weston McKennie
+21,Mỹ,78,substitution,Shaq Moore ,Thay: Sergino Dest
+21,Mỹ,83,substitution,Giovanni Reyna ,Thay: Timothy Weah
+21,Mỹ,83,substitution,Joshua Sargent ,Thay: Haji Wright
+22,Tunisia,26,yellow_card,Aissa Laidouni,
+22,Tunisia,46,substitution,Ferjani Sassi ,Thay: Mohamed Draeger
+22,Tunisia,64,yellow_card,Ali Abdi,
+22,Tunisia,67,substitution,Wahbi Khazri ,Thay: Aissa Laidouni
+22,Tunisia,73,substitution,Taha Yassine Khenissi ,Thay: Issam Jebali
+22,Tunisia,73,substitution,Wajdi Kechrida ,Thay: Dylan Bronn
+22,Tunisia,90+3',yellow_card,Ferjani Sassi,
+22,Australia,23,goal,Mitchell Duke,
+22,Australia,64,substitution,Jamie Maclaren ,Thay: Mitchell Duke
+22,Australia,64,substitution,Ajdin Hrustic ,Thay: Riley McGree
+22,Australia,75,substitution,Milos Degenek ,Thay: Fran Karacic
+22,Australia,85,substitution,Awer Mabil ,Thay: Craig Goodwin
+22,Australia,85,substitution,Keanu Baccus ,Thay: Matthew Leckie
+23,Ba Lan,15,yellow_card,Jakub Kiwior,
+23,Ba Lan,16,yellow_card,Matty Cash,
+23,Ba Lan,19,yellow_card,Arkadiusz Milik,
+23,Ba Lan,39,goal,Piotr Zielinski ,Kiến tạo: Robert Lewandowski
+23,Ba Lan,63,substitution,Jakub Kaminski ,Thay: Piotr Zielinski
+23,Ba Lan,71,substitution,Krzysztof Piatek ,Thay: Arkadiusz Milik
+23,Ba Lan,82,goal,Robert Lewandowski,
+23,Ả Rập Xê-út,20,yellow_card,Abdulelah Al Malki,
+23,Ả Rập Xê-út,45+1',penalty_nogoal, Salem Al-Dawsari,Pen
+23,Ả Rập Xê-út,45+4',yellow_card,Abdulelah Al Amri,
+23,Ả Rập Xê-út,46,substitution,Nawaf Al-Abid ,Thay: Sami Al-Najei
+23,Ả Rập Xê-út,65,substitution,Sultan Al Ghanam ,Thay: Mohammed Al Burayk
+23,Ả Rập Xê-út,85,substitution,Abdulrahman Al-Obood ,Thay: Abdulelah Al Malki
+23,Ả Rập Xê-út,85,substitution,Nasser Al Dawsari ,Thay: Saleh Al-Shehri
+23,Ả Rập Xê-út,90,substitution,Hattan Sultan Babhir ,Thay: Nawaf Al-Abid
+24,ĐT Pháp,43,yellow_card,Jules Kounde,
+24,ĐT Pháp,61,goal,Kylian Mbappe ,Kiến tạo: Theo Hernandez
+24,ĐT Pháp,63,substitution,Marcus Thuram ,Thay: Olivier Giroud
+24,ĐT Pháp,75,substitution,Ibrahima Konate ,Thay: Raphael Varane
+24,ĐT Pháp,75,substitution,Kingsley Coman ,Thay: Ousmane Dembele
+24,ĐT Pháp,86,goal,Kylian Mbappe ,Kiến tạo: Antoine Griezmann
+24,ĐT Pháp,90,substitution,Youssouf Fofana ,Thay: Antoine Griezmann
+24,ĐT Đan Mạch,20,yellow_card,Andreas Christensen,
+24,ĐT Đan Mạch,23,yellow_card,Andreas Cornelius,
+24,ĐT Đan Mạch,46,substitution,Martin Braithwaite ,Thay: Andreas Cornelius
+24,ĐT Đan Mạch,68,goal,Andreas Christensen ,Kiến tạo: Joachim Andersen
+24,ĐT Đan Mạch,73,substitution,Kasper Dolberg ,Thay: Mikkel Damsgaard
+24,ĐT Đan Mạch,85,substitution,Christian Noergaard ,Thay: Jesper Lindstroem
+24,ĐT Đan Mạch,90,substitution,Alexander Bah ,Thay: Rasmus Kristensen
+25,Argentina,43,yellow_card,Gonzalo Montiel,
+25,Argentina,64,goal,Lionel Messi ,Kiến tạo: Angel Di Maria
+25,Argentina,57,substitution,Enzo Fernandez ,Thay: Guido Rodriguez
+25,Argentina,63,substitution,Julian Alvarez ,Thay: Lautaro Martinez
+25,Argentina,63,substitution,Nahuel Molina ,Thay: Gonzalo Montiel
+25,Argentina,69,substitution,Exequiel Palacios ,Thay: Alexis Mac Allister
+25,Argentina,69,substitution,Cristian Romero ,Thay: Angel Di Maria
+25,Argentina,87,goal,Enzo Fernandez ,Kiến tạo: Lionel Messi
+25,Mexico,22,yellow_card,Nestor Araujo,
+25,Mexico,42,substitution,Erick Gutierrez ,Thay: Andres Guardado
+25,Mexico,50,yellow_card,Erick Gutierrez,
+25,Mexico,66,yellow_card,Hector Herrera,
+25,Mexico,66,substitution,Raul Jimenez ,Thay: Kevin Alvarez
+25,Mexico,66,substitution,Uriel Antuna ,Thay: Alexis Vega
+25,Mexico,73,substitution,Roberto Alvarado ,Thay: Hirving Lozano
+25,Mexico,89,yellow_card,Roberto Alvarado,
+26,Nhật Bản,44,yellow_card,Miki Yamane,
+26,Nhật Bản,46,substitution,Takuma Asano ,Thay: Ayase Ueda
+26,Nhật Bản,46,substitution,Hiroki Ito ,Thay: Yuto Nagatomo
+26,Nhật Bản,62,substitution,Kaoru Mitoma ,Thay: Miki Yamane
+26,Nhật Bản,67,substitution,Junya Ito ,Thay: Ritsu Doan
+26,Nhật Bản,84,yellow_card,Ko Itakura,
+26,Nhật Bản,82,substitution,Takumi Minamino ,Thay: Yuki Soma
+26,Nhật Bản,90+3',yellow_card,Wataru Endo,
+26,Costa Rica,41,yellow_card,Anthony Contreras,
+26,Costa Rica,61,yellow_card,Celso Borges,
+26,Costa Rica,65,substitution,Brandon Aguilera ,Thay: Gerson Torres
+26,Costa Rica,65,substitution,Jewison Bennette ,Thay: Anthony Contreras
+26,Costa Rica,70,yellow_card,Francisco Calvo,
+26,Costa Rica,81,goal,Keysher Fuller ,Kiến tạo: Yeltsin Tejeda
+26,Costa Rica,89,substitution,Youstin Salas ,Thay: Celso Borges
+26,Costa Rica,90,substitution,Daniel Chacon ,Thay: Joel Campbell
+27,ĐT Bỉ,29,yellow_card,Amadou Onana,
+27,ĐT Bỉ,60,substitution,Youri Tielemans ,Thay: Amadou Onana
+27,ĐT Bỉ,60,substitution,Dries Mertens ,Thay: Eden Hazard
+27,ĐT Bỉ,75,substitution,Charles De Ketelaere ,Thay: Michy Batshuayi
+27,ĐT Bỉ,75,substitution,Leandro Trossard ,Thay: Thorgan Hazard
+27,ĐT Bỉ,81,substitution,Romelu Lukaku ,Thay: Thomas Meunier
+27,Ma rốc,45+2',penalty_nogoal,Hakim Ziyech ,VAR check
+27,Ma rốc,73,goal,Romain Saiss ,Kiến tạo: Abdelhamid Sabiri
+27,Ma rốc,68,substitution,Abdelhamid Sabiri ,Thay: Selim Amallah
+27,Ma rốc,68,substitution,Yahia Attiyat Allah ,Thay: Achraf Hakimi
+27,Ma rốc,73,substitution,Zakaria Aboukhlal ,Thay: Sofiane Boufal
+27,Ma rốc,73,substitution,Abderrazak Hamdallah ,Thay: Youssef En-Nesyri
+27,Ma rốc,78,substitution,Jawad El Yamiq ,Thay: Azzedine Ounahi
+27,Ma rốc,90+2',goal,Zakaria Aboukhlal ,Kiến tạo: Hakim Ziyech
+27,Ma rốc,90+5',yellow_card,Abdelhamid Sabiri,
+28,Croatia,36,goal,Andrej Kramaric ,Kiến tạo: Ivan Perisic
+28,Croatia,44,goal,Marko Livaja ,Kiến tạo: Josip Juranovic
+28,Croatia,56,yellow_card,Dejan Lovren,
+28,Croatia,60,substitution,Bruno Petkovic ,Thay: Marko Livaja
+28,Croatia,70,goal,Andrej Kramaric ,Kiến tạo: Ivan Perisic
+28,Croatia,72,substitution,Nikola Vlasic ,Thay: Andrej Kramaric
+28,Croatia,85,yellow_card,Luka Modric,
+28,Croatia,86,substitution,Mislav Orsic ,Thay: Ivan Perisic
+28,Croatia,90+4',goal,Lovro Majer ,Kiến tạo: Mislav Orsic
+28,Croatia,86,substitution,Mario Pasalic ,Thay: Luka Modric
+28,Croatia,86,substitution,Lovro Majer ,Thay: Mateo Kovacic
+28,Canada,2,goal,Alphonso Davies ,Kiến tạo: Tajon Buchanan
+28,Canada,46,substitution,Jonathan Osorio ,Thay: Cyle Larin
+28,Canada,46,substitution,Ismael Kone ,Thay: Stephen Eustaquio
+28,Canada,52,yellow_card,Tajon Buchanan,
+28,Canada,62,substitution,Junior Hoilett ,Thay: Richie Laryea
+28,Canada,72,substitution,Lucas Daniel Cavallini ,Thay: Jonathan David
+28,Canada,72,substitution,Sam Adekugbe ,Thay: Atiba Hutchinson
+28,Canada,85,yellow_card,Kamal Miller,
+29,ĐT Tây Ban Nha,44,yellow_card,Sergio Busquets,
+29,ĐT Tây Ban Nha,54,substitution,Alvaro Morata ,Thay: Ferran Torres
+29,ĐT Tây Ban Nha,62,goal,Alvaro Morata ,Kiến tạo: Jordi Alba
+29,ĐT Tây Ban Nha,66,substitution,Koke ,Thay: Marco Asensio
+29,ĐT Tây Ban Nha,66,substitution,Nico Williams ,Thay: Gavi
+29,ĐT Tây Ban Nha,82,substitution,Alex Balde ,Thay: Jordi Alba
+29,ĐT Đức,37,yellow_card,Thilo Kehrer,
+29,ĐT Đức,40,penalty_nogoal,Antonio Ruediger ,VAR check
+29,ĐT Đức,58,yellow_card,Leon Goretzka,
+29,ĐT Đức,60,yellow_card,Joshua Kimmich,
+29,ĐT Đức,70,substitution,Leroy Sane ,Thay: Ilkay Gundogan
+29,ĐT Đức,70,substitution,Niclas Fuellkrug ,Thay: Thomas Mueller
+29,ĐT Đức,70,substitution,Lukas Klostermann ,Thay: Thilo Kehrer
+29,ĐT Đức,83,goal,Niclas Fuellkrug ,Kiến tạo: Jamal Musiala
+29,ĐT Đức,85,substitution,Jonas Hofmann ,Thay: Serge Gnabry
+29,ĐT Đức,87,substitution,Nico Schlotterbeck ,Thay: David Raum
+30,Cameroon,24,yellow_card,Nicolas N'Koulou,
+30,Cameroon,29,goal,Jean-Charles Castelletto ,Kiến tạo: Nicolas N'Koulou
+30,Cameroon,30,yellow_card,Christian Bassogog,
+30,Cameroon,55,substitution,Vincent Aboubakar ,Thay: Martin Hongla
+30,Cameroon,63,goal,Vincent Aboubakar ,Kiến tạo: Jean-Charles Castelletto
+30,Cameroon,66,goal,Eric Maxim Choupo-Moting ,Kiến tạo: Vincent Aboubakar
+30,Cameroon,67,substitution,Gael Ondoua ,Thay: Pierre Kunde
+30,Cameroon,67,substitution,Christian Bassogog ,Thay: Karl Toko Ekambi
+30,Cameroon,81,substitution,Samuel Gouet ,Thay: Andre-Frank Zambo Anguissa
+30,Cameroon,81,substitution,Georges-Kevin N'Koudou ,Thay: Bryan Mbeumo
+30,Serbia,45+1',goal,Strahinja Pavlovic ,Kiến tạo: Dusan Tadic
+30,Serbia,45+3',goal,Sergej Milinkovic-Savic ,Kiến tạo: Andrija Zivkovic
+30,Serbia,45+4',yellow_card,Luka Jovic,
+30,Serbia,53,goal,Aleksandar Mitrovic ,Kiến tạo: Andrija Zivkovic
+30,Serbia,55,substitution,Stefan Mitrovic ,Thay: Strahinja Pavlovic
+30,Serbia,78,substitution,Srdjan Babic ,Thay: Milos Veljkovic
+30,Serbia,78,substitution,Marko Grujic ,Thay: Sergej Milinkovic-Savic
+30,Serbia,78,substitution,Nemanja Radonjic ,Thay: Andrija Zivkovic
+30,Serbia,90,substitution,Filip Djuricic ,Thay: Filip Kostic
+30,Serbia,90+3',yellow_card,Nikola Milenkovic,
+31,Hàn Quốc,27,yellow_card,Woo-Young Jung,
+31,Hàn Quốc,46,substitution,Sang-Ho Na ,Thay: Woo-Yeong Jeong
+31,Hàn Quốc,57,substitution,Kang-In Lee ,Thay: Chang-Hoon Kwon
+31,Hàn Quốc,58,goal,Gue-Sung Cho ,Kiến tạo: Kang-In Lee
+31,Hàn Quốc,61,goal,Gue-Sung Cho ,Kiến tạo: Jin-Su Kim
+31,Hàn Quốc,77,yellow_card,Young-Gwon Kim,
+31,Hàn Quốc,78,substitution,Ui-Jo Hwang ,Thay: Woo-Young Jung
+31,Hàn Quốc,90,substitution,Kyung-Won Kwon ,Thay: Min-Jae Kim
+31,Hàn Quốc,90+11',red_card,Paulo Bento,
+31,Ghana,21,yellow_card,Daniel Amartey,
+31,Ghana,24,goal,Mohammed Salisu,
+31,Ghana,34,goal,Mohammed Kudus ,Kiến tạo: Jordan Ayew
+31,Ghana,68,goal,Mohammed Kudus ,Kiến tạo: Inaki Williams
+31,Ghana,73,yellow_card,Tariq Lamptey,
+31,Ghana,78,substitution,Kamaldeen Sulemana ,Thay: Andre Ayew
+31,Ghana,78,substitution,Denis Odoi ,Thay: Tariq Lamptey
+31,Ghana,78,substitution,Daniel-Kofi Kyereh ,Thay: Jordan Ayew
+31,Ghana,83,substitution,Alexander Djiku ,Thay: Mohammed Kudus
+31,Ghana,88,substitution,Abdul Rahman Baba ,Thay: Gideon Mensah
+32,Brazil,46,substitution,Rodrygo ,Thay: Lucas Paqueta
+32,Brazil,52,yellow_card,Fred,
+32,Brazil,58,substitution,Bruno Guimaraes ,Thay: Fred
+32,Brazil,64,penalty_nogoal,Vinicius Junior ,VAR check
+32,Brazil,73,substitution,Gabriel Jesus ,Thay: Richarlison
+32,Brazil,73,substitution,Antony ,Thay: Raphinha
+32,Brazil,83,goal,Casemiro ,Kiến tạo: Rodrygo
+32,Brazil,86,substitution,Alex Telles ,Thay: Alex Sandro
+32,Thụy Sĩ,50,yellow_card,Fabian Rieder,
+32,Thụy Sĩ,58,substitution,Edimilson Fernandes ,Thay: Ruben Vargas
+32,Thụy Sĩ,58,substitution,Renato Steffen ,Thay: Fabian Rieder
+32,Thụy Sĩ,76,substitution,Michel Aebischer ,Thay: Djibril Sow
+32,Thụy Sĩ,76,substitution,Haris Seferovic ,Thay: Breel Embolo
+32,Thụy Sĩ,86,substitution,Fabian Frei ,Thay: Silvan Widmer
+33,ĐT Bồ Đào Nha,38,yellow_card,Ruben Neves,
+33,ĐT Bồ Đào Nha,42,substitution,Raphael Guerreiro ,Thay: Nuno Mendes
+33,ĐT Bồ Đào Nha,54,goal,Bruno Fernandes ,Kiến tạo: Raphael Guerreiro
+33,ĐT Bồ Đào Nha,69,substitution,Rafael Leao ,Thay: Ruben Neves
+33,ĐT Bồ Đào Nha,77,yellow_card,Joao Felix,
+33,ĐT Bồ Đào Nha,89,yellow_card,Ruben Dias,
+33,ĐT Bồ Đào Nha,82,substitution,Matheus Nunes ,Thay: Joao Felix
+33,ĐT Bồ Đào Nha,82,substitution,Goncalo Ramos ,Thay: Cristiano Ronaldo
+33,ĐT Bồ Đào Nha,82,substitution,Joao Palhinha ,Thay: William Carvalho
+33,ĐT Bồ Đào Nha,90+3',goal, Bruno Fernandes,Pen
+33,Uruguay,6,yellow_card,Rodrigo Bentancur,
+33,Uruguay,44,yellow_card,Mathias Olivera,
+33,Uruguay,62,substitution,Giorgian De Arrascaeta ,Thay: Matias Vecino
+33,Uruguay,62,substitution,Facundo Pellistri ,Thay: Diego Godin
+33,Uruguay,72,substitution,Maximiliano Gomez ,Thay: Darwin Nunez
+33,Uruguay,72,substitution,Luis Suarez ,Thay: Edinson Cavani
+33,Uruguay,86,substitution,Matias Vina ,Thay: Mathias Olivera
+34,Ecuador,46,substitution,Jose Cifuentes ,Thay: Carlos Gruezo
+34,Ecuador,46,substitution,Jeremy Sarmiento ,Thay: Alan Franco
+34,Ecuador,64,substitution,Djorkaeff Reasco ,Thay: Michael Estrada
+34,Ecuador,67,goal,Moises Caicedo ,Kiến tạo: Felix Torres
+34,Ecuador,85,substitution,Jackson Porozo ,Thay: Angelo Preciado
+34,Senegal,44,goal, Ismaila Sarr,Pen
+34,Senegal,66,yellow_card,Idrissa Gana Gueye,
+34,Senegal,70,goal,Kalidou Koulibaly,
+34,Senegal,74,substitution,Nampalys Mendy ,Thay: Pathe Ciss
+34,Senegal,74,substitution,Ahmadou Bamba Dieng ,Thay: Iliman Ndiaye
+34,Senegal,90,substitution,Pape Abou Cisse ,Thay: Boulaye Dia
+35,ĐT Hà Lan,26,goal,Cody Gakpo ,Kiến tạo: Davy Klaassen
+35,ĐT Hà Lan,49,goal,Frenkie de Jong,
+35,ĐT Hà Lan,52,yellow_card,Nathan Ake,
+35,ĐT Hà Lan,66,substitution,Steven Berghuis ,Thay: Davy Klaassen
+35,ĐT Hà Lan,68,penalty_nogoal,Steven Berghuis ,VAR check
+35,ĐT Hà Lan,66,substitution,Vincent Janssen ,Thay: Memphis Depay
+35,ĐT Hà Lan,82,substitution,Wout Weghorst ,Thay: Cody Gakpo
+35,ĐT Hà Lan,82,substitution,Teun Koopmeiners ,Thay: Marten de Roon
+35,ĐT Hà Lan,86,substitution,Kenneth Taylor ,Thay: Frenkie de Jong
+35,Qatar,64,substitution,Ali Assadalla ,Thay: Hassan Al Haidos
+35,Qatar,64,substitution,Mohammed Muntari ,Thay: Almoez Ali
+35,Qatar,64,substitution,Karim Boudiaf ,Thay: Assim Madibo
+35,Qatar,85,substitution,Ahmed Alaaeldin ,Thay: Abdulaziz Hatem
+35,Qatar,85,substitution,Musab Kheder ,Thay: Ismael Mohammad
+36,Wales,29,yellow_card,Daniel James,
+36,Wales,36,substitution,Connor Roberts ,Thay: Neco Williams
+36,Wales,46,substitution,Brennan Johnson ,Thay: Gareth Bale
+36,Wales,61,yellow_card,Aaron Ramsey,
+36,Wales,59,substitution,Joe Morrell ,Thay: Ben Davies
+36,Wales,77,substitution,Harry Wilson ,Thay: Daniel James
+36,Wales,81,substitution,Rubin Colwill ,Thay: Joe Allen
+36,ĐT Anh,50,goal,Marcus Rashford,
+36,ĐT Anh,51,goal,Phil Foden ,Kiến tạo: Harry Kane
+36,ĐT Anh,57,substitution,Trent Alexander-Arnold ,Thay: Kyle Walker
+36,ĐT Anh,58,substitution,Callum Wilson ,Thay: Harry Kane
+36,ĐT Anh,58,substitution,Kalvin Phillips ,Thay: Declan Rice
+36,ĐT Anh,68,goal,Marcus Rashford ,Kiến tạo: Kalvin Phillips
+36,ĐT Anh,65,substitution,Kieran Trippier ,Thay: Luke Shaw
+36,ĐT Anh,75,substitution,Jack Grealish ,Thay: Marcus Rashford
+37,Iran,45,substitution,Ali Karimi ,Thay: Milad Mohammadi
+37,Iran,46,substitution,Saman Ghoddos ,Thay: Sardar Azmoun
+37,Iran,71,substitution,Mehdi Torabi ,Thay: Ahmad Nourollahi
+37,Iran,71,substitution,Abolfazl Jalali ,Thay: Ehsan Haji Safi
+37,Iran,77,yellow_card,Majid Hosseini,
+37,Iran,77,substitution,Karim Ansarifard ,Thay: Ali Gholizadeh
+37,Iran,83,yellow_card,Hossein Kanaani,
+37,Iran,90+6',yellow_card,Abolfazl Jalali,
+37,Mỹ,38,goal,Christian Pulisic ,Kiến tạo: Sergino Dest
+37,Mỹ,43,yellow_card,Tyler Adams,
+37,Mỹ,46,substitution,Brenden Aaronson ,Thay: Christian Pulisic
+37,Mỹ,65,substitution,Kellyn Acosta ,Thay: Weston McKennie
+37,Mỹ,77,substitution,Haji Wright ,Thay: Joshua Sargent
+37,Mỹ,82,substitution,Walker Zimmerman ,Thay: Sergino Dest
+37,Mỹ,82,substitution,Shaq Moore ,Thay: Timothy Weah
+38,Tunisia,9,penalty_nogoal,,VAR check
+38,Tunisia,28,yellow_card,Wajdi Kechrida,
+38,Tunisia,58,goal,Wahbi Khazri ,Kiến tạo: Aissa Laidouni
+38,Tunisia,60,substitution,Issam Jebali ,Thay: Wahbi Khazri
+38,Tunisia,74,substitution,Ghaylen Chaaleli ,Thay: Mohamed Ali Ben Romdhane
+38,Tunisia,83,substitution,Ali Abdi ,Thay: Anis Ben Slimane
+38,ĐT Pháp,63,substitution,William Saliba ,Thay: Raphael Varane
+38,ĐT Pháp,63,substitution,Adrien Rabiot ,Thay: Jordan Veretout
+38,ĐT Pháp,63,substitution,Kylian Mbappe ,Thay: Kingsley Coman
+38,ĐT Pháp,73,substitution,Antoine Griezmann ,Thay: Youssouf Fofana
+38,ĐT Pháp,79,substitution,Ousmane Dembele ,Thay: Matteo Guendouzi
+38,ĐT Pháp,90+8',penalty_nogoal,Antoine Griezmann ,VAR check
+39,Australia,4,yellow_card,Aziz Behich,
+39,Australia,46,substitution,Keanu Baccus ,Thay: Craig Goodwin
+39,Australia,57,yellow_card,Milos Degenek,
+39,Australia,60,goal,Matthew Leckie ,Kiến tạo: Riley McGree
+39,Australia,74,substitution,Bailey Wright ,Thay: Riley McGree
+39,Australia,82,substitution,Jamie Maclaren ,Thay: Mitchell Duke
+39,Australia,89,substitution,Ajdin Hrustic ,Thay: Matthew Leckie
+39,ĐT Đan Mạch,46,substitution,Alexander Bah ,Thay: Rasmus Kristensen
+39,ĐT Đan Mạch,59,substitution,Kasper Dolberg ,Thay: Martin Braithwaite
+39,ĐT Đan Mạch,59,substitution,Mikkel Damsgaard ,Thay: Mathias Jensen
+39,ĐT Đan Mạch,69,substitution,Robert Skov ,Thay: Andreas Skov Olsen
+39,ĐT Đan Mạch,69,substitution,Andreas Cornelius ,Thay: Joakim Maehle
+39,ĐT Đan Mạch,75,yellow_card,Robert Skov,
+40,Ba Lan,46,substitution,Michal Skoras ,Thay: Przemyslaw Frankowski
+40,Ba Lan,46,substitution,Jakub Kaminski ,Thay: Karol Swiderski
+40,Ba Lan,46,substitution,Michal Skoras ,Thay: Karol Swiderski
+40,Ba Lan,46,substitution,Jakub Kaminski ,Thay: Przemyslaw Frankowski
+40,Ba Lan,62,substitution,Damian Szymanski ,Thay: Krystian Bielik
+40,Ba Lan,72,substitution,Artur Jedrzejczyk ,Thay: Bartosz Bereszynski
+40,Ba Lan,78,yellow_card,Grzegorz Krychowiak,
+40,Ba Lan,83,substitution,Krzysztof Piatek ,Thay: Grzegorz Krychowiak
+40,Argentina,39,penalty_nogoal, Lionel Messi,Pen
+40,Argentina,46,goal,Alexis Mac Allister ,Kiến tạo: Nahuel Molina
+40,Argentina,49,yellow_card,Marcos Acuna,
+40,Argentina,59,substitution,Leandro Paredes ,Thay: Angel Di Maria
+40,Argentina,59,substitution,Nicolas Tagliafico ,Thay: Marcos Acuna
+40,Argentina,67,goal,Julian Alvarez ,Kiến tạo: Enzo Fernandez
+40,Argentina,79,substitution,Lautaro Martinez ,Thay: Julian Alvarez
+40,Argentina,79,substitution,German Pezzella ,Thay: Enzo Fernandez
+40,Argentina,83,substitution,Thiago Almada ,Thay: Alexis Mac Allister
+41,Ả Rập Xê-út,28,yellow_card,Saleh Al-Shehri,
+41,Ả Rập Xê-út,34,yellow_card,Ali Al-Hassan,
+41,Ả Rập Xê-út,37,substitution,Riyadh Sharahili ,Thay: Ali Al-Boleahi
+41,Ả Rập Xê-út,46,substitution,Abdullah Madu ,Thay: Ali Al-Hassan
+41,Ả Rập Xê-út,52,yellow_card,Hassan Altambakti,
+41,Ả Rập Xê-út,62,substitution,Abdulrahman Al-Obood ,Thay: Saleh Al-Shehri
+41,Ả Rập Xê-út,81,yellow_card,Abdullah Madu,
+41,Ả Rập Xê-út,88,substitution,Hattan Sultan Babhir ,Thay: Sultan Al Ghanam
+41,Ả Rập Xê-út,90+1',yellow_card,Abdulelah Al Amri,
+41,Ả Rập Xê-út,90+5',goal,Salem Al-Dawsari ,Kiến tạo: Hattan Sultan Babhir
+41,Ả Rập Xê-út,90+7',yellow_card,Hattan Sultan Babhir,
+41,Mexico,16,yellow_card,Edson Alvarez,
+41,Mexico,47,goal,Henry Martin ,Kiến tạo: Cesar Montes
+41,Mexico,46,substitution,Uriel Antuna ,Thay: Alexis Vega
+41,Mexico,52,goal,Luis Chavez,
+41,Mexico,77,substitution,Raul Jimenez ,Thay: Henry Martin
+41,Mexico,77,substitution,Carlos Rodriguez ,Thay: Orbelin Pineda
+41,Mexico,88,substitution,Rogelio Funes Mori ,Thay: Edson Alvarez
+41,Mexico,88,substitution,Kevin Alvarez ,Thay: Jorge Sanchez
+41,Mexico,86,substitution,Rogelio Funes Mori ,Thay: Edson Alvarez
+41,Mexico,86,substitution,Kevin Alvarez ,Thay: Jorge Sanchez
+42,Canada,7,yellow_card,Junior Hoilett,
+42,Canada,26,yellow_card,Jonathan Osorio,
+42,Canada,40,goal, Naif Aguerd,og
+42,Canada,45+2',yellow_card,Sam Adekugbe,
+42,Canada,60,substitution,Atiba Hutchinson ,Thay: Mark-Anthony Kaye
+42,Canada,60,substitution,Ismael Kone ,Thay: Sam Adekugbe
+42,Canada,60,substitution,Jonathan David ,Thay: Cyle Larin
+42,Canada,65,substitution,Richie Laryea ,Thay: Jonathan Osorio
+42,Canada,76,substitution,David Wotherspoon ,Thay: Junior Hoilett
+42,Canada,84,yellow_card,Steven Vitoria,
+42,Ma rốc,4,goal,Hakim Ziyech,
+42,Ma rốc,23,goal,Youssef En-Nesyri ,Kiến tạo: Achraf Hakimi
+42,Ma rốc,65,substitution,Zakaria Aboukhlal ,Thay: Sofiane Boufal
+42,Ma rốc,65,substitution,Selim Amallah ,Thay: Abdelhamid Sabiri
+42,Ma rốc,76,substitution,Abderazak Hamdallah ,Thay: Hakim Ziyech
+42,Ma rốc,76,substitution,Jawad El Yamiq ,Thay: Azzedine Ounahi
+42,Ma rốc,85,substitution,Yahya Jabrane ,Thay: Achraf Hakimi
+42,Ma rốc,76,substitution,Abderrazak Hamdallah ,Thay: Hakim Ziyech
+43,Croatia,64,substitution,Bruno Petkovic ,Thay: Marko Livaja
+43,Croatia,64,substitution,Mario Pasalic ,Thay: Andrej Kramaric
+43,Croatia,90,substitution,Lovro Majer ,Thay: Mateo Kovacic
+43,ĐT Bỉ,46,substitution,Romelu Lukaku ,Thay: Dries Mertens
+43,ĐT Bỉ,59,substitution,Thorgan Hazard ,Thay: Leandro Trossard
+43,ĐT Bỉ,67,yellow_card,Leander Dendoncker,
+43,ĐT Bỉ,72,substitution,Jeremy Doku ,Thay: Yannick Carrasco
+43,ĐT Bỉ,72,substitution,Youri Tielemans ,Thay: Leander Dendoncker
+43,ĐT Bỉ,87,substitution,Eden Hazard ,Thay: Thomas Meunier
+44,Costa Rica,46,substitution,Youstin Salas ,Thay: Brandon Aguilera
+44,Costa Rica,58,goal,Yeltsin Tejeda,
+44,Costa Rica,70,goal, Manuel Neuer,og
+44,Costa Rica,74,substitution,Jewison Bennette ,Thay: Keysher Fuller
+44,Costa Rica,74,substitution,Ronald Matarrita ,Thay: Johan Venegas
+44,Costa Rica,77,yellow_card,Oscar Duarte,
+44,Costa Rica,90,substitution,Anthony Contreras ,Thay: Yeltsin Tejeda
+44,Costa Rica,90,substitution,Roan Wilson ,Thay: Bryan Oviedo
+44,ĐT Đức,10,goal,Serge Gnabry ,Kiến tạo: David Raum
+44,ĐT Đức,46,substitution,Lukas Klostermann ,Thay: Leon Goretzka
+44,ĐT Đức,55,substitution,Niclas Fuellkrug ,Thay: Ilkay Gundogan
+44,ĐT Đức,66,substitution,Kai Havertz ,Thay: Thomas Mueller
+44,ĐT Đức,66,substitution,Mario Goetze ,Thay: David Raum
+44,ĐT Đức,73,goal,Kai Havertz ,Kiến tạo: Niclas Fuellkrug
+44,ĐT Đức,85,goal,Kai Havertz ,Kiến tạo: Serge Gnabry
+44,ĐT Đức,89,goal,Niclas Fuellkrug ,Kiến tạo: Leroy Sane
+44,ĐT Đức,90,substitution,Matthias Ginter ,Thay: Niklas Suele
+45,Nhật Bản,39,yellow_card,Ko Itakura,
+45,Nhật Bản,44,yellow_card,Shogo Taniguchi,
+45,Nhật Bản,45,yellow_card,Maya Yoshida,
+45,Nhật Bản,48,goal,Ritsu Doan ,Kiến tạo: Junya Ito
+45,Nhật Bản,46,substitution,Ritsu Doan ,Thay: Takefusa Kubo
+45,Nhật Bản,46,substitution,Kaoru Mitoma ,Thay: Yuto Nagatomo
+45,Nhật Bản,51,goal,Ao Tanaka ,Kiến tạo: Kaoru Mitoma
+45,Nhật Bản,62,substitution,Takuma Asano ,Thay: Daizen Maeda
+45,Nhật Bản,68,substitution,Takehiro Tomiyasu ,Thay: Daichi Kamada
+45,Nhật Bản,87,substitution,Wataru Endo ,Thay: Ao Tanaka
+45,ĐT Tây Ban Nha,11,goal,Alvaro Morata ,Kiến tạo: Cesar Azpilicueta
+45,ĐT Tây Ban Nha,46,substitution,Dani Carvajal ,Thay: Cesar Azpilicueta
+45,ĐT Tây Ban Nha,46,substitution,Daniel Carvajal ,Thay: Cesar Azpilicueta
+45,ĐT Tây Ban Nha,57,substitution,Ferran Torres ,Thay: Nico Williams
+45,ĐT Tây Ban Nha,57,substitution,Marco Asensio ,Thay: Alvaro Morata
+45,ĐT Tây Ban Nha,68,substitution,Ansu Fati ,Thay: Gavi
+45,ĐT Tây Ban Nha,68,substitution,Jordi Alba ,Thay: Alex Balde
+46,Ghana,21,penalty_nogoal, Andre Ayew,Pen
+46,Ghana,46,substitution,Kamaldeen Sulemana ,Thay: Jordan Ayew
+46,Ghana,46,substitution,Osman Bukari ,Thay: Andre Ayew
+46,Ghana,72,substitution,Antoine Semenyo ,Thay: Inaki Williams
+46,Ghana,72,substitution,Daniel-Kofi Kyereh ,Thay: Salis Abdul Samed
+46,Ghana,86,yellow_card,Kamaldeen Sulemana,
+46,Ghana,90,substitution,Abdul Issahaku ,Thay: Mohammed Kudus
+46,Ghana,90+9',yellow_card,Alidu Seidu,
+46,Uruguay,20,yellow_card,Darwin Nunez,
+46,Uruguay,26,goal,Giorgian De Arrascaeta,
+46,Uruguay,32,goal,Giorgian De Arrascaeta ,Kiến tạo: Luis Suarez
+46,Uruguay,34,substitution,Matias Vecino ,Thay: Rodrigo Bentancur
+46,Uruguay,60,yellow_card,Luis Suarez,
+46,Uruguay,66,substitution,Edinson Cavani ,Thay: Luis Suarez
+46,Uruguay,66,substitution,Nicolas de la Cruz ,Thay: Facundo Pellistri
+46,Uruguay,80,substitution,Maximiliano Gomez ,Thay: Giorgian De Arrascaeta
+46,Uruguay,80,substitution,Agustin Canobbio ,Thay: Darwin Nunez
+46,Uruguay,87,yellow_card,Sebastian Coates,
+46,Uruguay,90+10',yellow_card,Edinson Cavani,
+46,Uruguay,90+10',yellow_card,Jose Gimenez,
+47,Hàn Quốc,27,goal,Young-Gwon Kim,
+47,Hàn Quốc,36,yellow_card,Kang-In Lee,
+47,Hàn Quốc,65,substitution,Hee-Chan Hwang ,Thay: Jae-Sung Lee
+47,Hàn Quốc,81,substitution,Joon-Ho Son ,Thay: Kang-In Lee
+47,Hàn Quốc,81,substitution,Ui-Jo Hwang ,Thay: Young-Gwon Kim
+47,Hàn Quốc,90+1',goal,Hee-Chan Hwang ,Kiến tạo: Heung-Min Son
+47,Hàn Quốc,90+2',yellow_card,Hee-Chan Hwang,
+47,Hàn Quốc,90,substitution,Yu-Min Cho ,Thay: Gue-Sung Cho
+47,ĐT Bồ Đào Nha,5,goal,Ricardo Horta ,Kiến tạo: Diogo Dalot
+47,ĐT Bồ Đào Nha,65,substitution,Joao Palhinha ,Thay: Matheus Nunes
+47,ĐT Bồ Đào Nha,65,substitution,Andre Silva ,Thay: Cristiano Ronaldo
+47,ĐT Bồ Đào Nha,65,substitution,Rafael Leao ,Thay: Ruben Neves
+47,ĐT Bồ Đào Nha,81,substitution,William Carvalho ,Thay: Vitinha
+47,ĐT Bồ Đào Nha,81,substitution,Bernardo Silva ,Thay: Joao Mario
+48,Cameroon,6,yellow_card,Nouhou Tolo,
+48,Cameroon,28,yellow_card,Pierre Kunde,
+48,Cameroon,32,yellow_card,Collins Fai,
+48,Cameroon,64,substitution,Karl Toko Ekambi ,Thay: Bryan Mbeumo
+48,Cameroon,68,substitution,Olivier Ntcham ,Thay: Pierre Kunde
+48,Cameroon,81,yellow_card,Vincent Aboubakar,
+48,Cameroon,86,substitution,Jerome Mbekeli ,Thay: Nicolas Ngamaleu
+48,Cameroon,90+2',goal,Vincent Aboubakar ,Kiến tạo: Jerome Mbekeli
+48,Cameroon,90+3',yellow_red_card,Vincent Aboubakar,
+48,Brazil,7,yellow_card,Eder Militao,
+48,Brazil,54,substitution,Marquinhos ,Thay: Alex Telles
+48,Brazil,54,substitution,Bruno Guimaraes ,Thay: Fred
+48,Brazil,54,substitution,Everton Ribeiro ,Thay: Rodrygo
+48,Brazil,64,substitution,Pedro ,Thay: Gabriel Jesus
+48,Brazil,79,substitution,Raphinha ,Thay: Antony
+48,Brazil,85,yellow_card,Bruno Guimaraes,
+49,Serbia,26,goal,Aleksandar Mitrovic ,Kiến tạo: Dusan Tadic
+49,Serbia,35,goal,Dusan Vlahovic,
+49,Serbia,47,yellow_card,Sergej Milinkovic-Savic,
+49,Serbia,56,yellow_card,Strahinja Pavlovic,
+49,Serbia,55,substitution,Luka Jovic ,Thay: Dusan Vlahovic
+49,Serbia,55,substitution,Nemanja Gudelj ,Thay: Milos Veljkovic
+49,Serbia,66,yellow_card,Predrag Rajkovic,
+49,Serbia,68,substitution,Nemanja Maksimovic ,Thay: Sergej Milinkovic-Savic
+49,Serbia,78,substitution,Filip Djuricic ,Thay: Dusan Tadic
+49,Serbia,78,substitution,Nemanja Radonjic ,Thay: Andrija Zivkovic
+49,Serbia,81,yellow_card,Nemanja Gudelj,
+49,Serbia,82,yellow_card,Aleksandar Mitrovic,
+49,Serbia,90+5',yellow_card,Nikola Milenkovic,
+49,Serbia,90+10',yellow_card,Sasa Lukic,
+49,Thụy Sĩ,15,yellow_card,Silvan Widmer,
+49,Thụy Sĩ,20,goal,Xherdan Shaqiri ,Kiến tạo: Djibril Sow
+49,Thụy Sĩ,34,yellow_card,Ruben Vargas,
+49,Thụy Sĩ,44,goal,Breel Embolo ,Kiến tạo: Silvan Widmer
+49,Thụy Sĩ,48,goal,Remo Freuler ,Kiến tạo: Ruben Vargas
+49,Thụy Sĩ,69,substitution,Edimilson Fernandes ,Thay: Djibril Sow
+49,Thụy Sĩ,69,substitution,Denis Zakaria ,Thay: Xherdan Shaqiri
+49,Thụy Sĩ,83,substitution,Christian Fassnacht ,Thay: Ruben Vargas
+49,Thụy Sĩ,90+5',yellow_card,Granit Xhaka,
+49,Thụy Sĩ,90,substitution,Noah Okafor ,Thay: Breel Embolo
+49,Thụy Sĩ,90+9',yellow_card,Fabian Schaer,
+50,Hà Lan,10,goal,Memphis Depay ,Kiến tạo: Denzel Dumfries
+50,Hà Lan,45+1',goal,Daley Blind ,Kiến tạo: Denzel Dumfries
+50,Hà Lan,46,substitution,Teun Koopmeiners ,Thay: Davy Klaassen
+50,Hà Lan,46,substitution,Steven Bergwijn ,Thay: Marten de Roon
+50,Hà Lan,60,yellow_card,Teun Koopmeiners,
+50,Hà Lan,81,goal,Denzel Dumfries ,Kiến tạo: Daley Blind
+50,Hà Lan,87,yellow_card,Frenkie de Jong,
+50,Hà Lan,82,substitution,Xavi Simons ,Thay: Memphis Depay
+50,Hà Lan,90,substitution,Matthijs de Ligt ,Thay: Nathan Ake
+50,Hà Lan,90,substitution,Wout Weghorst ,Thay: Cody Gakpo
+50,Mỹ,46,substitution,Giovanni Reyna ,Thay: Jesus Ferreira
+50,Mỹ,67,substitution,Brenden Aaronson ,Thay: Timothy Weah
+50,Mỹ,67,substitution,Haji Wright ,Thay: Weston McKennie
+50,Mỹ,76,goal,Haji Wright ,Kiến tạo: Christian Pulisic
+50,Mỹ,76,substitution,DeAndre Yedlin ,Thay: Sergino Dest
+50,Mỹ,90,substitution,Jordan Morris ,Thay: Antonee Robinson
+51,Argentina,35,goal,Lionel Messi ,Kiến tạo: Nicolas Otamendi
+51,Argentina,50,substitution,Lisandro Martinez ,Thay: Alejandro Gomez
+51,Argentina,57,goal,Julian Alvarez,
+51,Argentina,71,substitution,Lautaro Martinez ,Thay: Julian Alvarez
+51,Argentina,72,substitution,Nicolas Tagliafico ,Thay: Marcos Acuna
+51,Argentina,80,substitution,Exequiel Palacios ,Thay: Alexis Mac Allister
+51,Argentina,80,substitution,Gonzalo Montiel ,Thay: Nahuel Molina
+51,Australia,15,yellow_card,Jackson Irvine,
+51,Australia,38,yellow_card,Milos Degenek,
+51,Australia,58,substitution,Craig Goodwin ,Thay: Riley McGree
+51,Australia,58,substitution,Ajdin Hrustic ,Thay: Keanu Baccus
+51,Australia,72,substitution,Garang Kuol ,Thay: Matthew Leckie
+51,Australia,72,substitution,Fran Karacic ,Thay: Milos Degenek
+51,Australia,72,substitution,Jamie Maclaren ,Thay: Mitchell Duke
+51,Australia,77,goal, Enzo Fernandez,og
+52,Pháp,32,yellow_card,Aurelien Tchouameni,
+52,Pháp,44,goal,Olivier Giroud ,Kiến tạo: Kylian Mbappe
+52,Pháp,66,substitution,Youssouf Fofana ,Thay: Aurelien Tchouameni
+52,Pháp,74,goal,Kylian Mbappe ,Kiến tạo: Ousmane Dembele
+52,Pháp,76,substitution,Marcus Thuram ,Thay: Olivier Giroud
+52,Pháp,76,substitution,Kingsley Coman ,Thay: Ousmane Dembele
+52,Pháp,90+1',goal,Kylian Mbappe ,Kiến tạo: Marcus Thuram
+52,Pháp,90,substitution,Axel Disasi ,Thay: Jules Kounde
+52,Ba Lan,47,yellow_card,Bartosz Bereszynski,
+52,Ba Lan,64,substitution,Arkadiusz Milik ,Thay: Sebastian Szymanski
+52,Ba Lan,71,substitution,Nicola Zalewski ,Thay: Jakub Kaminski
+52,Ba Lan,71,substitution,Krystian Bielik ,Thay: Grzegorz Krychowiak
+52,Ba Lan,87,substitution,Jan Bednarek ,Thay: Jakub Kiwior
+52,Ba Lan,87,substitution,Kamil Grosicki ,Thay: Przemyslaw Frankowski
+52,Ba Lan,88,yellow_card,Matty Cash,
+52,Ba Lan,90+8',penalty_nogoal, Robert Lewandowski,Pen
+52,Ba Lan,90+9',goal, Robert Lewandowski,Pen
+53,ĐT Anh,38,goal,Jordan Henderson ,Kiến tạo: Jude Bellingham
+53,ĐT Anh,45+3',goal,Harry Kane ,Kiến tạo: Phil Foden
+53,ĐT Anh,57,goal,Bukayo Saka ,Kiến tạo: Phil Foden
+53,ĐT Anh,65,substitution,Jack Grealish ,Thay: Phil Foden
+53,ĐT Anh,65,substitution,Marcus Rashford ,Thay: Bukayo Saka
+53,ĐT Anh,76,substitution,Mason Mount ,Thay: Jude Bellingham
+53,ĐT Anh,76,substitution,Eric Dier ,Thay: John Stones
+53,ĐT Anh,82,substitution,Kalvin Phillips ,Thay: Jordan Henderson
+53,Senegal,46,substitution,Pape Sarr ,Thay: Krepin Diatta
+53,Senegal,46,substitution,Ahmadou Bamba Dieng ,Thay: Iliman Ndiaye
+53,Senegal,46,substitution,Pape Gueye ,Thay: Pathe Ciss
+53,Senegal,72,substitution,Famara Diedhiou ,Thay: Boulaye Dia
+53,Senegal,76,yellow_card,Kalidou Koulibaly,
+53,Senegal,84,substitution,Fode Ballo-Toure ,Thay: Ismail Jakobs
+54,Nhật Bản,43,goal,Daizen Maeda ,Kiến tạo: Maya Yoshida
+54,Nhật Bản,64,substitution,Kaoru Mitoma ,Thay: Yuto Nagatomo
+54,Nhật Bản,64,substitution,Takuma Asano ,Thay: Daizen Maeda
+54,Nhật Bản,75,substitution,Hiroki Sakai ,Thay: Daichi Kamada
+54,Nhật Bản,87,substitution,Takumi Minamino ,Thay: Ritsu Doan
+54,Nhật Bản,106,substitution,Ao Tanaka ,Thay: Hidemasa Morita
+54,Croatia,55,goal,Ivan Perisic ,Kiến tạo: Dejan Lovren
+54,Croatia,62,substitution,Ante Budimir ,Thay: Bruno Petkovic
+54,Croatia,68,substitution,Mario Pasalic ,Thay: Andrej Kramaric
+54,Croatia,90,yellow_card,Mateo Kovacic,
+54,Croatia,99,substitution,Lovro Majer ,Thay: Luka Modric
+54,Croatia,99,substitution,Nikola Vlasic ,Thay: Mateo Kovacic
+54,Croatia,106,substitution,Marko Livaja ,Thay: Ante Budimir
+54,Croatia,106,substitution,Mislav Orsic ,Thay: Ivan Perisic
+54,Croatia,116,yellow_card,Borna Barisic,
+55,Brazil,7,goal,Vinicius Junior ,Kiến tạo: Neymar
+55,Brazil,13,goal, Neymar,Pen
+55,Brazil,29,goal,Richarlison ,Kiến tạo: Thiago Silva
+55,Brazil,36,goal,Lucas Paqueta ,Kiến tạo: Vinicius Junior
+55,Brazil,63,substitution,Dani Alves ,Thay: Eder Militao
+55,Brazil,72,substitution,Gleison Bremer ,Thay: Danilo
+55,Brazil,72,substitution,Gabriel Martinelli ,Thay: Vinicius Junior
+55,Brazil,80,substitution,Weverton ,Thay: Alisson Becker
+55,Brazil,80,substitution,Rodrygo ,Thay: Neymar
+55,Hàn Quốc,44,yellow_card,Woo-Young Jung,
+55,Hàn Quốc,46,substitution,Chul Hong ,Thay: Jin-Su Kim
+55,Hàn Quốc,46,substitution,Joon-Ho Son ,Thay: Woo-Young Jung
+55,Hàn Quốc,65,substitution,Seung-Ho Paik ,Thay: In-Beom Hwang
+55,Hàn Quốc,74,substitution,Kang-In Lee ,Thay: Jae-Sung Lee
+55,Hàn Quốc,76,goal,Seung-Ho Paik,
+55,Hàn Quốc,80,substitution,Ui-Jo Hwang ,Thay: Gue-Sung Cho
+56,Ma rốc,66,substitution,Abdessamad Ezzalzouli ,Thay: Sofiane Boufal
+56,Ma rốc,82,substitution,Abdelhamid Sabiri ,Thay: Youssef En-Nesyri
+56,Ma rốc,82,substitution,Walid Cheddira ,Thay: Selim Amallah
+56,Ma rốc,82,substitution,Yahia Attiyat Allah ,Thay: Noussair Mazraoui
+56,Ma rốc,84,substitution,Jawad El Yamiq ,Thay: Naif Aguerd
+56,Ma rốc,90,yellow_card,Romain Saiss,
+56,Ma rốc,120,substitution,Badr Banoune ,Thay: Azzedine Ounahi
+56,Tây Ban Nha,63,substitution,Carlos Soler ,Thay: Gavi
+56,Tây Ban Nha,63,substitution,Alvaro Morata ,Thay: Marco Asensio
+56,Tây Ban Nha,75,substitution,Nico Williams ,Thay: Ferran Torres
+56,Tây Ban Nha,77,yellow_card,Aymeric Laporte,
+56,Tây Ban Nha,98,substitution,Ansu Fati ,Thay: Dani Olmo
+56,Tây Ban Nha,98,substitution,Alex Balde ,Thay: Jordi Alba
+56,Tây Ban Nha,118,substitution,Pablo Sarabia ,Thay: Nico Williams
+57,Bồ Đào Nha,17,goal,Goncalo Ramos ,Kiến tạo: Joao Felix
+57,Bồ Đào Nha,33,goal,Pepe ,Kiến tạo: Bruno Fernandes
+57,Bồ Đào Nha,51,goal,Goncalo Ramos ,Kiến tạo: Diogo Dalot
+57,Bồ Đào Nha,55,goal,Raphael Guerreiro ,Kiến tạo: Goncalo Ramos
+57,Bồ Đào Nha,67,goal,Goncalo Ramos ,Kiến tạo: Joao Felix
+57,Bồ Đào Nha,74,substitution,Cristiano Ronaldo ,Thay: Goncalo Ramos
+57,Bồ Đào Nha,74,substitution,Vitinha ,Thay: Otavio
+57,Bồ Đào Nha,74,substitution,Ricardo Horta ,Thay: Joao Felix
+57,Bồ Đào Nha,81,substitution,Ruben Neves ,Thay: Bernardo Silva
+57,Bồ Đào Nha,87,substitution,Rafael Leao ,Thay: Bruno Fernandes
+57,Bồ Đào Nha,90+2',goal,Rafael Leao ,Kiến tạo: Raphael Guerreiro
+57,Thụy Sĩ,43,yellow_card,Fabian Schaer,
+57,Thụy Sĩ,46,substitution,Eray Comert ,Thay: Fabian Schar
+57,Thụy Sĩ,46,substitution,Eray Coemert ,Thay: Fabian Schaer
+57,Thụy Sĩ,54,substitution,Denis Zakaria ,Thay: Remo Freuler
+57,Thụy Sĩ,54,substitution,Haris Seferovic ,Thay: Djibril Sow
+57,Thụy Sĩ,58,goal,Manuel Akanji,
+57,Thụy Sĩ,59,yellow_card,Eray Coemert,
+57,Thụy Sĩ,66,substitution,Noah Okafor ,Thay: Ruben Vargas
+57,Thụy Sĩ,89,substitution,Ardon Jashari ,Thay: Breel Embolo
+58,Croatia,7,goal,Josko Gvardiol ,Kiến tạo: Ivan Perisic
+58,Croatia,42,goal,Mislav Orsic ,Kiến tạo: Marko Livaja
+58,Croatia,61,substitution,Nikola Vlasic ,Thay: Andrej Kramaric
+58,Croatia,66,substitution,Mario Pasalic ,Thay: Marko Livaja
+58,Croatia,66,substitution,Bruno Petkovic ,Thay: Lovro Majer
+58,Croatia,90,substitution,Kristijan Jakic ,Thay: Mislav Orsic
+58,Ma rốc,9,goal,Achraf Dari,
+58,Ma rốc,46,substitution,Ilias Chair ,Thay: Abdelhamid Sabiri
+58,Ma rốc,56,substitution,Azzedine Ounahi ,Thay: Bilal El Khannous
+58,Ma rốc,64,substitution,Anass Zaroury ,Thay: Sofiane Boufal
+58,Ma rốc,64,substitution,Badr Banoune ,Thay: Achraf Dari
+58,Ma rốc,67,substitution,Selim Amallah ,Thay: Jawad El Yamiq
+58,Ma rốc,69,yellow_card,Azzedine Ounahi,
+58,Ma rốc,84,yellow_card,Selim Amallah,
+59,Croatia,31,yellow_card,Marcelo Brozovic,
+59,Croatia,72,substitution,Bruno Petkovic ,Thay: Andrej Kramaric
+59,Croatia,72,substitution,Nikola Vlasic ,Thay: Mario Pasalic
+59,Croatia,106,substitution,Lovro Majer ,Thay: Mateo Kovacic
+59,Croatia,110,substitution,Ante Budimir ,Thay: Borna Sosa
+59,Croatia,114,substitution,Mislav Orsic ,Thay: Marcelo Brozovic
+59,Croatia,117,goal,Bruno Petkovic ,Kiến tạo: Mislav Orsic
+59,Croatia,117,yellow_card,Bruno Petkovic,
+59,Brazil,25,yellow_card,Danilo,
+59,Brazil,56,substitution,Antony ,Thay: Raphinha
+59,Brazil,64,substitution,Rodrygo ,Thay: Vinicius Junior
+59,Brazil,68,yellow_card,Casemiro,
+59,Brazil,77,yellow_card,Marquinhos,
+59,Brazil,84,substitution,Pedro ,Thay: Richarlison
+59,Brazil,105+1',goal,Neymar ,Kiến tạo: Lucas Paqueta
+59,Brazil,106,substitution,Alex Sandro ,Thay: Eder Militao
+59,Brazil,106,substitution,Fred ,Thay: Lucas Paqueta
+60,Hà Lan,43,yellow_card,Jurrien Timber,
+60,Hà Lan,45+2',yellow_card,Wout Weghorst,
+60,Hà Lan,46,substitution,Teun Koopmeiners ,Thay: Marten De Roon
+60,Hà Lan,46,substitution,Steven Berghuis ,Thay: Steven Bergwijn
+60,Hà Lan,64,substitution,Luuk de Jong ,Thay: Daley Blind
+60,Hà Lan,76,yellow_card,Memphis Depay,
+60,Hà Lan,78,substitution,Wout Weghorst ,Thay: Memphis Depay
+60,Hà Lan,83,goal,Wout Weghorst ,Kiến tạo: Steven Berghuis
+60,Hà Lan,88,yellow_card,Steven Berghuis,
+60,Hà Lan,89,yellow_card,Virgil van Dijk,
+60,Hà Lan,90+11',goal,Wout Weghorst ,Kiến tạo: Teun Koopmeiners
+60,Hà Lan,91,yellow_card,Steven Bergwijn,
+60,Hà Lan,91,yellow_card,Virgil van Dijk,
+60,Hà Lan,113,substitution,Noa Lang ,Thay: Cody Gakpo
+60,Hà Lan,121,yellow_card,Denzel Dumfries,
+60,Hà Lan,121,yellow_card,Noa Lang,
+60,Hà Lan,121,yellow_red_card,Denzel Dumfries,
+60,Argentina,35,goal,Nahuel Molina ,Kiến tạo: Lionel Messi
+60,Argentina,43,yellow_card,Marcos Acuna,
+60,Argentina,45,yellow_card,Cristian Romero,
+60,Argentina,67,substitution,Leandro Paredes ,Thay: Rodrigo De Paul
+60,Argentina,73,goal, Lionel Messi,Pen
+60,Argentina,76,yellow_card,Lisandro Martinez,
+60,Argentina,78,substitution,Nicolas Tagliafico ,Thay: Marcos Acuna
+60,Argentina,78,substitution,German Pezzella ,Thay: Cristian Romero
+60,Argentina,82,substitution,Lautaro Martinez ,Thay: Julian Alvarez
+60,Argentina,89,yellow_card,Leandro Paredes,
+60,Argentina,90+7',yellow_card,Lionel Scaloni,
+60,Argentina,90+10',yellow_card,Lionel Messi,
+60,Argentina,90+12',yellow_card,Nicolas Otamendi,
+60,Argentina,106,substitution,Gonzalo Montiel ,Thay: Nahuel Molina
+60,Argentina,110,yellow_card,Gonzalo Montiel,
+60,Argentina,112,substitution,Angel Di Maria ,Thay: Lisandro Martinez
+60,Argentina,112,yellow_card,German Pezzella,
+60,Argentina,90,yellow_card,Lionel Scaloni,
+61,Ma rốc,42,goal,Youssef En-Nesyri ,Kiến tạo: Yahia Attiyat Allah
+61,Ma rốc,57,substitution,Achraf Dari ,Thay: Romain Saiss
+61,Ma rốc,65,substitution,Walid Cheddira ,Thay: Selim Amallah
+61,Ma rốc,65,substitution,Badr Banoune ,Thay: Youssef En-Nesyri
+61,Ma rốc,70,yellow_card,Achraf Dari,
+61,Ma rốc,82,substitution,Zakaria Aboukhlal ,Thay: Hakim Ziyech
+61,Ma rốc,82,substitution,Yahya Jabrane ,Thay: Sofiane Boufal
+61,Ma rốc,90+1',yellow_card,Walid Cheddira,
+61,Ma rốc,90+3',yellow_red_card,Walid Cheddira,
+61,Bồ Đào Nha,51,substitution,Joao Cancelo ,Thay: Raphael Guerreiro
+61,Bồ Đào Nha,51,substitution,Cristiano Ronaldo ,Thay: Ruben Neves
+61,Bồ Đào Nha,69,substitution,Vitinha ,Thay: Otavio
+61,Bồ Đào Nha,69,substitution,Rafael Leao ,Thay: Goncalo Ramos
+61,Bồ Đào Nha,79,substitution,Ricardo Horta ,Thay: Diogo Dalot
+61,Bồ Đào Nha,87,yellow_card,Vitinha,
+62,Anh,54,goal, Harry Kane,Pen
+62,Anh,79,substitution,Mason Mount ,Thay: Jordan Henderson
+62,Anh,79,substitution,Raheem Sterling ,Thay: Bukayo Saka
+62,Anh,84,penalty_nogoal, Harry Kane,Pen
+62,Anh,85,substitution,Marcus Rashford ,Thay: Phil Foden
+62,Anh,90,yellow_card,Harry Maguire,
+62,Anh,90,substitution,Jack Grealish ,Thay: John Stones
+62,Pháp,17,goal,Aurelien Tchouameni ,Kiến tạo: Antoine Griezmann
+62,Pháp,43,yellow_card,Antoine Griezmann,
+62,Pháp,46,yellow_card,Ousmane Dembele,
+62,Pháp,78,goal,Olivier Giroud ,Kiến tạo: Antoine Griezmann
+62,Pháp,79,substitution,Kingsley Coman ,Thay: Ousmane Dembele
+62,Pháp,82,yellow_card,Theo Hernandez,
+63,Argentina,34,goal, Lionel Messi,Pen
+63,Argentina,39,goal,Julian Alvarez,
+63,Argentina,62,substitution,Lisandro Martinez ,Thay: Leandro Paredes
+63,Argentina,68,yellow_card,Cristian Romero,
+63,Argentina,69,goal,Julian Alvarez ,Kiến tạo: Lionel Messi
+63,Argentina,71,yellow_card,Nicolas Otamendi,
+63,Argentina,74,substitution,Exequiel Palacios ,Thay: Rodrigo De Paul
+63,Argentina,74,substitution,Paulo Dybala ,Thay: Julian Alvarez
+63,Argentina,86,substitution,Angel Correa ,Thay: Alexis Mac Allister
+63,Argentina,86,substitution,Juan Foyth ,Thay: Nahuel Molina
+63,Croatia,32,yellow_card,Dominik Livakovic,
+63,Croatia,32,yellow_card,Mateo Kovacic,
+63,Croatia,46,substitution,Mislav Orsic ,Thay: Borna Sosa
+63,Croatia,46,substitution,Nikola Vlasic ,Thay: Mario Pasalic
+63,Croatia,50,substitution,Bruno Petkovic ,Thay: Marcelo Brozovic
+63,Croatia,72,substitution,Marko Livaja ,Thay: Andrej Kramaric
+63,Croatia,81,substitution,Lovro Majer ,Thay: Luka Modric
+64,Pháp,5,goal,Theo Hernandez,
+64,Pháp,65,substitution,Marcus Thuram ,Thay: Olivier Giroud
+64,Pháp,78,substitution,Randal Kolo Muani ,Thay: Ousmane Dembele
+64,Pháp,79,goal,Randal Kolo Muani,
+64,Ma rốc,21,substitution,Selim Amallah ,Thay: Romain Saiss
+64,Ma rốc,27,yellow_card,Sofiane Boufal,
+64,Ma rốc,46,substitution,Yahia Attiyat Allah ,Thay: Noussair Mazraoui
+64,Ma rốc,66,substitution,Abderrazak Hamdallah ,Thay: Youssef En-Nesyri
+64,Ma rốc,66,substitution,Zakaria Aboukhlal ,Thay: Sofiane Boufal
+64,Ma rốc,78,substitution,Abdessamad Ezzalzouli ,Thay: Selim Amallah

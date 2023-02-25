@@ -12,8 +12,8 @@ link_matchs = []
 for item in items:
     url = item.find("a")["href"]
     link_matchs.append(domain + url)
-# print(soup.prettify())
-
+# remove duplicate matches
+link_matchs = link_matchs[4:]
 with open("data/links.txt", "w") as f:
     for link in link_matchs:
         f.write(link + "\n")

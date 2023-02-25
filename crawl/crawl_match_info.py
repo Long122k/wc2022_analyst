@@ -136,25 +136,25 @@ def crawl():
     match_line_up_label = ["match_id", "team", "line_up", "player1", "player2", "player3", "player4", "player5", "player6", "player7", "player8", "player9", "player10", "player11"]
 
     # write the data to a CSV file
-    with open('match_info.csv', 'w', newline='') as csvfile:
+    with open('./data/match_info.csv', 'w', newline='') as csvfile:
         writer = csv.writer(csvfile)
         writer.writerow(match_info_label)
         for match in match_infos:
             writer.writerow(match)
     
-    with open('match_stat.csv', 'w', newline='') as csvfile2:
+    with open('./data/match_stat.csv', 'w', newline='') as csvfile2:
         writer = csv.writer(csvfile2)
         writer.writerow(match_stat_label)
         for match in match_stats:
             writer.writerow(match)
     
-    with open('match_event.csv', 'w', newline='') as csvfile3:
+    with open('./data/match_event.csv', 'w', newline='') as csvfile3:
         writer = csv.writer(csvfile3)
         writer.writerow(match_event_label)
         for match in match_events:
             writer.writerow(match)
 
-    with open('match_line_up.csv', 'w', newline='') as csvfile4:
+    with open('./data/match_line_up.csv', 'w', newline='') as csvfile4:
         writer = csv.writer(csvfile4)
         writer.writerow(match_line_up_label)
         for match in match_line_ups:

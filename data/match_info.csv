@@ -1,65 +1,65 @@
 match_id,home_team,away_team,home_score,away_score,hour,date,stadium,round
-1,Argentina,Croatia,3,0,02:00,14/12/2022,Lusail Stadium,Vòng bán kết
-2,Pháp,Ma rốc,2,0,02:00,15/12/2022,Al Bayt Stadium,Vòng bán kết
-3,Croatia,Ma rốc,2,1,22:00,17/12/2022,Khalifa International Stadium,Tranh giải ba
-4,Argentina,Pháp,3,3,22:00,18/12/2022,Lusail Stadium,Chung kết
-5,Argentina,Pháp,3,3,22:00,18/12/2022,Lusail Stadium,Chung kết
-6,Qatar,Ecuador,0,2,23:00,20/11/2022,Al Bayt Stadium,Vòng bảng
-7,ĐT Anh,Iran,6,2,20:00,21/11/2022,Khalifa International Stadium,Vòng bảng
-8,Senegal,ĐT Hà Lan,0,2,23:00,21/11/2022,Al Thumama Stadium,Vòng bảng
-9,Mỹ,Wales,1,1,02:00,22/11/2022,Ahmed bin Ali Stadium,Vòng bảng
-10,Argentina,Ả Rập Xê-út,1,2,17:00,22/11/2022,Lusail Stadium,Vòng bảng
-11,ĐT Đan Mạch,Tunisia,0,0,20:00,22/11/2022,Education City Stadium,Vòng bảng
-12,Mexico,Ba Lan,0,0,23:00,22/11/2022,Stadium 974,Vòng bảng
-13,ĐT Pháp,Australia,4,1,02:00,23/11/2022,Al Janoub Stadium,Vòng bảng
-14,Ma rốc,Croatia,0,0,17:00,23/11/2022,Al Bayt Stadium,Vòng bảng
-15,ĐT Đức,Nhật Bản,1,2,20:00,23/11/2022,Khalifa International Stadium,Vòng bảng
-16,ĐT Tây Ban Nha,Costa Rica,7,0,23:00,23/11/2022,Al Thumama Stadium,Vòng bảng
-17,ĐT Bỉ,Canada,1,0,02:00,24/11/2022,Ahmed bin Ali Stadium,Vòng bảng
-18,Thụy Sĩ,Cameroon,1,0,17:00,24/11/2022,Al Janoub Stadium,Vòng bảng
-19,Uruguay,Hàn Quốc,0,0,20:00,24/11/2022,Education City Stadium,Vòng bảng
-20,ĐT Bồ Đào Nha,Ghana,3,2,23:00,24/11/2022,Stadium 974,Vòng bảng
-21,Brazil,Serbia,2,0,02:00,25/11/2022,Lusail Stadium,Vòng bảng
-22,Wales,Iran,0,2,17:00,25/11/2022,Ahmed bin Ali Stadium,Vòng bảng
-23,Qatar,Senegal,1,3,20:00,25/11/2022,Al Thumama Stadium,Vòng bảng
-24,ĐT Hà Lan,Ecuador,1,1,23:00,25/11/2022,Khalifa International Stadium,Vòng bảng
-25,ĐT Anh,Mỹ,0,0,02:00,26/11/2022,Al Bayt Stadium,Vòng bảng
-26,Tunisia,Australia,0,1,17:00,26/11/2022,Al Janoub Stadium,Vòng bảng
-27,Ba Lan,Ả Rập Xê-út,2,0,20:00,26/11/2022,Education City Stadium,Vòng bảng
-28,ĐT Pháp,ĐT Đan Mạch,2,1,23:00,26/11/2022,Stadium 974,Vòng bảng
-29,Argentina,Mexico,2,0,02:00,27/11/2022,Lusail Stadium,Vòng bảng
-30,Nhật Bản,Costa Rica,0,1,17:00,27/11/2022,Ahmed bin Ali Stadium,Vòng bảng
-31,ĐT Bỉ,Ma rốc,0,2,20:00,27/11/2022,Al Thumama Stadium,Vòng bảng
-32,Croatia,Canada,4,1,23:00,27/11/2022,Khalifa International Stadium,Vòng bảng
-33,ĐT Tây Ban Nha,ĐT Đức,1,1,02:00,28/11/2022,Al Bayt Stadium,Vòng bảng
-34,Cameroon,Serbia,3,3,17:00,28/11/2022,Al Janoub Stadium,Vòng bảng
-35,Hàn Quốc,Ghana,2,3,20:00,28/11/2022,Education City Stadium,Vòng bảng
-36,Brazil,Thụy Sĩ,1,0,23:00,28/11/2022,Stadium 974,Vòng bảng
-37,ĐT Bồ Đào Nha,Uruguay,2,0,02:00,29/11/2022,Lusail Stadium,Vòng bảng
-38,Ecuador,Senegal,1,2,22:00,29/11/2022,Khalifa International Stadium,Vòng bảng
-39,ĐT Hà Lan,Qatar,2,0,22:00,29/11/2022,Al Bayt Stadium,Vòng bảng
-40,Iran,Mỹ,0,1,02:00,30/11/2022,Al Thumama Stadium,Vòng bảng
-41,Wales,ĐT Anh,0,3,02:00,30/11/2022,Ahmed bin Ali Stadium,Vòng bảng
-42,Tunisia,ĐT Pháp,1,0,22:00,30/11/2022,Education City Stadium,Vòng bảng
-43,Australia,ĐT Đan Mạch,1,0,22:00,30/11/2022,Al Janoub Stadium,Vòng bảng
-44,Ba Lan,Argentina,0,2,02:00,01/12/2022,Stadium 974,Vòng bảng
-45,Ả Rập Xê-út,Mexico,1,2,02:00,01/12/2022,Lusail Stadium,Vòng bảng
-46,Canada,Ma rốc,1,2,22:00,01/12/2022,Al Thumama Stadium,Vòng bảng
-47,Croatia,ĐT Bỉ,0,0,22:00,01/12/2022,Ahmed bin Ali Stadium,Vòng bảng
-48,Costa Rica,ĐT Đức,2,4,02:00,02/12/2022,Al Bayt Stadium,Vòng bảng
-49,Nhật Bản,ĐT Tây Ban Nha,2,1,02:00,02/12/2022,Khalifa International Stadium,Vòng bảng
-50,Ghana,Uruguay,0,2,22:00,02/12/2022,Al Janoub Stadium,Vòng bảng
-51,Hàn Quốc,ĐT Bồ Đào Nha,2,1,22:00,02/12/2022,Education City Stadium,Vòng bảng
-52,Cameroon,Brazil,1,0,02:00,03/12/2022,Lusail Stadium,Vòng bảng
-53,Serbia,Thụy Sĩ,2,3,02:00,03/12/2022,Stadium 974,Vòng bảng
-54,Hà Lan,Mỹ,3,1,22:00,03/12/2022,Khalifa International Stadium,Vòng 1/8
-55,Argentina,Australia,2,1,02:00,04/12/2022,Ahmed bin Ali Stadium,Vòng 1/8
-56,Pháp,Ba Lan,3,1,22:00,04/12/2022,Al Thumama Stadium,Vòng 1/8
-57,ĐT Anh,Senegal,3,0,02:00,05/12/2022,Al Bayt Stadium,Vòng 1/8
-58,Nhật Bản,Croatia,1,1,22:00,05/12/2022,Al Janoub Stadium,Vòng 1/8
-59,Brazil,Hàn Quốc,4,1,02:00,06/12/2022,Stadium 974,Vòng 1/8
-60,Ma rốc,Tây Ban Nha,0,0,22:00,06/12/2022,Education City Stadium,Vòng 1/8
-61,Bồ Đào Nha,Thụy Sĩ,6,1,02:00,07/12/2022,Lusail Stadium,Vòng 1/8
-62,Croatia,Ma rốc,2,1,22:00,17/12/2022,Khalifa International Stadium,Tranh giải ba
-63,Croatia,Brazil,1,1,22:00,09/12/2022,Education City Stadium,Vòng tứ kết
-64,Hà Lan,Argentina,2,2,02:00,10/12/2022,Lusail Stadium,Vòng tứ kết
+1,Argentina,Pháp,3,3,22:00,18/12/2022,Lusail Stadium,Chung kết
+2,Qatar,Ecuador,0,2,23:00,20/11/2022,Al Bayt Stadium,Vòng bảng
+3,ĐT Anh,Iran,6,2,20:00,21/11/2022,Khalifa International Stadium,Vòng bảng
+4,Senegal,ĐT Hà Lan,0,2,23:00,21/11/2022,Al Thumama Stadium,Vòng bảng
+5,Mỹ,Wales,1,1,02:00,22/11/2022,Ahmed bin Ali Stadium,Vòng bảng
+6,Argentina,Ả Rập Xê-út,1,2,17:00,22/11/2022,Lusail Stadium,Vòng bảng
+7,ĐT Đan Mạch,Tunisia,0,0,20:00,22/11/2022,Education City Stadium,Vòng bảng
+8,Mexico,Ba Lan,0,0,23:00,22/11/2022,Stadium 974,Vòng bảng
+9,ĐT Pháp,Australia,4,1,02:00,23/11/2022,Al Janoub Stadium,Vòng bảng
+10,Ma rốc,Croatia,0,0,17:00,23/11/2022,Al Bayt Stadium,Vòng bảng
+11,ĐT Đức,Nhật Bản,1,2,20:00,23/11/2022,Khalifa International Stadium,Vòng bảng
+12,ĐT Tây Ban Nha,Costa Rica,7,0,23:00,23/11/2022,Al Thumama Stadium,Vòng bảng
+13,ĐT Bỉ,Canada,1,0,02:00,24/11/2022,Ahmed bin Ali Stadium,Vòng bảng
+14,Thụy Sĩ,Cameroon,1,0,17:00,24/11/2022,Al Janoub Stadium,Vòng bảng
+15,Uruguay,Hàn Quốc,0,0,20:00,24/11/2022,Education City Stadium,Vòng bảng
+16,ĐT Bồ Đào Nha,Ghana,3,2,23:00,24/11/2022,Stadium 974,Vòng bảng
+17,Brazil,Serbia,2,0,02:00,25/11/2022,Lusail Stadium,Vòng bảng
+18,Wales,Iran,0,2,17:00,25/11/2022,Ahmed bin Ali Stadium,Vòng bảng
+19,Qatar,Senegal,1,3,20:00,25/11/2022,Al Thumama Stadium,Vòng bảng
+20,ĐT Hà Lan,Ecuador,1,1,23:00,25/11/2022,Khalifa International Stadium,Vòng bảng
+21,ĐT Anh,Mỹ,0,0,02:00,26/11/2022,Al Bayt Stadium,Vòng bảng
+22,Tunisia,Australia,0,1,17:00,26/11/2022,Al Janoub Stadium,Vòng bảng
+23,Ba Lan,Ả Rập Xê-út,2,0,20:00,26/11/2022,Education City Stadium,Vòng bảng
+24,ĐT Pháp,ĐT Đan Mạch,2,1,23:00,26/11/2022,Stadium 974,Vòng bảng
+25,Argentina,Mexico,2,0,02:00,27/11/2022,Lusail Stadium,Vòng bảng
+26,Nhật Bản,Costa Rica,0,1,17:00,27/11/2022,Ahmed bin Ali Stadium,Vòng bảng
+27,ĐT Bỉ,Ma rốc,0,2,20:00,27/11/2022,Al Thumama Stadium,Vòng bảng
+28,Croatia,Canada,4,1,23:00,27/11/2022,Khalifa International Stadium,Vòng bảng
+29,ĐT Tây Ban Nha,ĐT Đức,1,1,02:00,28/11/2022,Al Bayt Stadium,Vòng bảng
+30,Cameroon,Serbia,3,3,17:00,28/11/2022,Al Janoub Stadium,Vòng bảng
+31,Hàn Quốc,Ghana,2,3,20:00,28/11/2022,Education City Stadium,Vòng bảng
+32,Brazil,Thụy Sĩ,1,0,23:00,28/11/2022,Stadium 974,Vòng bảng
+33,ĐT Bồ Đào Nha,Uruguay,2,0,02:00,29/11/2022,Lusail Stadium,Vòng bảng
+34,Ecuador,Senegal,1,2,22:00,29/11/2022,Khalifa International Stadium,Vòng bảng
+35,ĐT Hà Lan,Qatar,2,0,22:00,29/11/2022,Al Bayt Stadium,Vòng bảng
+36,Wales,ĐT Anh,0,3,02:00,30/11/2022,Ahmed bin Ali Stadium,Vòng bảng
+37,Iran,Mỹ,0,1,02:00,30/11/2022,Al Thumama Stadium,Vòng bảng
+38,Tunisia,ĐT Pháp,1,0,22:00,30/11/2022,Education City Stadium,Vòng bảng
+39,Australia,ĐT Đan Mạch,1,0,22:00,30/11/2022,Al Janoub Stadium,Vòng bảng
+40,Ba Lan,Argentina,0,2,02:00,01/12/2022,Stadium 974,Vòng bảng
+41,Ả Rập Xê-út,Mexico,1,2,02:00,01/12/2022,Lusail Stadium,Vòng bảng
+42,Canada,Ma rốc,1,2,22:00,01/12/2022,Al Thumama Stadium,Vòng bảng
+43,Croatia,ĐT Bỉ,0,0,22:00,01/12/2022,Ahmed bin Ali Stadium,Vòng bảng
+44,Costa Rica,ĐT Đức,2,4,02:00,02/12/2022,Al Bayt Stadium,Vòng bảng
+45,Nhật Bản,ĐT Tây Ban Nha,2,1,02:00,02/12/2022,Khalifa International Stadium,Vòng bảng
+46,Ghana,Uruguay,0,2,22:00,02/12/2022,Al Janoub Stadium,Vòng bảng
+47,Hàn Quốc,ĐT Bồ Đào Nha,2,1,22:00,02/12/2022,Education City Stadium,Vòng bảng
+48,Cameroon,Brazil,1,0,02:00,03/12/2022,Lusail Stadium,Vòng bảng
+49,Serbia,Thụy Sĩ,2,3,02:00,03/12/2022,Stadium 974,Vòng bảng
+50,Hà Lan,Mỹ,3,1,22:00,03/12/2022,Khalifa International Stadium,Vòng 1/8
+51,Argentina,Australia,2,1,02:00,04/12/2022,Ahmed bin Ali Stadium,Vòng 1/8
+52,Pháp,Ba Lan,3,1,22:00,04/12/2022,Al Thumama Stadium,Vòng 1/8
+53,ĐT Anh,Senegal,3,0,02:00,05/12/2022,Al Bayt Stadium,Vòng 1/8
+54,Nhật Bản,Croatia,1,1,22:00,05/12/2022,Al Janoub Stadium,Vòng 1/8
+55,Brazil,Hàn Quốc,4,1,02:00,06/12/2022,Stadium 974,Vòng 1/8
+56,Ma rốc,Tây Ban Nha,0,0,22:00,06/12/2022,Education City Stadium,Vòng 1/8
+57,Bồ Đào Nha,Thụy Sĩ,6,1,02:00,07/12/2022,Lusail Stadium,Vòng 1/8
+58,Croatia,Ma rốc,2,1,22:00,17/12/2022,Khalifa International Stadium,Tranh giải ba
+59,Croatia,Brazil,1,1,22:00,09/12/2022,Education City Stadium,Vòng tứ kết
+60,Hà Lan,Argentina,2,2,02:00,10/12/2022,Lusail Stadium,Vòng tứ kết
+61,Ma rốc,Bồ Đào Nha,1,0,22:00,10/12/2022,Al Thumama Stadium,Vòng tứ kết
+62,Anh,Pháp,1,2,02:00,11/12/2022,Al Bayt Stadium,Vòng tứ kết
+63,Argentina,Croatia,3,0,02:00,14/12/2022,Lusail Stadium,Vòng bán kết
+64,Pháp,Ma rốc,2,0,02:00,15/12/2022,Al Bayt Stadium,Vòng bán kết
