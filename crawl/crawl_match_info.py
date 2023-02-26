@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import csv
-
+import json
 
 def get_match_info(soup, matchId):
     soup = soup.find('div', id='pn-neo')
@@ -31,7 +31,31 @@ def get_match_stat(soup, matchId, teamName, id):
     analyst = soup.find_all('span', class_ = 'statistics_number'+ str(id))
     for item in analyst:
         stat.append(item.text)
-    return stat
+    # stat architecture each match is different from others
+    name_mapping = {
+        "Kiểm soát bóng": "possession",
+        "Phạm lỗi": "foul",
+        "Ném biên": "throw_in",
+        "Việt vị": "offside",
+        "Chuyền dài": "long_pass",
+        "Phạt góc": "corner",
+        "Thẻ vàng": "yellow_card",
+        "Thẻ đỏ": "red_card",
+        "Thẻ vàng thứ 2": "second_yellow_card",
+        "Sút trúng đích": "shot_on_target",
+        "Sút không trúng đích": "shot_off_target",
+        "Cú sút bị chặn": "blocked_shot",
+        "Phản công": "counter_attack",
+        "Thủ môn cản phá": "goalkeeper_save",
+        "Phát bóng": "goal_kick",
+        "Chăm sóc y tế": "medical_care",
+    }   
+    stat_label = ['match_id', 'team']
+    get_label = soup.find_all('span', class_ = 'statistics_text')
+    for label in get_label:
+        stat_label.append(name_mapping[label.text])
+    result = dict(zip(stat_label, stat))
+    return result
 
 # ["yellow_card", "red_card", "second_yellow_card", "shot_on_target", "shot_off_target", "blocked_shot", "counter_attack", "goalkeeper_save", "goal_kick", "medical_care"]
 
@@ -95,7 +119,7 @@ def get_line_up(soup1, matchId, teamName, id):
 
 def crawl():
     match_infos = []
-    match_stats = []
+    match_stats = {}
     match_events = []
     match_line_ups = []
 
@@ -119,8 +143,8 @@ def crawl():
         home_line_up = get_line_up(soup, matchId, match_info[1], 0)
         away_line_up = get_line_up(soup, matchId, match_info[2], 1)
         match_infos.append(match_info)
-        match_stats.append(home_stat)
-        match_stats.append(away_stat)
+        match_stats[i] = (home_stat)
+        match_stats[64+i] = (away_stat)
         match_line_ups.append(home_line_up)
         match_line_ups.append(away_line_up)
         for event in home_event:
@@ -142,11 +166,13 @@ def crawl():
         for match in match_infos:
             writer.writerow(match)
     
-    with open('./data/match_stat.csv', 'w', newline='') as csvfile2:
-        writer = csv.writer(csvfile2)
-        writer.writerow(match_stat_label)
-        for match in match_stats:
-            writer.writerow(match)
+    # with open('./data/match_stat.csv', 'w', newline='') as csvfile2:
+    #     writer = csv.writer(csvfile2)
+    #     writer.writerow(match_stat_label)
+    #     for match in match_stats:
+    #         writer.writerow(match)
+    with open('./data/match_stat.json', 'w') as f:
+        json.dump(match_stats, f)
     
     with open('./data/match_event.csv', 'w', newline='') as csvfile3:
         writer = csv.writer(csvfile3)
@@ -162,4 +188,4 @@ def crawl():
 crawl()
 
 
-
+# [Kiểm soát bóng, Phạm lỗi, Ném biên, Việt vị, Chuyền dài, Phạt góc, Thẻ vàng, Thẻ đỏ, Thẻ vàng thứ 2, Sút trúng đích, Sút không trúng đích, Cú sút bị chặn, Phản công, Thủ môn cản phá, Phát bóng, Chăm sóc y tế]
