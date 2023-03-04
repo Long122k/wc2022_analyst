@@ -918,8 +918,8 @@
       </output>
     </remotesteps>
     <GUI>
-      <xloc>720</xloc>
-      <yloc>208</yloc>
+      <xloc>608</xloc>
+      <yloc>352</yloc>
       <draw>Y</draw>
     </GUI>
   </step>
@@ -1064,86 +1064,6 @@
     </GUI>
   </step>
   <step>
-    <name>match_info_fact</name>
-    <type>TableOutput</type>
-    <description/>
-    <distribute>Y</distribute>
-    <custom_distribution/>
-    <copies>1</copies>
-    <partitioning>
-      <method>none</method>
-      <schema_name/>
-    </partitioning>
-    <connection>wc_connection</connection>
-    <schema>wc2022</schema>
-    <table>match_info</table>
-    <commit>1000</commit>
-    <truncate>Y</truncate>
-    <ignore_errors>N</ignore_errors>
-    <use_batch>N</use_batch>
-    <specify_fields>Y</specify_fields>
-    <partitioning_enabled>N</partitioning_enabled>
-    <partitioning_field/>
-    <partitioning_daily>N</partitioning_daily>
-    <partitioning_monthly>Y</partitioning_monthly>
-    <tablename_in_field>N</tablename_in_field>
-    <tablename_field/>
-    <tablename_in_table>Y</tablename_in_table>
-    <return_keys>N</return_keys>
-    <return_field/>
-    <fields>
-      <field>
-        <column_name>match_id</column_name>
-        <stream_name>match_id</stream_name>
-      </field>
-      <field>
-        <column_name>home_team</column_name>
-        <stream_name>home_team</stream_name>
-      </field>
-      <field>
-        <column_name>away_team</column_name>
-        <stream_name>away_team</stream_name>
-      </field>
-      <field>
-        <column_name>home_score</column_name>
-        <stream_name>home_score</stream_name>
-      </field>
-      <field>
-        <column_name>away_score</column_name>
-        <stream_name>away_score</stream_name>
-      </field>
-      <field>
-        <column_name>hour</column_name>
-        <stream_name>hour</stream_name>
-      </field>
-      <field>
-        <column_name>date</column_name>
-        <stream_name>date</stream_name>
-      </field>
-      <field>
-        <column_name>stadium</column_name>
-        <stream_name>stadium</stream_name>
-      </field>
-      <field>
-        <column_name>round</column_name>
-        <stream_name>round</stream_name>
-      </field>
-    </fields>
-    <attributes/>
-    <cluster_schema/>
-    <remotesteps>
-      <input>
-      </input>
-      <output>
-      </output>
-    </remotesteps>
-    <GUI>
-      <xloc>896</xloc>
-      <yloc>208</yloc>
-      <draw>Y</draw>
-    </GUI>
-  </step>
-  <step>
     <name>match_info_excel</name>
     <type>ExcelOutput</type>
     <description/>
@@ -1256,8 +1176,88 @@
       </output>
     </remotesteps>
     <GUI>
-      <xloc>1056</xloc>
-      <yloc>208</yloc>
+      <xloc>256</xloc>
+      <yloc>352</yloc>
+      <draw>Y</draw>
+    </GUI>
+  </step>
+  <step>
+    <name>match_info_fact</name>
+    <type>TableOutput</type>
+    <description/>
+    <distribute>Y</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+      <schema_name/>
+    </partitioning>
+    <connection>wc_connection</connection>
+    <schema>wc2022</schema>
+    <table>match_info</table>
+    <commit>1000</commit>
+    <truncate>Y</truncate>
+    <ignore_errors>N</ignore_errors>
+    <use_batch>N</use_batch>
+    <specify_fields>Y</specify_fields>
+    <partitioning_enabled>N</partitioning_enabled>
+    <partitioning_field/>
+    <partitioning_daily>N</partitioning_daily>
+    <partitioning_monthly>Y</partitioning_monthly>
+    <tablename_in_field>N</tablename_in_field>
+    <tablename_field/>
+    <tablename_in_table>Y</tablename_in_table>
+    <return_keys>N</return_keys>
+    <return_field/>
+    <fields>
+      <field>
+        <column_name>match_id</column_name>
+        <stream_name>match_id</stream_name>
+      </field>
+      <field>
+        <column_name>home_team</column_name>
+        <stream_name>home_team</stream_name>
+      </field>
+      <field>
+        <column_name>away_team</column_name>
+        <stream_name>away_team</stream_name>
+      </field>
+      <field>
+        <column_name>home_score</column_name>
+        <stream_name>home_score</stream_name>
+      </field>
+      <field>
+        <column_name>away_score</column_name>
+        <stream_name>away_score</stream_name>
+      </field>
+      <field>
+        <column_name>hour</column_name>
+        <stream_name>hour</stream_name>
+      </field>
+      <field>
+        <column_name>date</column_name>
+        <stream_name>date</stream_name>
+      </field>
+      <field>
+        <column_name>stadium</column_name>
+        <stream_name>stadium</stream_name>
+      </field>
+      <field>
+        <column_name>round</column_name>
+        <stream_name>round</stream_name>
+      </field>
+    </fields>
+    <attributes/>
+    <cluster_schema/>
+    <remotesteps>
+      <input>
+      </input>
+      <output>
+      </output>
+    </remotesteps>
+    <GUI>
+      <xloc>432</xloc>
+      <yloc>352</yloc>
       <draw>Y</draw>
     </GUI>
   </step>

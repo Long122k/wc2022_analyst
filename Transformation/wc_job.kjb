@@ -420,10 +420,10 @@
           <name>/home/dolong/Documents/Project3/wc2022_analyst/data/match_line_up.csv</name>
         </field>
         <field>
-          <name>/home/dolong/Documents/Project3/wc2022_analyst/data/match_stat.csv</name>
+          <name>/home/dolong/Documents/Project3/wc2022_analyst/data/players_info.csv</name>
         </field>
         <field>
-          <name>/home/dolong/Documents/Project3/wc2022_analyst/data/players_info.csv</name>
+          <name>/home/dolong/Documents/Project3/wc2022_analyst/data/match_stat.json</name>
         </field>
       </fields>
       <parallel>N</parallel>

@@ -1,16 +1,9 @@
 # wc2022_analyst
-## Crawl wc 2022 data and analyze
 
-## install libwebkitgtk
+![](./pipeline.png)
+## Data source:
 
-    sudo nano /etc/apt/sources.list
-    Add this entry to the file and save:
+https://bongda24h.vn/vck-world-cup/ket-qua-41.html
+https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_squads
 
-    deb http://cz.archive.ubuntu.com/ubuntu bionic main universe
-
-    sudo apt-get update
-
-    sudo apt-get install libwebkitgtk-1.0-0 -> if you are using Vega and jdk of 64 bits
-
-    sudo apt-get install libwebkitgtk-1.0-0:i386 -> if you are using Vega and jdk of 32 bits
 
